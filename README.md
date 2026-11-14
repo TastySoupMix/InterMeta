@@ -12,8 +12,9 @@ Short, task-oriented guides are available for
 
 ## Start here
 
-Install this source directory with `remotes::install_local("InterMeta")`, then
-load `library(InterMeta)`. See the installation section below for dependencies.
+Install from GitHub with `remotes::install_github("TastySoupMix/InterMeta")`,
+then load `library(InterMeta)`. See the installation section below for
+dependencies and installation of a fixed version.
 
 The principal worked research example is **TCGA-PRAD**. The small synthetic
 cohort is a separate offline software check and does not represent TCGA data.
@@ -279,15 +280,15 @@ with reference results and input fingerprints.
 
 ## Installation
 
-Install from the uploaded source folder in RStudio Server:
+Install from GitHub in R or RStudio:
 
 ```r
 if (!requireNamespace("remotes", quietly = TRUE)) {
   install.packages("remotes")
 }
 
-remotes::install_local(
-  "/path/to/InterMeta",
+remotes::install_github(
+  "TastySoupMix/InterMeta",
   dependencies = TRUE,
   upgrade = "never",
   force = TRUE
@@ -296,6 +297,21 @@ remotes::install_local(
 library(InterMeta)
 packageVersion("InterMeta")
 ```
+
+To install the fixed 1.1.4 snapshot:
+
+```r
+remotes::install_github(
+  "TastySoupMix/InterMeta",
+  ref = "v1.1.4",
+  dependencies = TRUE,
+  upgrade = "never",
+  force = TRUE
+)
+```
+
+A downloaded source folder can also be installed with
+`remotes::install_local("/path/to/InterMeta")`.
 
 The expected package version for this snapshot is `1.1.4`. The internal
 two-stage workflow/checkpoint schema remains backward compatible with 1.1.0.
