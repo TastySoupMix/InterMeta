@@ -1,0 +1,52 @@
+Package: InterMeta
+Type: Package
+Title: Inferring Prognostic Interactions Between Metabolic Pathways
+Version: 1.1.4
+Authors@R: c(
+    person("Zeheng", "Tan",
+           email = "tzh19970915@163.com",
+           role = c("aut", "cre")),
+    person("Chenyang Skylar", "Li", role = "ctb",
+           comment = "Author of code portions adapted from TimiGP; see inst/NOTICE")
+    )
+Description: A metabolic-pathway adaptation of the TimiGP gene-pair framework
+    described by Li et al. (2023) <doi:10.1016/j.xcrm.2023.101121>.
+    InterMeta uses bulk transcriptomic profiles, survival information, and
+    curated metabolic pathway gene sets to infer directional pathway-pathway
+    interactions and identify metabolic pathways associated with favorable or
+    unfavorable prognosis. An optional post-analysis evidence layer builds
+    reproducible PubMed searches, pathway-level biological syntheses, and
+    source-quote-validated AI-assisted reports. A resumable two-stage AI
+    workflow can screen PubMed articles before synthesizing each pathway and
+    renders a fixed article-ready evidence figure,
+    with selectable model-service clients and a provider-neutral extension interface,
+    without sending patient-level inputs.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+Depends:
+    R (>= 4.0.0)
+Imports:
+    circlize (>= 0.4.16),
+    digest,
+    doParallel,
+    foreach,
+    ggplot2,
+    graphics,
+    grDevices,
+    grid,
+    parallel,
+    stats,
+    survival,
+    utils
+Suggests:
+    data.table,
+    httr2,
+    jsonlite,
+    systemfonts,
+    testthat (>= 3.0.0),
+    xml2
+Config/testthat/edition: 3
+Config/InterMeta/AIContractRevision: 20260908-two-stage-screen-synthesis-v1
+Config/InterMeta/AIValidationRevision: 20260908-candidate-id-replay-v1

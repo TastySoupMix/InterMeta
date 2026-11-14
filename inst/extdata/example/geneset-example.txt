@@ -1,0 +1,31 @@
+Pathway	Gene	Dataset
+Glycolysis Gluconeogenesis	HK2	synthetic_example
+Glycolysis Gluconeogenesis	PFKP	synthetic_example
+Glycolysis Gluconeogenesis	GAPDH	synthetic_example
+Glycolysis Gluconeogenesis	PKM	synthetic_example
+Glycolysis Gluconeogenesis	LDHA	synthetic_example
+Glutathione metabolism	GCLC	synthetic_example
+Glutathione metabolism	GCLM	synthetic_example
+Glutathione metabolism	GSS	synthetic_example
+Glutathione metabolism	GSR	synthetic_example
+Glutathione metabolism	GSTP1	synthetic_example
+Arginine and proline metabolism	ARG2	synthetic_example
+Arginine and proline metabolism	OAT	synthetic_example
+Arginine and proline metabolism	PRODH	synthetic_example
+Arginine and proline metabolism	PYCR1	synthetic_example
+Arginine and proline metabolism	ALDH18A1	synthetic_example
+Oxidative phosphorylation	NDUFA1	synthetic_example
+Oxidative phosphorylation	NDUFS1	synthetic_example
+Oxidative phosphorylation	UQCRC1	synthetic_example
+Oxidative phosphorylation	COX5A	synthetic_example
+Oxidative phosphorylation	ATP5F1A	synthetic_example
+TCA cycle	CS	synthetic_example
+TCA cycle	ACO2	synthetic_example
+TCA cycle	IDH3A	synthetic_example
+TCA cycle	OGDH	synthetic_example
+TCA cycle	SUCLG1	synthetic_example
+Fatty acid degradation	ACADM	synthetic_example
+Fatty acid degradation	ACADL	synthetic_example
+Fatty acid degradation	CPT1A	synthetic_example
+Fatty acid degradation	HADHA	synthetic_example
+Fatty acid degradation	HADHB	synthetic_example

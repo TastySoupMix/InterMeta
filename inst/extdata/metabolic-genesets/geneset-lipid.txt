@@ -1,0 +1,799 @@
+	CellType	Gene	Dataset
+1	Propanoate metabolism	ACSS1	lipid
+2	Propanoate metabolism	ACSS2	lipid
+3	Propanoate metabolism	ACSS3	lipid
+4	Propanoate metabolism	BCKDHA	lipid
+5	Propanoate metabolism	BCKDHB	lipid
+6	Propanoate metabolism	DBT	lipid
+7	Propanoate metabolism	DLD	lipid
+8	Propanoate metabolism	ACADM	lipid
+9	Propanoate metabolism	HADHA	lipid
+10	Propanoate metabolism	EHHADH	lipid
+11	Propanoate metabolism	ECHS1	lipid
+12	Propanoate metabolism	HIBCH	lipid
+13	Propanoate metabolism	ACACA	lipid
+14	Propanoate metabolism	ACACB	lipid
+15	Propanoate metabolism	MLYCD	lipid
+16	Propanoate metabolism	ABAT	lipid
+17	Propanoate metabolism	PCCA	lipid
+18	Propanoate metabolism	PCCB	lipid
+19	Propanoate metabolism	ECHDC1	lipid
+20	Propanoate metabolism	MCEE	lipid
+21	Propanoate metabolism	MUT	lipid
+22	Propanoate metabolism	SUCLG1	lipid
+23	Propanoate metabolism	SUCLG2	lipid
+24	Propanoate metabolism	SUCLA2	lipid
+25	Propanoate metabolism	ALDH6A1	lipid
+26	Propanoate metabolism	LDHAL6A	lipid
+27	Propanoate metabolism	LDHAL6B	lipid
+28	Propanoate metabolism	LDHA	lipid
+29	Propanoate metabolism	LDHB	lipid
+30	Propanoate metabolism	LDHC	lipid
+31	Propanoate metabolism	ACAT2	lipid
+32	Propanoate metabolism	ACAT1	lipid
+33	Butanoate metabolism	ACAT2	lipid
+34	Butanoate metabolism	ACAT1	lipid
+35	Butanoate metabolism	HADH	lipid
+36	Butanoate metabolism	HADHA	lipid
+37	Butanoate metabolism	EHHADH	lipid
+38	Butanoate metabolism	ECHS1	lipid
+39	Butanoate metabolism	ACADS	lipid
+40	Butanoate metabolism	ACSM1	lipid
+41	Butanoate metabolism	ACSM2A	lipid
+42	Butanoate metabolism	ACSM4	lipid
+43	Butanoate metabolism	ACSM5	lipid
+44	Butanoate metabolism	ACSM3	lipid
+45	Butanoate metabolism	ACSM2B	lipid
+46	Butanoate metabolism	ACSM6	lipid
+47	Butanoate metabolism	L2HGDH	lipid
+48	Butanoate metabolism	GAD1	lipid
+49	Butanoate metabolism	GAD2	lipid
+50	Butanoate metabolism	ABAT	lipid
+51	Butanoate metabolism	ALDH5A1	lipid
+52	Butanoate metabolism	HMGCS1	lipid
+53	Butanoate metabolism	HMGCS2	lipid
+54	Butanoate metabolism	HMGCL	lipid
+55	Butanoate metabolism	HMGCLL1	lipid
+56	Butanoate metabolism	OXCT1	lipid
+57	Butanoate metabolism	OXCT2	lipid
+58	Butanoate metabolism	AACS	lipid
+59	Butanoate metabolism	BDH1	lipid
+60	Butanoate metabolism	BDH2	lipid
+61	Inositol phosphate metabolism	PIK3C3	lipid
+62	Inositol phosphate metabolism	MTM1	lipid
+63	Inositol phosphate metabolism	MTMR1	lipid
+64	Inositol phosphate metabolism	MTMR2	lipid
+65	Inositol phosphate metabolism	MTMR3	lipid
+66	Inositol phosphate metabolism	MTMR4	lipid
+67	Inositol phosphate metabolism	MTMR8	lipid
+68	Inositol phosphate metabolism	MTMR6	lipid
+69	Inositol phosphate metabolism	MTMR7	lipid
+70	Inositol phosphate metabolism	MTMR14	lipid
+71	Inositol phosphate metabolism	PI4KA	lipid
+72	Inositol phosphate metabolism	PI4KB	lipid
+73	Inositol phosphate metabolism	PI4K2A	lipid
+74	Inositol phosphate metabolism	PI4K2B	lipid
+75	Inositol phosphate metabolism	SACM1L	lipid
+76	Inositol phosphate metabolism	INPP5F	lipid
+77	Inositol phosphate metabolism	PIP5K1C	lipid
+78	Inositol phosphate metabolism	PIP5K1A	lipid
+79	Inositol phosphate metabolism	PIP5K1B	lipid
+80	Inositol phosphate metabolism	PIP5KL1	lipid
+81	Inositol phosphate metabolism	OCRL	lipid
+82	Inositol phosphate metabolism	INPP5B	lipid
+83	Inositol phosphate metabolism	INPP5E	lipid
+84	Inositol phosphate metabolism	SYNJ1	lipid
+85	Inositol phosphate metabolism	SYNJ2	lipid
+86	Inositol phosphate metabolism	PIK3CA	lipid
+87	Inositol phosphate metabolism	PIK3CD	lipid
+88	Inositol phosphate metabolism	PIK3CB	lipid
+89	Inositol phosphate metabolism	PIK3CG	lipid
+90	Inositol phosphate metabolism	PTEN	lipid
+91	Inositol phosphate metabolism	INPP5D	lipid
+92	Inositol phosphate metabolism	INPPL1	lipid
+93	Inositol phosphate metabolism	PIK3C2G	lipid
+94	Inositol phosphate metabolism	PIK3C2A	lipid
+95	Inositol phosphate metabolism	PIK3C2B	lipid
+96	Inositol phosphate metabolism	INPP4A	lipid
+97	Inositol phosphate metabolism	INPP4B	lipid
+98	Inositol phosphate metabolism	PIKFYVE	lipid
+99	Inositol phosphate metabolism	PIP4K2C	lipid
+100	Inositol phosphate metabolism	PIP4K2A	lipid
+101	Inositol phosphate metabolism	PIP4K2B	lipid
+102	Inositol phosphate metabolism	PLCB1	lipid
+103	Inositol phosphate metabolism	PLCB2	lipid
+104	Inositol phosphate metabolism	PLCB3	lipid
+105	Inositol phosphate metabolism	PLCB4	lipid
+106	Inositol phosphate metabolism	PLCD1	lipid
+107	Inositol phosphate metabolism	PLCD3	lipid
+108	Inositol phosphate metabolism	PLCD4	lipid
+109	Inositol phosphate metabolism	PLCE1	lipid
+110	Inositol phosphate metabolism	PLCG1	lipid
+111	Inositol phosphate metabolism	PLCG2	lipid
+112	Inositol phosphate metabolism	PLCZ1	lipid
+113	Inositol phosphate metabolism	PLCH1	lipid
+114	Inositol phosphate metabolism	PLCH2	lipid
+115	Inositol phosphate metabolism	IMPA2	lipid
+116	Inositol phosphate metabolism	IMPA1	lipid
+117	Inositol phosphate metabolism	IMPAD1	lipid
+118	Inositol phosphate metabolism	CDIPT	lipid
+119	Inositol phosphate metabolism	ISYNA1	lipid
+120	Inositol phosphate metabolism	INPP1	lipid
+121	Inositol phosphate metabolism	INPP5K	lipid
+122	Inositol phosphate metabolism	INPP5J	lipid
+123	Inositol phosphate metabolism	INPP5A	lipid
+124	Inositol phosphate metabolism	MINPP1	lipid
+125	Inositol phosphate metabolism	ITPKB	lipid
+126	Inositol phosphate metabolism	ITPKA	lipid
+127	Inositol phosphate metabolism	ITPKC	lipid
+128	Inositol phosphate metabolism	ITPK1	lipid
+129	Inositol phosphate metabolism	IPMK	lipid
+130	Inositol phosphate metabolism	IPPK	lipid
+131	Inositol phosphate metabolism	MIOX	lipid
+132	Inositol phosphate metabolism	ALDH6A1	lipid
+133	Inositol phosphate metabolism	TPI1	lipid
+134	Fatty acid biosynthesis	ACACA	lipid
+135	Fatty acid biosynthesis	ACACB	lipid
+136	Fatty acid biosynthesis	MCAT	lipid
+137	Fatty acid biosynthesis	FASN	lipid
+138	Fatty acid biosynthesis	OXSM	lipid
+139	Fatty acid biosynthesis	OLAH	lipid
+140	Fatty acid biosynthesis	ACSL6	lipid
+141	Fatty acid biosynthesis	ACSL4	lipid
+142	Fatty acid biosynthesis	ACSL1	lipid
+143	Fatty acid biosynthesis	ACSL5	lipid
+144	Fatty acid biosynthesis	ACSL3	lipid
+145	Fatty acid biosynthesis	ACSBG1	lipid
+146	Fatty acid biosynthesis	ACSBG2	lipid
+147	Fatty acid elongation	ACAA2	lipid
+148	Fatty acid elongation	HADHB	lipid
+149	Fatty acid elongation	HADH	lipid
+150	Fatty acid elongation	HADHA	lipid
+151	Fatty acid elongation	ECHS1	lipid
+152	Fatty acid elongation	MECR	lipid
+153	Fatty acid elongation	PPT1	lipid
+154	Fatty acid elongation	PPT2	lipid
+155	Fatty acid elongation	ABHD17A	lipid
+156	Fatty acid elongation	ABHD17B	lipid
+157	Fatty acid elongation	ABHD17C	lipid
+158	Fatty acid elongation	ELOVL1	lipid
+159	Fatty acid elongation	ELOVL2	lipid
+160	Fatty acid elongation	ELOVL3	lipid
+161	Fatty acid elongation	ELOVL4	lipid
+162	Fatty acid elongation	ELOVL5	lipid
+163	Fatty acid elongation	ELOVL6	lipid
+164	Fatty acid elongation	ELOVL7	lipid
+165	Fatty acid elongation	HSD17B12	lipid
+166	Fatty acid elongation	HACD2	lipid
+167	Fatty acid elongation	HACD1	lipid
+168	Fatty acid elongation	HACD4	lipid
+169	Fatty acid elongation	HACD3	lipid
+170	Fatty acid elongation	TECR	lipid
+171	Fatty acid elongation	ACOT4	lipid
+172	Fatty acid elongation	ACOT2	lipid
+173	Fatty acid elongation	ACOT1	lipid
+174	Fatty acid elongation	ACOT7	lipid
+175	Fatty acid elongation	THEM4	lipid
+176	Fatty acid elongation	THEM5	lipid
+177	Fatty acid degradation	ACAT2	lipid
+178	Fatty acid degradation	ACAT1	lipid
+179	Fatty acid degradation	ACAA1	lipid
+180	Fatty acid degradation	ACAA2	lipid
+181	Fatty acid degradation	HADHB	lipid
+182	Fatty acid degradation	HADH	lipid
+183	Fatty acid degradation	HADHA	lipid
+184	Fatty acid degradation	EHHADH	lipid
+185	Fatty acid degradation	ECHS1	lipid
+186	Fatty acid degradation	ACOX3	lipid
+187	Fatty acid degradation	ACOX1	lipid
+188	Fatty acid degradation	ACADS	lipid
+189	Fatty acid degradation	ACADM	lipid
+190	Fatty acid degradation	ACADL	lipid
+191	Fatty acid degradation	ACADSB	lipid
+192	Fatty acid degradation	ACADVL	lipid
+193	Fatty acid degradation	GCDH	lipid
+194	Fatty acid degradation	ACSL6	lipid
+195	Fatty acid degradation	ACSL4	lipid
+196	Fatty acid degradation	ACSL1	lipid
+197	Fatty acid degradation	ACSL5	lipid
+198	Fatty acid degradation	ACSL3	lipid
+199	Fatty acid degradation	ACSBG1	lipid
+200	Fatty acid degradation	ACSBG2	lipid
+201	Fatty acid degradation	CPT1A	lipid
+202	Fatty acid degradation	CPT1B	lipid
+203	Fatty acid degradation	CPT1C	lipid
+204	Fatty acid degradation	CPT2	lipid
+205	Fatty acid degradation	ECI1	lipid
+206	Fatty acid degradation	ECI2	lipid
+207	Fatty acid degradation	CYP4A11	lipid
+208	Fatty acid degradation	CYP4A22	lipid
+209	Fatty acid degradation	ADH1A	lipid
+210	Fatty acid degradation	ADH1B	lipid
+211	Fatty acid degradation	ADH1C	lipid
+212	Fatty acid degradation	ADH7	lipid
+213	Fatty acid degradation	ADH4	lipid
+214	Fatty acid degradation	ADH5	lipid
+215	Fatty acid degradation	ADH6	lipid
+216	Fatty acid degradation	ALDH2	lipid
+217	Fatty acid degradation	ALDH3A2	lipid
+218	Fatty acid degradation	ALDH1B1	lipid
+219	Fatty acid degradation	ALDH7A1	lipid
+220	Fatty acid degradation	ALDH9A1	lipid
+221	Synthesis and degradation of ketone bodies	HMGCS1	lipid
+222	Synthesis and degradation of ketone bodies	HMGCS2	lipid
+223	Synthesis and degradation of ketone bodies	HMGCL	lipid
+224	Synthesis and degradation of ketone bodies	HMGCLL1	lipid
+225	Synthesis and degradation of ketone bodies	OXCT1	lipid
+226	Synthesis and degradation of ketone bodies	OXCT2	lipid
+227	Synthesis and degradation of ketone bodies	ACAT2	lipid
+228	Synthesis and degradation of ketone bodies	ACAT1	lipid
+229	Synthesis and degradation of ketone bodies	BDH1	lipid
+230	Synthesis and degradation of ketone bodies	BDH2	lipid
+231	Steroid biosynthesis	FDFT1	lipid
+232	Steroid biosynthesis	SQLE	lipid
+233	Steroid biosynthesis	LSS	lipid
+234	Steroid biosynthesis	CYP51A1	lipid
+235	Steroid biosynthesis	TM7SF2	lipid
+236	Steroid biosynthesis	MSMO1	lipid
+237	Steroid biosynthesis	NSDHL	lipid
+238	Steroid biosynthesis	HSD17B7	lipid
+239	Steroid biosynthesis	EBP	lipid
+240	Steroid biosynthesis	DHCR24	lipid
+241	Steroid biosynthesis	SC5D	lipid
+242	Steroid biosynthesis	DHCR7	lipid
+243	Steroid biosynthesis	LIPA	lipid
+244	Steroid biosynthesis	CEL	lipid
+245	Steroid biosynthesis	SOAT2	lipid
+246	Steroid biosynthesis	SOAT1	lipid
+247	Steroid biosynthesis	CYP2R1	lipid
+248	Steroid biosynthesis	CYP27B1	lipid
+249	Steroid biosynthesis	CYP24A1	lipid
+250	Primary bile acid biosynthesis	CYP46A1	lipid
+251	Primary bile acid biosynthesis	CYP39A1	lipid
+252	Primary bile acid biosynthesis	HSD3B7	lipid
+253	Primary bile acid biosynthesis	CH25H	lipid
+254	Primary bile acid biosynthesis	CYP7B1	lipid
+255	Primary bile acid biosynthesis	CYP7A1	lipid
+256	Primary bile acid biosynthesis	CYP27A1	lipid
+257	Primary bile acid biosynthesis	CYP8B1	lipid
+258	Primary bile acid biosynthesis	AKR1D1	lipid
+259	Primary bile acid biosynthesis	AKR1C4	lipid
+260	Primary bile acid biosynthesis	SLC27A5	lipid
+261	Primary bile acid biosynthesis	AMACR	lipid
+262	Primary bile acid biosynthesis	ACOX2	lipid
+263	Primary bile acid biosynthesis	HSD17B4	lipid
+264	Primary bile acid biosynthesis	SCP2	lipid
+265	Primary bile acid biosynthesis	ACOT8	lipid
+266	Primary bile acid biosynthesis	BAAT	lipid
+267	Steroid hormone biosynthesis	CYP11A1	lipid
+268	Steroid hormone biosynthesis	CYP17A1	lipid
+269	Steroid hormone biosynthesis	STS	lipid
+270	Steroid hormone biosynthesis	SULT2B1	lipid
+271	Steroid hormone biosynthesis	CYP21A2	lipid
+272	Steroid hormone biosynthesis	HSD3B1	lipid
+273	Steroid hormone biosynthesis	HSD3B2	lipid
+274	Steroid hormone biosynthesis	SRD5A1	lipid
+275	Steroid hormone biosynthesis	SRD5A2	lipid
+276	Steroid hormone biosynthesis	SRD5A3	lipid
+277	Steroid hormone biosynthesis	AKR1C2	lipid
+278	Steroid hormone biosynthesis	AKR1C3	lipid
+279	Steroid hormone biosynthesis	CYP11B1	lipid
+280	Steroid hormone biosynthesis	CYP11B2	lipid
+281	Steroid hormone biosynthesis	AKR1D1	lipid
+282	Steroid hormone biosynthesis	AKR1C4	lipid
+283	Steroid hormone biosynthesis	HSD11B1	lipid
+284	Steroid hormone biosynthesis	HSD11B2	lipid
+285	Steroid hormone biosynthesis	AKR1C1	lipid
+286	Steroid hormone biosynthesis	CYP7B1	lipid
+287	Steroid hormone biosynthesis	SULT1E1	lipid
+288	Steroid hormone biosynthesis	HSD17B1	lipid
+289	Steroid hormone biosynthesis	HSD17B2	lipid
+290	Steroid hormone biosynthesis	HSD17B6	lipid
+291	Steroid hormone biosynthesis	HSD17B7	lipid
+292	Steroid hormone biosynthesis	HSD17B8	lipid
+293	Steroid hormone biosynthesis	HSD17B12	lipid
+294	Steroid hormone biosynthesis	CYP1A1	lipid
+295	Steroid hormone biosynthesis	CYP1A2	lipid
+296	Steroid hormone biosynthesis	CYP3A5	lipid
+297	Steroid hormone biosynthesis	CYP3A7	lipid
+298	Steroid hormone biosynthesis	CYP3A51P	lipid
+299	Steroid hormone biosynthesis	CYP2E1	lipid
+300	Steroid hormone biosynthesis	CYP3A4	lipid
+301	Steroid hormone biosynthesis	CYP1B1	lipid
+302	Steroid hormone biosynthesis	CYP19A1	lipid
+303	Steroid hormone biosynthesis	CYP7A1	lipid
+304	Steroid hormone biosynthesis	UGT2A1	lipid
+305	Steroid hormone biosynthesis	UGT2A3	lipid
+306	Steroid hormone biosynthesis	UGT2B17	lipid
+307	Steroid hormone biosynthesis	UGT2B11	lipid
+308	Steroid hormone biosynthesis	UGT2B28	lipid
+309	Steroid hormone biosynthesis	UGT1A6	lipid
+310	Steroid hormone biosynthesis	UGT1A4	lipid
+311	Steroid hormone biosynthesis	UGT1A1	lipid
+312	Steroid hormone biosynthesis	UGT1A3	lipid
+313	Steroid hormone biosynthesis	UGT2B10	lipid
+314	Steroid hormone biosynthesis	UGT1A9	lipid
+315	Steroid hormone biosynthesis	UGT2B7	lipid
+316	Steroid hormone biosynthesis	UGT1A10	lipid
+317	Steroid hormone biosynthesis	UGT1A8	lipid
+318	Steroid hormone biosynthesis	UGT1A5	lipid
+319	Steroid hormone biosynthesis	UGT2B15	lipid
+320	Steroid hormone biosynthesis	UGT1A7	lipid
+321	Steroid hormone biosynthesis	UGT2B4	lipid
+322	Steroid hormone biosynthesis	UGT2A2	lipid
+323	Steroid hormone biosynthesis	COMT	lipid
+324	Steroid hormone biosynthesis	LRTOMT	lipid
+325	Steroid hormone biosynthesis	HSD17B3	lipid
+326	Glycerolipid metabolism	GLYCTK	lipid
+327	Glycerolipid metabolism	ALDH2	lipid
+328	Glycerolipid metabolism	ALDH3A2	lipid
+329	Glycerolipid metabolism	ALDH1B1	lipid
+330	Glycerolipid metabolism	ALDH7A1	lipid
+331	Glycerolipid metabolism	ALDH9A1	lipid
+332	Glycerolipid metabolism	AKR1B1	lipid
+333	Glycerolipid metabolism	AKR1B10	lipid
+334	Glycerolipid metabolism	AKR1A1	lipid
+335	Glycerolipid metabolism	TKFC	lipid
+336	Glycerolipid metabolism	GK2	lipid
+337	Glycerolipid metabolism	GK	lipid
+338	Glycerolipid metabolism	GPAM	lipid
+339	Glycerolipid metabolism	GPAT2	lipid
+340	Glycerolipid metabolism	GPAT4	lipid
+341	Glycerolipid metabolism	GPAT3	lipid
+342	Glycerolipid metabolism	AGPAT1	lipid
+343	Glycerolipid metabolism	AGPAT2	lipid
+344	Glycerolipid metabolism	AGPAT5	lipid
+345	Glycerolipid metabolism	LCLAT1	lipid
+346	Glycerolipid metabolism	MBOAT1	lipid
+347	Glycerolipid metabolism	MBOAT2	lipid
+348	Glycerolipid metabolism	AGPAT3	lipid
+349	Glycerolipid metabolism	AGPAT4	lipid
+350	Glycerolipid metabolism	PLPP1	lipid
+351	Glycerolipid metabolism	PLPP3	lipid
+352	Glycerolipid metabolism	PLPP2	lipid
+353	Glycerolipid metabolism	LPIN1	lipid
+354	Glycerolipid metabolism	LPIN3	lipid
+355	Glycerolipid metabolism	LPIN2	lipid
+356	Glycerolipid metabolism	PLPP5	lipid
+357	Glycerolipid metabolism	PLPP4	lipid
+358	Glycerolipid metabolism	DGKZ	lipid
+359	Glycerolipid metabolism	DGKD	lipid
+360	Glycerolipid metabolism	DGKI	lipid
+361	Glycerolipid metabolism	DGKA	lipid
+362	Glycerolipid metabolism	DGKE	lipid
+363	Glycerolipid metabolism	DGKB	lipid
+364	Glycerolipid metabolism	DGKH	lipid
+365	Glycerolipid metabolism	DGKG	lipid
+366	Glycerolipid metabolism	DGKQ	lipid
+367	Glycerolipid metabolism	DGKK	lipid
+368	Glycerolipid metabolism	DGAT1	lipid
+369	Glycerolipid metabolism	DGAT2	lipid
+370	Glycerolipid metabolism	MOGAT3	lipid
+371	Glycerolipid metabolism	CEL	lipid
+372	Glycerolipid metabolism	PNPLA2	lipid
+373	Glycerolipid metabolism	PNPLA3	lipid
+374	Glycerolipid metabolism	PNLIP	lipid
+375	Glycerolipid metabolism	PNLIPRP1	lipid
+376	Glycerolipid metabolism	PNLIPRP2	lipid
+377	Glycerolipid metabolism	PNLIPRP3	lipid
+378	Glycerolipid metabolism	LIPC	lipid
+379	Glycerolipid metabolism	LIPF	lipid
+380	Glycerolipid metabolism	LIPG	lipid
+381	Glycerolipid metabolism	LPL	lipid
+382	Glycerolipid metabolism	AGK	lipid
+383	Glycerolipid metabolism	MGLL	lipid
+384	Glycerolipid metabolism	MOGAT1	lipid
+385	Glycerolipid metabolism	MOGAT2	lipid
+386	Glycerolipid metabolism	GLA	lipid
+387	Glycerophospholipid metabolism	GPD1L	lipid
+388	Glycerophospholipid metabolism	GPD1	lipid
+389	Glycerophospholipid metabolism	GPD2	lipid
+390	Glycerophospholipid metabolism	GPAM	lipid
+391	Glycerophospholipid metabolism	GPAT2	lipid
+392	Glycerophospholipid metabolism	GPAT4	lipid
+393	Glycerophospholipid metabolism	GPAT3	lipid
+394	Glycerophospholipid metabolism	AGPAT1	lipid
+395	Glycerophospholipid metabolism	AGPAT2	lipid
+396	Glycerophospholipid metabolism	AGPAT5	lipid
+397	Glycerophospholipid metabolism	LCLAT1	lipid
+398	Glycerophospholipid metabolism	MBOAT1	lipid
+399	Glycerophospholipid metabolism	MBOAT2	lipid
+400	Glycerophospholipid metabolism	AGPAT3	lipid
+401	Glycerophospholipid metabolism	AGPAT4	lipid
+402	Glycerophospholipid metabolism	GNPAT	lipid
+403	Glycerophospholipid metabolism	ADPRM	lipid
+404	Glycerophospholipid metabolism	PLPP1	lipid
+405	Glycerophospholipid metabolism	PLPP3	lipid
+406	Glycerophospholipid metabolism	PLPP2	lipid
+407	Glycerophospholipid metabolism	LPIN1	lipid
+408	Glycerophospholipid metabolism	LPIN3	lipid
+409	Glycerophospholipid metabolism	LPIN2	lipid
+410	Glycerophospholipid metabolism	PLPP5	lipid
+411	Glycerophospholipid metabolism	PLPP4	lipid
+412	Glycerophospholipid metabolism	DGKZ	lipid
+413	Glycerophospholipid metabolism	DGKD	lipid
+414	Glycerophospholipid metabolism	DGKI	lipid
+415	Glycerophospholipid metabolism	DGKA	lipid
+416	Glycerophospholipid metabolism	DGKE	lipid
+417	Glycerophospholipid metabolism	DGKB	lipid
+418	Glycerophospholipid metabolism	DGKH	lipid
+419	Glycerophospholipid metabolism	DGKG	lipid
+420	Glycerophospholipid metabolism	DGKQ	lipid
+421	Glycerophospholipid metabolism	DGKK	lipid
+422	Glycerophospholipid metabolism	CHPT1	lipid
+423	Glycerophospholipid metabolism	CEPT1	lipid
+424	Glycerophospholipid metabolism	PLD1	lipid
+425	Glycerophospholipid metabolism	PLD2	lipid
+426	Glycerophospholipid metabolism	PLD3	lipid
+427	Glycerophospholipid metabolism	PLD4	lipid
+428	Glycerophospholipid metabolism	LCAT	lipid
+429	Glycerophospholipid metabolism	PLA2G10	lipid
+430	Glycerophospholipid metabolism	PLA2G2D	lipid
+431	Glycerophospholipid metabolism	PLA2G2E	lipid
+432	Glycerophospholipid metabolism	PLA2G3	lipid
+433	Glycerophospholipid metabolism	PLA2G2F	lipid
+434	Glycerophospholipid metabolism	PLA2G12A	lipid
+435	Glycerophospholipid metabolism	PLA2G12B	lipid
+436	Glycerophospholipid metabolism	PLA2G1B	lipid
+437	Glycerophospholipid metabolism	PLA2G5	lipid
+438	Glycerophospholipid metabolism	PLA2G2A	lipid
+439	Glycerophospholipid metabolism	PLA2G2C	lipid
+440	Glycerophospholipid metabolism	PLA2G4E	lipid
+441	Glycerophospholipid metabolism	PLA2G4A	lipid
+442	Glycerophospholipid metabolism	JMJD7	lipid
+443	Glycerophospholipid metabolism	PLA2G4B	lipid
+444	Glycerophospholipid metabolism	PLA2G4C	lipid
+445	Glycerophospholipid metabolism	PLA2G4D	lipid
+446	Glycerophospholipid metabolism	PLA2G4F	lipid
+447	Glycerophospholipid metabolism	PLA2G6	lipid
+448	Glycerophospholipid metabolism	PLB1	lipid
+449	Glycerophospholipid metabolism	PLA2G16	lipid
+450	Glycerophospholipid metabolism	LPCAT2	lipid
+451	Glycerophospholipid metabolism	LPCAT1	lipid
+452	Glycerophospholipid metabolism	LPCAT4	lipid
+453	Glycerophospholipid metabolism	LPCAT3	lipid
+454	Glycerophospholipid metabolism	LYPLA1	lipid
+455	Glycerophospholipid metabolism	PLA2G15	lipid
+456	Glycerophospholipid metabolism	LYPLA2	lipid
+457	Glycerophospholipid metabolism	PNPLA6	lipid
+458	Glycerophospholipid metabolism	PNPLA7	lipid
+459	Glycerophospholipid metabolism	GPCPD1	lipid
+460	Glycerophospholipid metabolism	CHAT	lipid
+461	Glycerophospholipid metabolism	ACHE	lipid
+462	Glycerophospholipid metabolism	CHKA	lipid
+463	Glycerophospholipid metabolism	CHKB	lipid
+464	Glycerophospholipid metabolism	PHOSPHO1	lipid
+465	Glycerophospholipid metabolism	PCYT1B	lipid
+466	Glycerophospholipid metabolism	PCYT1A	lipid
+467	Glycerophospholipid metabolism	SELENOI	lipid
+468	Glycerophospholipid metabolism	ETNK1	lipid
+469	Glycerophospholipid metabolism	ETNK2	lipid
+470	Glycerophospholipid metabolism	PCYT2	lipid
+471	Glycerophospholipid metabolism	ETNPPL	lipid
+472	Glycerophospholipid metabolism	PEMT	lipid
+473	Glycerophospholipid metabolism	CDS1	lipid
+474	Glycerophospholipid metabolism	CDS2	lipid
+475	Glycerophospholipid metabolism	PTDSS1	lipid
+476	Glycerophospholipid metabolism	PTDSS2	lipid
+477	Glycerophospholipid metabolism	PISD	lipid
+478	Glycerophospholipid metabolism	PGS1	lipid
+479	Glycerophospholipid metabolism	CRLS1	lipid
+480	Glycerophospholipid metabolism	TAZ	lipid
+481	Glycerophospholipid metabolism	LPGAT1	lipid
+482	Glycerophospholipid metabolism	CDIPT	lipid
+483	Glycerophospholipid metabolism	MBOAT7	lipid
+484	Ether lipid metabolism	AGPS	lipid
+485	Ether lipid metabolism	PLPP1	lipid
+486	Ether lipid metabolism	PLPP3	lipid
+487	Ether lipid metabolism	PLPP2	lipid
+488	Ether lipid metabolism	SELENOI	lipid
+489	Ether lipid metabolism	CHPT1	lipid
+490	Ether lipid metabolism	CEPT1	lipid
+491	Ether lipid metabolism	PLA2G10	lipid
+492	Ether lipid metabolism	PLA2G2D	lipid
+493	Ether lipid metabolism	PLA2G2E	lipid
+494	Ether lipid metabolism	PLA2G3	lipid
+495	Ether lipid metabolism	PLA2G2F	lipid
+496	Ether lipid metabolism	PLA2G12A	lipid
+497	Ether lipid metabolism	PLA2G12B	lipid
+498	Ether lipid metabolism	PLA2G1B	lipid
+499	Ether lipid metabolism	PLA2G5	lipid
+500	Ether lipid metabolism	PLA2G2A	lipid
+501	Ether lipid metabolism	PLA2G2C	lipid
+502	Ether lipid metabolism	PLA2G4E	lipid
+503	Ether lipid metabolism	PLA2G4A	lipid
+504	Ether lipid metabolism	JMJD7	lipid
+505	Ether lipid metabolism	PLA2G4B	lipid
+506	Ether lipid metabolism	PLA2G4C	lipid
+507	Ether lipid metabolism	PLA2G4D	lipid
+508	Ether lipid metabolism	PLA2G4F	lipid
+509	Ether lipid metabolism	PLA2G6	lipid
+510	Ether lipid metabolism	PLB1	lipid
+511	Ether lipid metabolism	PLA2G16	lipid
+512	Ether lipid metabolism	LPCAT4	lipid
+513	Ether lipid metabolism	ENPP6	lipid
+514	Ether lipid metabolism	ENPP2	lipid
+515	Ether lipid metabolism	GDPD3	lipid
+516	Ether lipid metabolism	GDPD1	lipid
+517	Ether lipid metabolism	TMEM86B	lipid
+518	Ether lipid metabolism	PLD1	lipid
+519	Ether lipid metabolism	PLD2	lipid
+520	Ether lipid metabolism	PLD3	lipid
+521	Ether lipid metabolism	PLD4	lipid
+522	Ether lipid metabolism	UGT8	lipid
+523	Ether lipid metabolism	GAL3ST1	lipid
+524	Ether lipid metabolism	LPCAT2	lipid
+525	Ether lipid metabolism	LPCAT1	lipid
+526	Ether lipid metabolism	PAFAH1B1	lipid
+527	Ether lipid metabolism	PAFAH1B2	lipid
+528	Ether lipid metabolism	PAFAH1B3	lipid
+529	Ether lipid metabolism	PLA2G7	lipid
+530	Ether lipid metabolism	PAFAH2	lipid
+531	Sphingolipid metabolism	SPTLC1	lipid
+532	Sphingolipid metabolism	SPTLC2	lipid
+533	Sphingolipid metabolism	SPTLC3	lipid
+534	Sphingolipid metabolism	KDSR	lipid
+535	Sphingolipid metabolism	CERS2	lipid
+536	Sphingolipid metabolism	CERS3	lipid
+537	Sphingolipid metabolism	CERS6	lipid
+538	Sphingolipid metabolism	CERS1	lipid
+539	Sphingolipid metabolism	CERS4	lipid
+540	Sphingolipid metabolism	CERS5	lipid
+541	Sphingolipid metabolism	ASAH1	lipid
+542	Sphingolipid metabolism	ASAH2	lipid
+543	Sphingolipid metabolism	ACER2	lipid
+544	Sphingolipid metabolism	ACER1	lipid
+545	Sphingolipid metabolism	ACER3	lipid
+546	Sphingolipid metabolism	DEGS1	lipid
+547	Sphingolipid metabolism	DEGS2	lipid
+548	Sphingolipid metabolism	SGMS1	lipid
+549	Sphingolipid metabolism	SGMS2	lipid
+550	Sphingolipid metabolism	SMPD1	lipid
+551	Sphingolipid metabolism	SMPD2	lipid
+552	Sphingolipid metabolism	SMPD3	lipid
+553	Sphingolipid metabolism	SMPD4	lipid
+554	Sphingolipid metabolism	ENPP7	lipid
+555	Sphingolipid metabolism	CERK	lipid
+556	Sphingolipid metabolism	PLPP1	lipid
+557	Sphingolipid metabolism	PLPP3	lipid
+558	Sphingolipid metabolism	PLPP2	lipid
+559	Sphingolipid metabolism	SGPP1	lipid
+560	Sphingolipid metabolism	SGPP2	lipid
+561	Sphingolipid metabolism	SPHK1	lipid
+562	Sphingolipid metabolism	SPHK2	lipid
+563	Sphingolipid metabolism	SGPL1	lipid
+564	Sphingolipid metabolism	UGCG	lipid
+565	Sphingolipid metabolism	GBA	lipid
+566	Sphingolipid metabolism	GBA2	lipid
+567	Sphingolipid metabolism	B4GALT6	lipid
+568	Sphingolipid metabolism	GLB1	lipid
+569	Sphingolipid metabolism	UGT8	lipid
+570	Sphingolipid metabolism	GALC	lipid
+571	Sphingolipid metabolism	GAL3ST1	lipid
+572	Sphingolipid metabolism	ARSA	lipid
+573	Sphingolipid metabolism	NEU1	lipid
+574	Sphingolipid metabolism	NEU3	lipid
+575	Sphingolipid metabolism	NEU4	lipid
+576	Sphingolipid metabolism	NEU2	lipid
+577	Sphingolipid metabolism	GLA	lipid
+578	Arachidonic acid metabolism	PLA2G10	lipid
+579	Arachidonic acid metabolism	PLA2G2D	lipid
+580	Arachidonic acid metabolism	PLA2G2E	lipid
+581	Arachidonic acid metabolism	PLA2G3	lipid
+582	Arachidonic acid metabolism	PLA2G2F	lipid
+583	Arachidonic acid metabolism	PLA2G12A	lipid
+584	Arachidonic acid metabolism	PLA2G12B	lipid
+585	Arachidonic acid metabolism	PLA2G1B	lipid
+586	Arachidonic acid metabolism	PLA2G5	lipid
+587	Arachidonic acid metabolism	PLA2G2A	lipid
+588	Arachidonic acid metabolism	PLA2G2C	lipid
+589	Arachidonic acid metabolism	PLA2G4E	lipid
+590	Arachidonic acid metabolism	PLA2G4A	lipid
+591	Arachidonic acid metabolism	JMJD7	lipid
+592	Arachidonic acid metabolism	PLA2G4B	lipid
+593	Arachidonic acid metabolism	PLA2G4C	lipid
+594	Arachidonic acid metabolism	PLA2G4D	lipid
+595	Arachidonic acid metabolism	PLA2G4F	lipid
+596	Arachidonic acid metabolism	PLA2G6	lipid
+597	Arachidonic acid metabolism	PLB1	lipid
+598	Arachidonic acid metabolism	PLA2G16	lipid
+599	Arachidonic acid metabolism	PTGS1	lipid
+600	Arachidonic acid metabolism	PTGS2	lipid
+601	Arachidonic acid metabolism	PTGES	lipid
+602	Arachidonic acid metabolism	PTGES2	lipid
+603	Arachidonic acid metabolism	PTGES3	lipid
+604	Arachidonic acid metabolism	CBR1	lipid
+605	Arachidonic acid metabolism	CBR3	lipid
+606	Arachidonic acid metabolism	FAM213B	lipid
+607	Arachidonic acid metabolism	TBXAS1	lipid
+608	Arachidonic acid metabolism	PTGDS	lipid
+609	Arachidonic acid metabolism	HPGDS	lipid
+610	Arachidonic acid metabolism	AKR1C3	lipid
+611	Arachidonic acid metabolism	PTGIS	lipid
+612	Arachidonic acid metabolism	ALOX5	lipid
+613	Arachidonic acid metabolism	LTA4H	lipid
+614	Arachidonic acid metabolism	CYP4F2	lipid
+615	Arachidonic acid metabolism	CYP4F3	lipid
+616	Arachidonic acid metabolism	LTC4S	lipid
+617	Arachidonic acid metabolism	GGT1	lipid
+618	Arachidonic acid metabolism	GGT5	lipid
+619	Arachidonic acid metabolism	GPX6	lipid
+620	Arachidonic acid metabolism	GPX7	lipid
+621	Arachidonic acid metabolism	GPX2	lipid
+622	Arachidonic acid metabolism	GPX3	lipid
+623	Arachidonic acid metabolism	GPX1	lipid
+624	Arachidonic acid metabolism	GPX5	lipid
+625	Arachidonic acid metabolism	GPX8	lipid
+626	Arachidonic acid metabolism	CYP2E1	lipid
+627	Arachidonic acid metabolism	CYP2J2	lipid
+628	Arachidonic acid metabolism	CYP2U1	lipid
+629	Arachidonic acid metabolism	CYP4A11	lipid
+630	Arachidonic acid metabolism	CYP2C19	lipid
+631	Arachidonic acid metabolism	CYP4F8	lipid
+632	Arachidonic acid metabolism	ALOX12	lipid
+633	Arachidonic acid metabolism	ALOX12B	lipid
+634	Arachidonic acid metabolism	ALOX15B	lipid
+635	Arachidonic acid metabolism	CYP2B6	lipid
+636	Arachidonic acid metabolism	CYP2C8	lipid
+637	Arachidonic acid metabolism	CYP2C9	lipid
+638	Arachidonic acid metabolism	EPHX2	lipid
+639	Arachidonic acid metabolism	ALOX15	lipid
+640	Linoleic acid metabolism	PLA2G10	lipid
+641	Linoleic acid metabolism	PLA2G2D	lipid
+642	Linoleic acid metabolism	PLA2G2E	lipid
+643	Linoleic acid metabolism	PLA2G3	lipid
+644	Linoleic acid metabolism	PLA2G2F	lipid
+645	Linoleic acid metabolism	PLA2G12A	lipid
+646	Linoleic acid metabolism	PLA2G12B	lipid
+647	Linoleic acid metabolism	PLA2G1B	lipid
+648	Linoleic acid metabolism	PLA2G5	lipid
+649	Linoleic acid metabolism	PLA2G2A	lipid
+650	Linoleic acid metabolism	PLA2G2C	lipid
+651	Linoleic acid metabolism	PLA2G4E	lipid
+652	Linoleic acid metabolism	PLA2G4A	lipid
+653	Linoleic acid metabolism	JMJD7	lipid
+654	Linoleic acid metabolism	PLA2G4B	lipid
+655	Linoleic acid metabolism	PLA2G4C	lipid
+656	Linoleic acid metabolism	PLA2G4D	lipid
+657	Linoleic acid metabolism	PLA2G4F	lipid
+658	Linoleic acid metabolism	PLA2G6	lipid
+659	Linoleic acid metabolism	PLB1	lipid
+660	Linoleic acid metabolism	PLA2G16	lipid
+661	Linoleic acid metabolism	ALOX15	lipid
+662	Linoleic acid metabolism	CYP1A2	lipid
+663	Linoleic acid metabolism	CYP2C8	lipid
+664	Linoleic acid metabolism	CYP2C9	lipid
+665	Linoleic acid metabolism	CYP2C19	lipid
+666	Linoleic acid metabolism	CYP2J2	lipid
+667	Linoleic acid metabolism	CYP2E1	lipid
+668	Linoleic acid metabolism	CYP3A4	lipid
+669	alpha Linolenic acid metabolism	PLA2G10	lipid
+670	alpha Linolenic acid metabolism	PLA2G2D	lipid
+671	alpha Linolenic acid metabolism	PLA2G2E	lipid
+672	alpha Linolenic acid metabolism	PLA2G3	lipid
+673	alpha Linolenic acid metabolism	PLA2G2F	lipid
+674	alpha Linolenic acid metabolism	PLA2G12A	lipid
+675	alpha Linolenic acid metabolism	PLA2G12B	lipid
+676	alpha Linolenic acid metabolism	PLA2G1B	lipid
+677	alpha Linolenic acid metabolism	PLA2G5	lipid
+678	alpha Linolenic acid metabolism	PLA2G2A	lipid
+679	alpha Linolenic acid metabolism	PLA2G2C	lipid
+680	alpha Linolenic acid metabolism	PLA2G4E	lipid
+681	alpha Linolenic acid metabolism	PLA2G4A	lipid
+682	alpha Linolenic acid metabolism	JMJD7	lipid
+683	alpha Linolenic acid metabolism	PLA2G4B	lipid
+684	alpha Linolenic acid metabolism	PLA2G4C	lipid
+685	alpha Linolenic acid metabolism	PLA2G4D	lipid
+686	alpha Linolenic acid metabolism	PLA2G4F	lipid
+687	alpha Linolenic acid metabolism	PLA2G6	lipid
+688	alpha Linolenic acid metabolism	PLB1	lipid
+689	alpha Linolenic acid metabolism	PLA2G16	lipid
+690	alpha Linolenic acid metabolism	FADS2	lipid
+691	alpha Linolenic acid metabolism	ACOX3	lipid
+692	alpha Linolenic acid metabolism	ACOX1	lipid
+693	alpha Linolenic acid metabolism	ACAA1	lipid
+694	Biosynthesis of unsaturated fatty acids	ELOVL6	lipid
+695	Biosynthesis of unsaturated fatty acids	HSD17B12	lipid
+696	Biosynthesis of unsaturated fatty acids	HACD2	lipid
+697	Biosynthesis of unsaturated fatty acids	HACD1	lipid
+698	Biosynthesis of unsaturated fatty acids	HACD4	lipid
+699	Biosynthesis of unsaturated fatty acids	HACD3	lipid
+700	Biosynthesis of unsaturated fatty acids	TECR	lipid
+701	Biosynthesis of unsaturated fatty acids	PECR	lipid
+702	Biosynthesis of unsaturated fatty acids	SCD	lipid
+703	Biosynthesis of unsaturated fatty acids	SCD5	lipid
+704	Biosynthesis of unsaturated fatty acids	FADS2	lipid
+705	Biosynthesis of unsaturated fatty acids	ELOVL5	lipid
+706	Biosynthesis of unsaturated fatty acids	FADS1	lipid
+707	Biosynthesis of unsaturated fatty acids	ELOVL2	lipid
+708	Biosynthesis of unsaturated fatty acids	ACOX3	lipid
+709	Biosynthesis of unsaturated fatty acids	ACOX1	lipid
+710	Biosynthesis of unsaturated fatty acids	HADHA	lipid
+711	Biosynthesis of unsaturated fatty acids	ACAA1	lipid
+712	Biosynthesis of unsaturated fatty acids	ACOT4	lipid
+713	Biosynthesis of unsaturated fatty acids	ACOT2	lipid
+714	Biosynthesis of unsaturated fatty acids	ACOT1	lipid
+715	Biosynthesis of unsaturated fatty acids	ACOT7	lipid
+716	Biosynthesis of unsaturated fatty acids	BAAT	lipid
+717	GPI anchor biosynthesis	PIGA	lipid
+718	GPI anchor biosynthesis	PIGH	lipid
+719	GPI anchor biosynthesis	PIGC	lipid
+720	GPI anchor biosynthesis	PIGQ	lipid
+721	GPI anchor biosynthesis	PIGP	lipid
+722	GPI anchor biosynthesis	PIGY	lipid
+723	GPI anchor biosynthesis	DPM2	lipid
+724	GPI anchor biosynthesis	PIGL	lipid
+725	GPI anchor biosynthesis	PIGW	lipid
+726	GPI anchor biosynthesis	GPLD1	lipid
+727	GPI anchor biosynthesis	PIGM	lipid
+728	GPI anchor biosynthesis	PIGX	lipid
+729	GPI anchor biosynthesis	PIGV	lipid
+730	GPI anchor biosynthesis	PIGN	lipid
+731	GPI anchor biosynthesis	PIGB	lipid
+732	GPI anchor biosynthesis	PIGF	lipid
+733	GPI anchor biosynthesis	PIGO	lipid
+734	GPI anchor biosynthesis	GPAA1	lipid
+735	GPI anchor biosynthesis	PIGK	lipid
+736	GPI anchor biosynthesis	PIGS	lipid
+737	GPI anchor biosynthesis	PIGT	lipid
+738	GPI anchor biosynthesis	PIGU	lipid
+739	GPI anchor biosynthesis	PGAP1	lipid
+740	GPI anchor biosynthesis	PIGZ	lipid
+741	GPI anchor biosynthesis	PIGG	lipid
+742	Glycosphingolipid biosynthesis	B3GNT5	lipid
+743	Glycosphingolipid biosynthesis	B3GALT1	lipid
+744	Glycosphingolipid biosynthesis	B3GALT2	lipid
+745	Glycosphingolipid biosynthesis	B3GALT5	lipid
+746	Glycosphingolipid biosynthesis	FUT1	lipid
+747	Glycosphingolipid biosynthesis	FUT2	lipid
+748	Glycosphingolipid biosynthesis	FUT3	lipid
+749	Glycosphingolipid biosynthesis	ST3GAL3	lipid
+750	Glycosphingolipid biosynthesis	ST3GAL4	lipid
+751	Glycosphingolipid biosynthesis	ABO	lipid
+752	Glycosphingolipid biosynthesis	B4GALT1	lipid
+753	Glycosphingolipid biosynthesis	B4GALT2	lipid
+754	Glycosphingolipid biosynthesis	B4GALT3	lipid
+755	Glycosphingolipid biosynthesis	B4GALT4	lipid
+756	Glycosphingolipid biosynthesis	FUT9	lipid
+757	Glycosphingolipid biosynthesis	FUT4	lipid
+758	Glycosphingolipid biosynthesis	FUT5	lipid
+759	Glycosphingolipid biosynthesis	FUT6	lipid
+760	Glycosphingolipid biosynthesis	FUT7	lipid
+761	Glycosphingolipid biosynthesis	ST3GAL6	lipid
+762	Glycosphingolipid biosynthesis	ST8SIA1	lipid
+763	Glycosphingolipid biosynthesis	A4GALT	lipid
+764	Glycosphingolipid biosynthesis	B3GALNT1	lipid
+765	Glycosphingolipid biosynthesis	B3GNT2	lipid
+766	Glycosphingolipid biosynthesis	B3GNT3	lipid
+767	Glycosphingolipid biosynthesis	B3GNT4	lipid
+768	Glycosphingolipid biosynthesis	GCNT2	lipid
+769	Glycosphingolipid biosynthesis	A3GALT2	lipid
+770	Glycosphingolipid biosynthesis	B3GALNT1	lipid
+771	Glycosphingolipid biosynthesis	GBGT1	lipid
+772	Glycosphingolipid biosynthesis	A4GALT	lipid
+773	Glycosphingolipid biosynthesis	GLA	lipid
+774	Glycosphingolipid biosynthesis	B3GALT5	lipid
+775	Glycosphingolipid biosynthesis	HEXA	lipid
+776	Glycosphingolipid biosynthesis	HEXB	lipid
+777	Glycosphingolipid biosynthesis	NAGA	lipid
+778	Glycosphingolipid biosynthesis	FUT1	lipid
+779	Glycosphingolipid biosynthesis	FUT2	lipid
+780	Glycosphingolipid biosynthesis	ST3GAL1	lipid
+781	Glycosphingolipid biosynthesis	ST3GAL2	lipid
+782	Glycosphingolipid biosynthesis	ST8SIA1	lipid
+783	Glycosphingolipid biosynthesis	FUT9	lipid
+784	Glycosphingolipid biosynthesis	B4GALNT1	lipid
+785	Glycosphingolipid biosynthesis	B3GALT4	lipid
+786	Glycosphingolipid biosynthesis	ST3GAL2	lipid
+787	Glycosphingolipid biosynthesis	ST3GAL1	lipid
+788	Glycosphingolipid biosynthesis	ST8SIA5	lipid
+789	Glycosphingolipid biosynthesis	ST3GAL5	lipid
+790	Glycosphingolipid biosynthesis	ST8SIA1	lipid
+791	Glycosphingolipid biosynthesis	SLC33A1	lipid
+792	Glycosphingolipid biosynthesis	ST6GALNAC3	lipid
+793	Glycosphingolipid biosynthesis	ST6GALNAC4	lipid
+794	Glycosphingolipid biosynthesis	ST6GALNAC5	lipid
+795	Glycosphingolipid biosynthesis	ST6GALNAC6	lipid
+796	Glycosphingolipid biosynthesis	GLB1	lipid
+797	Glycosphingolipid biosynthesis	HEXA	lipid
+798	Glycosphingolipid biosynthesis	HEXB	lipid

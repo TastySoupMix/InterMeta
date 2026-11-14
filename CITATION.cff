@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: >-
+  Please cite this software when using InterMeta. The related TimiGP
+  methodology should also be cited; see inst/CITATION and inst/NOTICE.
+type: software
+title: "InterMeta: Inferring Prognostic Interactions Between Metabolic Pathways"
+version: 1.1.4
+authors:
+  - family-names: Tan
+    given-names: Zeheng
+    email: tzh19970915@163.com
+abstract: >-
+  An R package for directional metabolic pathway prognosis analysis using
+  gene pairs, with internal resampling and optional AI-assisted literature
+  exploration.

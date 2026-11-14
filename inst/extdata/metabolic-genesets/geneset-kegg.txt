@@ -1,0 +1,2914 @@
+﻿	CellType	Gene	Dataset
+1	Glycolysis Gluconeogenesis	HK3	KEGG
+2	Glycolysis Gluconeogenesis	HK1	KEGG
+3	Glycolysis Gluconeogenesis	HK2	KEGG
+4	Glycolysis Gluconeogenesis	HKDC1	KEGG
+5	Glycolysis Gluconeogenesis	GCK	KEGG
+6	Glycolysis Gluconeogenesis	GPI	KEGG
+7	Glycolysis Gluconeogenesis	PFKM	KEGG
+8	Glycolysis Gluconeogenesis	PFKP	KEGG
+9	Glycolysis Gluconeogenesis	PFKL	KEGG
+10	Glycolysis Gluconeogenesis	FBP1	KEGG
+11	Glycolysis Gluconeogenesis	FBP2	KEGG
+12	Glycolysis Gluconeogenesis	ALDOC	KEGG
+13	Glycolysis Gluconeogenesis	ALDOA	KEGG
+14	Glycolysis Gluconeogenesis	ALDOB	KEGG
+15	Glycolysis Gluconeogenesis	TPI1	KEGG
+16	Glycolysis Gluconeogenesis	GAPDH	KEGG
+17	Glycolysis Gluconeogenesis	GAPDHS	KEGG
+18	Glycolysis Gluconeogenesis	PGK2	KEGG
+19	Glycolysis Gluconeogenesis	PGK1	KEGG
+20	Glycolysis Gluconeogenesis	PGAM1	KEGG
+21	Glycolysis Gluconeogenesis	PGAM2	KEGG
+22	Glycolysis Gluconeogenesis	PGAM4	KEGG
+23	Glycolysis Gluconeogenesis	ENO3	KEGG
+24	Glycolysis Gluconeogenesis	ENO2	KEGG
+25	Glycolysis Gluconeogenesis	ENO1	KEGG
+26	Glycolysis Gluconeogenesis	ENO4	KEGG
+27	Glycolysis Gluconeogenesis	PKM	KEGG
+28	Glycolysis Gluconeogenesis	PKLR	KEGG
+29	Glycolysis Gluconeogenesis	PDHA2	KEGG
+30	Glycolysis Gluconeogenesis	PDHA1	KEGG
+31	Glycolysis Gluconeogenesis	PDHB	KEGG
+32	Glycolysis Gluconeogenesis	DLAT	KEGG
+33	Glycolysis Gluconeogenesis	DLD	KEGG
+34	Glycolysis Gluconeogenesis	LDHAL6A	KEGG
+35	Glycolysis Gluconeogenesis	LDHAL6B	KEGG
+36	Glycolysis Gluconeogenesis	LDHA	KEGG
+37	Glycolysis Gluconeogenesis	LDHB	KEGG
+38	Glycolysis Gluconeogenesis	LDHC	KEGG
+39	Glycolysis Gluconeogenesis	ADH1A	KEGG
+40	Glycolysis Gluconeogenesis	ADH1B	KEGG
+41	Glycolysis Gluconeogenesis	ADH1C	KEGG
+42	Glycolysis Gluconeogenesis	ADH7	KEGG
+43	Glycolysis Gluconeogenesis	ADH4	KEGG
+44	Glycolysis Gluconeogenesis	ADH5	KEGG
+45	Glycolysis Gluconeogenesis	ADH6	KEGG
+46	Glycolysis Gluconeogenesis	AKR1A1	KEGG
+47	Glycolysis Gluconeogenesis	ALDH2	KEGG
+48	Glycolysis Gluconeogenesis	ALDH3A2	KEGG
+49	Glycolysis Gluconeogenesis	ALDH1B1	KEGG
+50	Glycolysis Gluconeogenesis	ALDH7A1	KEGG
+51	Glycolysis Gluconeogenesis	ALDH9A1	KEGG
+52	Glycolysis Gluconeogenesis	ALDH3B1	KEGG
+53	Glycolysis Gluconeogenesis	ALDH3B2	KEGG
+54	Glycolysis Gluconeogenesis	ALDH1A3	KEGG
+55	Glycolysis Gluconeogenesis	ALDH3A1	KEGG
+56	Glycolysis Gluconeogenesis	ACSS1	KEGG
+57	Glycolysis Gluconeogenesis	ACSS2	KEGG
+58	Glycolysis Gluconeogenesis	GALM	KEGG
+59	Glycolysis Gluconeogenesis	PGM1	KEGG
+60	Glycolysis Gluconeogenesis	PGM2	KEGG
+61	Glycolysis Gluconeogenesis	G6PC	KEGG
+62	Glycolysis Gluconeogenesis	G6PC2	KEGG
+63	Glycolysis Gluconeogenesis	G6PC3	KEGG
+64	Glycolysis Gluconeogenesis	ADPGK	KEGG
+65	Glycolysis Gluconeogenesis	BPGM	KEGG
+66	Glycolysis Gluconeogenesis	MINPP1	KEGG
+67	Glycolysis Gluconeogenesis	PCK1	KEGG
+68	Glycolysis Gluconeogenesis	PCK2	KEGG
+69	Citrate cycle (TCA cycle)	CS	KEGG
+70	Citrate cycle (TCA cycle)	ACLY	KEGG
+71	Citrate cycle (TCA cycle)	ACO2	KEGG
+72	Citrate cycle (TCA cycle)	ACO1	KEGG
+73	Citrate cycle (TCA cycle)	IDH1	KEGG
+74	Citrate cycle (TCA cycle)	IDH2	KEGG
+75	Citrate cycle (TCA cycle)	IDH3B	KEGG
+76	Citrate cycle (TCA cycle)	IDH3G	KEGG
+77	Citrate cycle (TCA cycle)	IDH3A	KEGG
+78	Citrate cycle (TCA cycle)	OGDHL	KEGG
+79	Citrate cycle (TCA cycle)	OGDH	KEGG
+80	Citrate cycle (TCA cycle)	DLST	KEGG
+81	Citrate cycle (TCA cycle)	DLD	KEGG
+82	Citrate cycle (TCA cycle)	SUCLG1	KEGG
+83	Citrate cycle (TCA cycle)	SUCLG2	KEGG
+84	Citrate cycle (TCA cycle)	SUCLA2	KEGG
+85	Citrate cycle (TCA cycle)	SDHA	KEGG
+86	Citrate cycle (TCA cycle)	SDHB	KEGG
+87	Citrate cycle (TCA cycle)	SDHC	KEGG
+88	Citrate cycle (TCA cycle)	SDHD	KEGG
+89	Citrate cycle (TCA cycle)	FH	KEGG
+90	Citrate cycle (TCA cycle)	MDH1	KEGG
+91	Citrate cycle (TCA cycle)	MDH2	KEGG
+92	Citrate cycle (TCA cycle)	PC	KEGG
+93	Citrate cycle (TCA cycle)	PCK1	KEGG
+94	Citrate cycle (TCA cycle)	PCK2	KEGG
+95	Citrate cycle (TCA cycle)	PDHA2	KEGG
+96	Citrate cycle (TCA cycle)	PDHA1	KEGG
+97	Citrate cycle (TCA cycle)	PDHB	KEGG
+98	Citrate cycle (TCA cycle)	DLAT	KEGG
+99	Pentose phosphate pathway	GPI	KEGG
+100	Pentose phosphate pathway	G6PD	KEGG
+101	Pentose phosphate pathway	PGLS	KEGG
+102	Pentose phosphate pathway	H6PD	KEGG
+103	Pentose phosphate pathway	PGD	KEGG
+104	Pentose phosphate pathway	RPE	KEGG
+105	Pentose phosphate pathway	RPEL1	KEGG
+106	Pentose phosphate pathway	TKT	KEGG
+107	Pentose phosphate pathway	TKTL2	KEGG
+108	Pentose phosphate pathway	TKTL1	KEGG
+109	Pentose phosphate pathway	TALDO1	KEGG
+110	Pentose phosphate pathway	RPIA	KEGG
+111	Pentose phosphate pathway	DERA	KEGG
+112	Pentose phosphate pathway	RBKS	KEGG
+113	Pentose phosphate pathway	PGM1	KEGG
+114	Pentose phosphate pathway	PGM2	KEGG
+115	Pentose phosphate pathway	PRPS1L1	KEGG
+116	Pentose phosphate pathway	PRPS2	KEGG
+117	Pentose phosphate pathway	PRPS1	KEGG
+118	Pentose phosphate pathway	RGN	KEGG
+119	Pentose phosphate pathway	IDNK	KEGG
+120	Pentose phosphate pathway	GLYCTK	KEGG
+121	Pentose phosphate pathway	ALDOC	KEGG
+122	Pentose phosphate pathway	ALDOA	KEGG
+123	Pentose phosphate pathway	ALDOB	KEGG
+124	Pentose phosphate pathway	FBP1	KEGG
+125	Pentose phosphate pathway	FBP2	KEGG
+126	Pentose phosphate pathway	PFKM	KEGG
+127	Pentose phosphate pathway	PFKP	KEGG
+128	Pentose phosphate pathway	PFKL	KEGG
+129	Pentose and glucuronate interconversions	GUSB	KEGG
+130	Pentose and glucuronate interconversions	KL	KEGG
+131	Pentose and glucuronate interconversions	UGT2A1	KEGG
+132	Pentose and glucuronate interconversions	UGT2A3	KEGG
+133	Pentose and glucuronate interconversions	UGT2B17	KEGG
+134	Pentose and glucuronate interconversions	UGT2B11	KEGG
+135	Pentose and glucuronate interconversions	UGT2B28	KEGG
+136	Pentose and glucuronate interconversions	UGT1A6	KEGG
+137	Pentose and glucuronate interconversions	UGT1A4	KEGG
+138	Pentose and glucuronate interconversions	UGT1A1	KEGG
+139	Pentose and glucuronate interconversions	UGT1A3	KEGG
+140	Pentose and glucuronate interconversions	UGT2B10	KEGG
+141	Pentose and glucuronate interconversions	UGT1A9	KEGG
+142	Pentose and glucuronate interconversions	UGT2B7	KEGG
+143	Pentose and glucuronate interconversions	UGT1A10	KEGG
+144	Pentose and glucuronate interconversions	UGT1A8	KEGG
+145	Pentose and glucuronate interconversions	UGT1A5	KEGG
+146	Pentose and glucuronate interconversions	UGT2B15	KEGG
+147	Pentose and glucuronate interconversions	UGT1A7	KEGG
+148	Pentose and glucuronate interconversions	UGT2B4	KEGG
+149	Pentose and glucuronate interconversions	UGT2A2	KEGG
+150	Pentose and glucuronate interconversions	UGDH	KEGG
+151	Pentose and glucuronate interconversions	UGP2	KEGG
+152	Pentose and glucuronate interconversions	AKR1A1	KEGG
+153	Pentose and glucuronate interconversions	CRYL1	KEGG
+154	Pentose and glucuronate interconversions	RPE	KEGG
+155	Pentose and glucuronate interconversions	RPEL1	KEGG
+156	Pentose and glucuronate interconversions	XYLB	KEGG
+157	Pentose and glucuronate interconversions	AKR1B1	KEGG
+158	Pentose and glucuronate interconversions	AKR1B10	KEGG
+159	Pentose and glucuronate interconversions	DCXR	KEGG
+160	Pentose and glucuronate interconversions	SORD	KEGG
+161	Pentose and glucuronate interconversions	DHDH	KEGG
+162	Pentose and glucuronate interconversions	ISPD	KEGG
+163	Fructose and mannose metabolism	MPI	KEGG
+164	Fructose and mannose metabolism	PMM2	KEGG
+165	Fructose and mannose metabolism	PMM1	KEGG
+166	Fructose and mannose metabolism	GMPPB	KEGG
+167	Fructose and mannose metabolism	GMPPA	KEGG
+168	Fructose and mannose metabolism	GMDS	KEGG
+169	Fructose and mannose metabolism	TSTA3	KEGG
+170	Fructose and mannose metabolism	FPGT	KEGG
+171	Fructose and mannose metabolism	FUK	KEGG
+172	Fructose and mannose metabolism	ENOSF1	KEGG
+173	Fructose and mannose metabolism	HK3	KEGG
+174	Fructose and mannose metabolism	HK1	KEGG
+175	Fructose and mannose metabolism	HK2	KEGG
+176	Fructose and mannose metabolism	HKDC1	KEGG
+177	Fructose and mannose metabolism	PFKM	KEGG
+178	Fructose and mannose metabolism	PFKP	KEGG
+179	Fructose and mannose metabolism	PFKL	KEGG
+180	Fructose and mannose metabolism	FBP1	KEGG
+181	Fructose and mannose metabolism	FBP2	KEGG
+182	Fructose and mannose metabolism	PFKFB1	KEGG
+183	Fructose and mannose metabolism	PFKFB2	KEGG
+184	Fructose and mannose metabolism	PFKFB3	KEGG
+185	Fructose and mannose metabolism	PFKFB4	KEGG
+186	Fructose and mannose metabolism	TIGAR	KEGG
+187	Fructose and mannose metabolism	KHK	KEGG
+188	Fructose and mannose metabolism	SORD	KEGG
+189	Fructose and mannose metabolism	AKR1B1	KEGG
+190	Fructose and mannose metabolism	AKR1B10	KEGG
+191	Fructose and mannose metabolism	ALDOC	KEGG
+192	Fructose and mannose metabolism	ALDOA	KEGG
+193	Fructose and mannose metabolism	ALDOB	KEGG
+194	Fructose and mannose metabolism	TPI1	KEGG
+195	Fructose and mannose metabolism	TKFC	KEGG
+196	Galactose metabolism	GALM	KEGG
+197	Galactose metabolism	GALK1	KEGG
+198	Galactose metabolism	GALT	KEGG
+199	Galactose metabolism	GALE	KEGG
+200	Galactose metabolism	UGP2	KEGG
+201	Galactose metabolism	PGM1	KEGG
+202	Galactose metabolism	PGM2	KEGG
+203	Galactose metabolism	HK3	KEGG
+204	Galactose metabolism	HK1	KEGG
+205	Galactose metabolism	HK2	KEGG
+206	Galactose metabolism	HKDC1	KEGG
+207	Galactose metabolism	GCK	KEGG
+208	Galactose metabolism	G6PC	KEGG
+209	Galactose metabolism	G6PC2	KEGG
+210	Galactose metabolism	G6PC3	KEGG
+211	Galactose metabolism	GLB1	KEGG
+212	Galactose metabolism	LCT	KEGG
+213	Galactose metabolism	LALBA	KEGG
+214	Galactose metabolism	B4GALT1	KEGG
+215	Galactose metabolism	B4GALT2	KEGG
+216	Galactose metabolism	GLA	KEGG
+217	Galactose metabolism	AKR1B1	KEGG
+218	Galactose metabolism	AKR1B10	KEGG
+219	Galactose metabolism	PFKM	KEGG
+220	Galactose metabolism	PFKP	KEGG
+221	Galactose metabolism	PFKL	KEGG
+222	Galactose metabolism	MGAM	KEGG
+223	Galactose metabolism	MGAM2	KEGG
+224	Galactose metabolism	GAA	KEGG
+225	Galactose metabolism	GANC	KEGG
+226	Galactose metabolism	SI	KEGG
+227	Ascorbate and aldarate metabolism	UGDH	KEGG
+228	Ascorbate and aldarate metabolism	UGT2A1	KEGG
+229	Ascorbate and aldarate metabolism	UGT2A3	KEGG
+230	Ascorbate and aldarate metabolism	UGT2B17	KEGG
+231	Ascorbate and aldarate metabolism	UGT2B11	KEGG
+232	Ascorbate and aldarate metabolism	UGT2B28	KEGG
+233	Ascorbate and aldarate metabolism	UGT1A6	KEGG
+234	Ascorbate and aldarate metabolism	UGT1A4	KEGG
+235	Ascorbate and aldarate metabolism	UGT1A1	KEGG
+236	Ascorbate and aldarate metabolism	UGT1A3	KEGG
+237	Ascorbate and aldarate metabolism	UGT2B10	KEGG
+238	Ascorbate and aldarate metabolism	UGT1A9	KEGG
+239	Ascorbate and aldarate metabolism	UGT2B7	KEGG
+240	Ascorbate and aldarate metabolism	UGT1A10	KEGG
+241	Ascorbate and aldarate metabolism	UGT1A8	KEGG
+242	Ascorbate and aldarate metabolism	UGT1A5	KEGG
+243	Ascorbate and aldarate metabolism	UGT2B15	KEGG
+244	Ascorbate and aldarate metabolism	UGT1A7	KEGG
+245	Ascorbate and aldarate metabolism	UGT2B4	KEGG
+246	Ascorbate and aldarate metabolism	UGT2A2	KEGG
+247	Ascorbate and aldarate metabolism	MIOX	KEGG
+248	Ascorbate and aldarate metabolism	RGN	KEGG
+249	Ascorbate and aldarate metabolism	ALDH2	KEGG
+250	Ascorbate and aldarate metabolism	ALDH3A2	KEGG
+251	Ascorbate and aldarate metabolism	ALDH1B1	KEGG
+252	Ascorbate and aldarate metabolism	ALDH7A1	KEGG
+253	Ascorbate and aldarate metabolism	ALDH9A1	KEGG
+254	Starch and sucrose metabolism	MGAM	KEGG
+255	Starch and sucrose metabolism	MGAM2	KEGG
+256	Starch and sucrose metabolism	GAA	KEGG
+257	Starch and sucrose metabolism	GANC	KEGG
+258	Starch and sucrose metabolism	SI	KEGG
+259	Starch and sucrose metabolism	UGP2	KEGG
+260	Starch and sucrose metabolism	ENPP1	KEGG
+261	Starch and sucrose metabolism	ENPP3	KEGG
+262	Starch and sucrose metabolism	GBA3	KEGG
+263	Starch and sucrose metabolism	GYS2	KEGG
+264	Starch and sucrose metabolism	GYS1	KEGG
+265	Starch and sucrose metabolism	GYG1	KEGG
+266	Starch and sucrose metabolism	GYG2	KEGG
+267	Starch and sucrose metabolism	GBE1	KEGG
+268	Starch and sucrose metabolism	PYGL	KEGG
+269	Starch and sucrose metabolism	PYGM	KEGG
+270	Starch and sucrose metabolism	PYGB	KEGG
+271	Starch and sucrose metabolism	AGL	KEGG
+272	Starch and sucrose metabolism	AMY1C	KEGG
+273	Starch and sucrose metabolism	AMY2A	KEGG
+274	Starch and sucrose metabolism	AMY1A	KEGG
+275	Starch and sucrose metabolism	AMY2B	KEGG
+276	Starch and sucrose metabolism	AMY1B	KEGG
+277	Starch and sucrose metabolism	TREH	KEGG
+278	Starch and sucrose metabolism	PGM1	KEGG
+279	Starch and sucrose metabolism	PGM2	KEGG
+280	Starch and sucrose metabolism	HK3	KEGG
+281	Starch and sucrose metabolism	HK1	KEGG
+282	Starch and sucrose metabolism	HK2	KEGG
+283	Starch and sucrose metabolism	HKDC1	KEGG
+284	Starch and sucrose metabolism	GCK	KEGG
+285	Starch and sucrose metabolism	G6PC	KEGG
+286	Starch and sucrose metabolism	G6PC2	KEGG
+287	Starch and sucrose metabolism	G6PC3	KEGG
+288	Starch and sucrose metabolism	PGM2L1	KEGG
+289	Starch and sucrose metabolism	GPI	KEGG
+290	Amino sugar and nucleotide sugar metabolism	CHIA	KEGG
+291	Amino sugar and nucleotide sugar metabolism	CHIT1	KEGG
+292	Amino sugar and nucleotide sugar metabolism	HEXA	KEGG
+293	Amino sugar and nucleotide sugar metabolism	HEXB	KEGG
+294	Amino sugar and nucleotide sugar metabolism	NAGK	KEGG
+295	Amino sugar and nucleotide sugar metabolism	PGM3	KEGG
+296	Amino sugar and nucleotide sugar metabolism	UAP1	KEGG
+297	Amino sugar and nucleotide sugar metabolism	UAP1L1	KEGG
+298	Amino sugar and nucleotide sugar metabolism	GNE	KEGG
+299	Amino sugar and nucleotide sugar metabolism	RENBP	KEGG
+300	Amino sugar and nucleotide sugar metabolism	NANS	KEGG
+301	Amino sugar and nucleotide sugar metabolism	NANP	KEGG
+302	Amino sugar and nucleotide sugar metabolism	NPL	KEGG
+303	Amino sugar and nucleotide sugar metabolism	CMAS	KEGG
+304	Amino sugar and nucleotide sugar metabolism	CYB5R1	KEGG
+305	Amino sugar and nucleotide sugar metabolism	CYB5R3	KEGG
+306	Amino sugar and nucleotide sugar metabolism	CYB5R2	KEGG
+307	Amino sugar and nucleotide sugar metabolism	CYB5RL	KEGG
+308	Amino sugar and nucleotide sugar metabolism	CYB5R4	KEGG
+309	Amino sugar and nucleotide sugar metabolism	HK3	KEGG
+310	Amino sugar and nucleotide sugar metabolism	HK1	KEGG
+311	Amino sugar and nucleotide sugar metabolism	HK2	KEGG
+312	Amino sugar and nucleotide sugar metabolism	HKDC1	KEGG
+313	Amino sugar and nucleotide sugar metabolism	AMDHD2	KEGG
+314	Amino sugar and nucleotide sugar metabolism	GNPNAT1	KEGG
+315	Amino sugar and nucleotide sugar metabolism	GNPDA1	KEGG
+316	Amino sugar and nucleotide sugar metabolism	GNPDA2	KEGG
+317	Amino sugar and nucleotide sugar metabolism	GFPT2	KEGG
+318	Amino sugar and nucleotide sugar metabolism	GFPT1	KEGG
+319	Amino sugar and nucleotide sugar metabolism	UXS1	KEGG
+320	Amino sugar and nucleotide sugar metabolism	GCK	KEGG
+321	Amino sugar and nucleotide sugar metabolism	GPI	KEGG
+322	Amino sugar and nucleotide sugar metabolism	PGM1	KEGG
+323	Amino sugar and nucleotide sugar metabolism	PGM2	KEGG
+324	Amino sugar and nucleotide sugar metabolism	UGP2	KEGG
+325	Amino sugar and nucleotide sugar metabolism	UGDH	KEGG
+326	Amino sugar and nucleotide sugar metabolism	GALK1	KEGG
+327	Amino sugar and nucleotide sugar metabolism	GALT	KEGG
+328	Amino sugar and nucleotide sugar metabolism	GALE	KEGG
+329	Amino sugar and nucleotide sugar metabolism	PMM2	KEGG
+330	Amino sugar and nucleotide sugar metabolism	PMM1	KEGG
+331	Amino sugar and nucleotide sugar metabolism	GMPPB	KEGG
+332	Amino sugar and nucleotide sugar metabolism	GMPPA	KEGG
+333	Amino sugar and nucleotide sugar metabolism	GMDS	KEGG
+334	Amino sugar and nucleotide sugar metabolism	MPI	KEGG
+335	Amino sugar and nucleotide sugar metabolism	FUK	KEGG
+336	Amino sugar and nucleotide sugar metabolism	FPGT	KEGG
+337	Amino sugar and nucleotide sugar metabolism	TSTA3	KEGG
+338	Pyruvate metabolism	ACSS1	KEGG
+339	Pyruvate metabolism	ACSS2	KEGG
+340	Pyruvate metabolism	PDHA2	KEGG
+341	Pyruvate metabolism	PDHA1	KEGG
+342	Pyruvate metabolism	PDHB	KEGG
+343	Pyruvate metabolism	DLAT	KEGG
+344	Pyruvate metabolism	DLD	KEGG
+345	Pyruvate metabolism	PKM	KEGG
+346	Pyruvate metabolism	PKLR	KEGG
+347	Pyruvate metabolism	ACACA	KEGG
+348	Pyruvate metabolism	ACACB	KEGG
+349	Pyruvate metabolism	ACYP2	KEGG
+350	Pyruvate metabolism	ACYP1	KEGG
+351	Pyruvate metabolism	ALDH2	KEGG
+352	Pyruvate metabolism	ALDH3A2	KEGG
+353	Pyruvate metabolism	ALDH1B1	KEGG
+354	Pyruvate metabolism	ALDH7A1	KEGG
+355	Pyruvate metabolism	ALDH9A1	KEGG
+356	Pyruvate metabolism	ACOT12	KEGG
+357	Pyruvate metabolism	LDHAL6A	KEGG
+358	Pyruvate metabolism	LDHAL6B	KEGG
+359	Pyruvate metabolism	LDHA	KEGG
+360	Pyruvate metabolism	LDHB	KEGG
+361	Pyruvate metabolism	LDHC	KEGG
+362	Pyruvate metabolism	LDHD	KEGG
+363	Pyruvate metabolism	GLO1	KEGG
+364	Pyruvate metabolism	HAGH	KEGG
+365	Pyruvate metabolism	GRHPR	KEGG
+366	Pyruvate metabolism	ME2	KEGG
+367	Pyruvate metabolism	ME3	KEGG
+368	Pyruvate metabolism	ME1	KEGG
+369	Pyruvate metabolism	PC	KEGG
+370	Pyruvate metabolism	MDH1	KEGG
+371	Pyruvate metabolism	MDH2	KEGG
+372	Pyruvate metabolism	FH	KEGG
+373	Pyruvate metabolism	PCK1	KEGG
+374	Pyruvate metabolism	PCK2	KEGG
+375	Pyruvate metabolism	ACAT2	KEGG
+376	Pyruvate metabolism	ACAT1	KEGG
+377	Glyoxylate and dicarboxylate metabolism	MDH1	KEGG
+378	Glyoxylate and dicarboxylate metabolism	MDH2	KEGG
+379	Glyoxylate and dicarboxylate metabolism	CS	KEGG
+380	Glyoxylate and dicarboxylate metabolism	ACO2	KEGG
+381	Glyoxylate and dicarboxylate metabolism	ACO1	KEGG
+382	Glyoxylate and dicarboxylate metabolism	ACAT2	KEGG
+383	Glyoxylate and dicarboxylate metabolism	ACAT1	KEGG
+384	Glyoxylate and dicarboxylate metabolism	MCEE	KEGG
+385	Glyoxylate and dicarboxylate metabolism	PCCA	KEGG
+386	Glyoxylate and dicarboxylate metabolism	PCCB	KEGG
+387	Glyoxylate and dicarboxylate metabolism	MUT	KEGG
+388	Glyoxylate and dicarboxylate metabolism	HAO2	KEGG
+389	Glyoxylate and dicarboxylate metabolism	HAO1	KEGG
+390	Glyoxylate and dicarboxylate metabolism	CAT	KEGG
+391	Glyoxylate and dicarboxylate metabolism	GRHPR	KEGG
+392	Glyoxylate and dicarboxylate metabolism	PGP	KEGG
+393	Glyoxylate and dicarboxylate metabolism	AGXT	KEGG
+394	Glyoxylate and dicarboxylate metabolism	GLUL	KEGG
+395	Glyoxylate and dicarboxylate metabolism	SHMT2	KEGG
+396	Glyoxylate and dicarboxylate metabolism	SHMT1	KEGG
+397	Glyoxylate and dicarboxylate metabolism	GLDC	KEGG
+398	Glyoxylate and dicarboxylate metabolism	AMT	KEGG
+399	Glyoxylate and dicarboxylate metabolism	DLD	KEGG
+400	Glyoxylate and dicarboxylate metabolism	GCSH	KEGG
+401	Glyoxylate and dicarboxylate metabolism	HYI	KEGG
+402	Glyoxylate and dicarboxylate metabolism	GLYCTK	KEGG
+403	Glyoxylate and dicarboxylate metabolism	HOGA1	KEGG
+404	Glyoxylate and dicarboxylate metabolism	AFMID	KEGG
+405	Propanoate metabolism	ACSS1	KEGG
+406	Propanoate metabolism	ACSS2	KEGG
+407	Propanoate metabolism	ACSS3	KEGG
+408	Propanoate metabolism	BCKDHA	KEGG
+409	Propanoate metabolism	BCKDHB	KEGG
+410	Propanoate metabolism	DBT	KEGG
+411	Propanoate metabolism	DLD	KEGG
+412	Propanoate metabolism	ACADM	KEGG
+413	Propanoate metabolism	HADHA	KEGG
+414	Propanoate metabolism	EHHADH	KEGG
+415	Propanoate metabolism	ECHS1	KEGG
+416	Propanoate metabolism	HIBCH	KEGG
+417	Propanoate metabolism	ACACA	KEGG
+418	Propanoate metabolism	ACACB	KEGG
+419	Propanoate metabolism	MLYCD	KEGG
+420	Propanoate metabolism	ABAT	KEGG
+421	Propanoate metabolism	PCCA	KEGG
+422	Propanoate metabolism	PCCB	KEGG
+423	Propanoate metabolism	ECHDC1	KEGG
+424	Propanoate metabolism	MCEE	KEGG
+425	Propanoate metabolism	MUT	KEGG
+426	Propanoate metabolism	SUCLG1	KEGG
+427	Propanoate metabolism	SUCLG2	KEGG
+428	Propanoate metabolism	SUCLA2	KEGG
+429	Propanoate metabolism	ALDH6A1	KEGG
+430	Propanoate metabolism	LDHAL6A	KEGG
+431	Propanoate metabolism	LDHAL6B	KEGG
+432	Propanoate metabolism	LDHA	KEGG
+433	Propanoate metabolism	LDHB	KEGG
+434	Propanoate metabolism	LDHC	KEGG
+435	Propanoate metabolism	ACAT2	KEGG
+436	Propanoate metabolism	ACAT1	KEGG
+437	Butanoate metabolism	ACAT2	KEGG
+438	Butanoate metabolism	ACAT1	KEGG
+439	Butanoate metabolism	HADH	KEGG
+440	Butanoate metabolism	HADHA	KEGG
+441	Butanoate metabolism	EHHADH	KEGG
+442	Butanoate metabolism	ECHS1	KEGG
+443	Butanoate metabolism	ACADS	KEGG
+444	Butanoate metabolism	ACSM1	KEGG
+445	Butanoate metabolism	ACSM2A	KEGG
+446	Butanoate metabolism	ACSM4	KEGG
+447	Butanoate metabolism	ACSM5	KEGG
+448	Butanoate metabolism	ACSM3	KEGG
+449	Butanoate metabolism	ACSM2B	KEGG
+450	Butanoate metabolism	ACSM6	KEGG
+451	Butanoate metabolism	L2HGDH	KEGG
+452	Butanoate metabolism	GAD1	KEGG
+453	Butanoate metabolism	GAD2	KEGG
+454	Butanoate metabolism	ABAT	KEGG
+455	Butanoate metabolism	ALDH5A1	KEGG
+456	Butanoate metabolism	HMGCS1	KEGG
+457	Butanoate metabolism	HMGCS2	KEGG
+458	Butanoate metabolism	HMGCL	KEGG
+459	Butanoate metabolism	HMGCLL1	KEGG
+460	Butanoate metabolism	OXCT1	KEGG
+461	Butanoate metabolism	OXCT2	KEGG
+462	Butanoate metabolism	AACS	KEGG
+463	Butanoate metabolism	BDH1	KEGG
+464	Butanoate metabolism	BDH2	KEGG
+465	Inositol phosphate metabolism	PIK3C3	KEGG
+466	Inositol phosphate metabolism	MTM1	KEGG
+467	Inositol phosphate metabolism	MTMR1	KEGG
+468	Inositol phosphate metabolism	MTMR2	KEGG
+469	Inositol phosphate metabolism	MTMR3	KEGG
+470	Inositol phosphate metabolism	MTMR4	KEGG
+471	Inositol phosphate metabolism	MTMR8	KEGG
+472	Inositol phosphate metabolism	MTMR6	KEGG
+473	Inositol phosphate metabolism	MTMR7	KEGG
+474	Inositol phosphate metabolism	MTMR14	KEGG
+475	Inositol phosphate metabolism	PI4KA	KEGG
+476	Inositol phosphate metabolism	PI4KB	KEGG
+477	Inositol phosphate metabolism	PI4K2A	KEGG
+478	Inositol phosphate metabolism	PI4K2B	KEGG
+479	Inositol phosphate metabolism	SACM1L	KEGG
+480	Inositol phosphate metabolism	INPP5F	KEGG
+481	Inositol phosphate metabolism	PIP5K1C	KEGG
+482	Inositol phosphate metabolism	PIP5K1A	KEGG
+483	Inositol phosphate metabolism	PIP5K1B	KEGG
+484	Inositol phosphate metabolism	PIP5KL1	KEGG
+485	Inositol phosphate metabolism	OCRL	KEGG
+486	Inositol phosphate metabolism	INPP5B	KEGG
+487	Inositol phosphate metabolism	INPP5E	KEGG
+488	Inositol phosphate metabolism	SYNJ1	KEGG
+489	Inositol phosphate metabolism	SYNJ2	KEGG
+490	Inositol phosphate metabolism	PIK3CA	KEGG
+491	Inositol phosphate metabolism	PIK3CD	KEGG
+492	Inositol phosphate metabolism	PIK3CB	KEGG
+493	Inositol phosphate metabolism	PIK3CG	KEGG
+494	Inositol phosphate metabolism	PTEN	KEGG
+495	Inositol phosphate metabolism	INPP5D	KEGG
+496	Inositol phosphate metabolism	INPPL1	KEGG
+497	Inositol phosphate metabolism	PIK3C2G	KEGG
+498	Inositol phosphate metabolism	PIK3C2A	KEGG
+499	Inositol phosphate metabolism	PIK3C2B	KEGG
+500	Inositol phosphate metabolism	INPP4A	KEGG
+501	Inositol phosphate metabolism	INPP4B	KEGG
+502	Inositol phosphate metabolism	PIKFYVE	KEGG
+503	Inositol phosphate metabolism	PIP4K2C	KEGG
+504	Inositol phosphate metabolism	PIP4K2A	KEGG
+505	Inositol phosphate metabolism	PIP4K2B	KEGG
+506	Inositol phosphate metabolism	PLCB1	KEGG
+507	Inositol phosphate metabolism	PLCB2	KEGG
+508	Inositol phosphate metabolism	PLCB3	KEGG
+509	Inositol phosphate metabolism	PLCB4	KEGG
+510	Inositol phosphate metabolism	PLCD1	KEGG
+511	Inositol phosphate metabolism	PLCD3	KEGG
+512	Inositol phosphate metabolism	PLCD4	KEGG
+513	Inositol phosphate metabolism	PLCE1	KEGG
+514	Inositol phosphate metabolism	PLCG1	KEGG
+515	Inositol phosphate metabolism	PLCG2	KEGG
+516	Inositol phosphate metabolism	PLCZ1	KEGG
+517	Inositol phosphate metabolism	PLCH1	KEGG
+518	Inositol phosphate metabolism	PLCH2	KEGG
+519	Inositol phosphate metabolism	IMPA2	KEGG
+520	Inositol phosphate metabolism	IMPA1	KEGG
+521	Inositol phosphate metabolism	IMPAD1	KEGG
+522	Inositol phosphate metabolism	CDIPT	KEGG
+523	Inositol phosphate metabolism	ISYNA1	KEGG
+524	Inositol phosphate metabolism	INPP1	KEGG
+525	Inositol phosphate metabolism	INPP5K	KEGG
+526	Inositol phosphate metabolism	INPP5J	KEGG
+527	Inositol phosphate metabolism	INPP5A	KEGG
+528	Inositol phosphate metabolism	MINPP1	KEGG
+529	Inositol phosphate metabolism	ITPKB	KEGG
+530	Inositol phosphate metabolism	ITPKA	KEGG
+531	Inositol phosphate metabolism	ITPKC	KEGG
+532	Inositol phosphate metabolism	ITPK1	KEGG
+533	Inositol phosphate metabolism	IPMK	KEGG
+534	Inositol phosphate metabolism	IPPK	KEGG
+535	Inositol phosphate metabolism	MIOX	KEGG
+536	Inositol phosphate metabolism	ALDH6A1	KEGG
+537	Inositol phosphate metabolism	TPI1	KEGG
+538	Oxidative phosphorylation	ND1	KEGG
+539	Oxidative phosphorylation	ND2	KEGG
+540	Oxidative phosphorylation	ND3	KEGG
+541	Oxidative phosphorylation	ND4	KEGG
+542	Oxidative phosphorylation	ND4L	KEGG
+543	Oxidative phosphorylation	ND5	KEGG
+544	Oxidative phosphorylation	ND6	KEGG
+545	Oxidative phosphorylation	NDUFS1	KEGG
+546	Oxidative phosphorylation	NDUFS2	KEGG
+547	Oxidative phosphorylation	NDUFS3	KEGG
+548	Oxidative phosphorylation	NDUFS4	KEGG
+549	Oxidative phosphorylation	NDUFS5	KEGG
+550	Oxidative phosphorylation	NDUFS6	KEGG
+551	Oxidative phosphorylation	NDUFS7	KEGG
+552	Oxidative phosphorylation	NDUFS8	KEGG
+553	Oxidative phosphorylation	NDUFV1	KEGG
+554	Oxidative phosphorylation	NDUFV2	KEGG
+555	Oxidative phosphorylation	NDUFV3	KEGG
+556	Oxidative phosphorylation	NDUFA1	KEGG
+557	Oxidative phosphorylation	NDUFA2	KEGG
+558	Oxidative phosphorylation	NDUFA3	KEGG
+559	Oxidative phosphorylation	NDUFA4	KEGG
+560	Oxidative phosphorylation	NDUFA4L2	KEGG
+561	Oxidative phosphorylation	NDUFA5	KEGG
+562	Oxidative phosphorylation	NDUFA6	KEGG
+563	Oxidative phosphorylation	NDUFA7	KEGG
+564	Oxidative phosphorylation	NDUFA8	KEGG
+565	Oxidative phosphorylation	NDUFA9	KEGG
+566	Oxidative phosphorylation	NDUFA10	KEGG
+567	Oxidative phosphorylation	NDUFAB1	KEGG
+568	Oxidative phosphorylation	NDUFA11	KEGG
+569	Oxidative phosphorylation	NDUFA12	KEGG
+570	Oxidative phosphorylation	NDUFA13	KEGG
+571	Oxidative phosphorylation	NDUFB1	KEGG
+572	Oxidative phosphorylation	NDUFB2	KEGG
+573	Oxidative phosphorylation	NDUFB3	KEGG
+574	Oxidative phosphorylation	NDUFB4	KEGG
+575	Oxidative phosphorylation	NDUFB5	KEGG
+576	Oxidative phosphorylation	NDUFB6	KEGG
+577	Oxidative phosphorylation	NDUFB7	KEGG
+578	Oxidative phosphorylation	NDUFB8	KEGG
+579	Oxidative phosphorylation	NDUFB9	KEGG
+580	Oxidative phosphorylation	NDUFB10	KEGG
+581	Oxidative phosphorylation	NDUFB11	KEGG
+582	Oxidative phosphorylation	NDUFC1	KEGG
+583	Oxidative phosphorylation	NDUFC2	KEGG
+584	Oxidative phosphorylation	NDUFC2 KCTD14	KEGG
+585	Oxidative phosphorylation	SDHA	KEGG
+586	Oxidative phosphorylation	SDHB	KEGG
+587	Oxidative phosphorylation	SDHC	KEGG
+588	Oxidative phosphorylation	SDHD	KEGG
+589	Oxidative phosphorylation	UQCRFS1	KEGG
+590	Oxidative phosphorylation	CYTB	KEGG
+591	Oxidative phosphorylation	CYC1	KEGG
+592	Oxidative phosphorylation	UQCRC1	KEGG
+593	Oxidative phosphorylation	UQCRC2	KEGG
+594	Oxidative phosphorylation	UQCRH	KEGG
+595	Oxidative phosphorylation	UQCRHL	KEGG
+596	Oxidative phosphorylation	UQCRB	KEGG
+597	Oxidative phosphorylation	UQCRQ	KEGG
+598	Oxidative phosphorylation	UQCR10	KEGG
+599	Oxidative phosphorylation	UQCR11	KEGG
+600	Oxidative phosphorylation	COX10	KEGG
+601	Oxidative phosphorylation	COX3	KEGG
+602	Oxidative phosphorylation	COX1	KEGG
+603	Oxidative phosphorylation	COX2	KEGG
+604	Oxidative phosphorylation	COX4I2	KEGG
+605	Oxidative phosphorylation	COX4I1	KEGG
+606	Oxidative phosphorylation	COX5A	KEGG
+607	Oxidative phosphorylation	COX5B	KEGG
+608	Oxidative phosphorylation	COX6A1	KEGG
+609	Oxidative phosphorylation	COX6A2	KEGG
+610	Oxidative phosphorylation	COX6B1	KEGG
+611	Oxidative phosphorylation	COX6B2	KEGG
+612	Oxidative phosphorylation	COX6C	KEGG
+613	Oxidative phosphorylation	COX7A1	KEGG
+614	Oxidative phosphorylation	COX7A2	KEGG
+615	Oxidative phosphorylation	COX7A2L	KEGG
+616	Oxidative phosphorylation	COX7B	KEGG
+617	Oxidative phosphorylation	COX7B2	KEGG
+618	Oxidative phosphorylation	COX7C	KEGG
+619	Oxidative phosphorylation	COX8C	KEGG
+620	Oxidative phosphorylation	COX8A	KEGG
+621	Oxidative phosphorylation	COX11	KEGG
+622	Oxidative phosphorylation	COX15	KEGG
+623	Oxidative phosphorylation	COX17	KEGG
+624	Oxidative phosphorylation	ATP5F1A	KEGG
+625	Oxidative phosphorylation	ATP5F1B	KEGG
+626	Oxidative phosphorylation	ATP5F1C	KEGG
+627	Oxidative phosphorylation	ATP5F1D	KEGG
+628	Oxidative phosphorylation	ATP5F1E	KEGG
+629	Oxidative phosphorylation	ATP5PO	KEGG
+630	Oxidative phosphorylation	ATP6	KEGG
+631	Oxidative phosphorylation	ATP5PB	KEGG
+632	Oxidative phosphorylation	ATP5MC1	KEGG
+633	Oxidative phosphorylation	ATP5MC2	KEGG
+634	Oxidative phosphorylation	ATP5MC3	KEGG
+635	Oxidative phosphorylation	ATP5PD	KEGG
+636	Oxidative phosphorylation	ATP5ME	KEGG
+637	Oxidative phosphorylation	ATP5MF	KEGG
+638	Oxidative phosphorylation	ATP5MG	KEGG
+639	Oxidative phosphorylation	ATP5PF	KEGG
+640	Oxidative phosphorylation	ATP8	KEGG
+641	Oxidative phosphorylation	ATP6V1A	KEGG
+642	Oxidative phosphorylation	ATP6V1B1	KEGG
+643	Oxidative phosphorylation	ATP6V1B2	KEGG
+644	Oxidative phosphorylation	ATP6V1C2	KEGG
+645	Oxidative phosphorylation	ATP6V1C1	KEGG
+646	Oxidative phosphorylation	ATP6V1D	KEGG
+647	Oxidative phosphorylation	ATP6V1E2	KEGG
+648	Oxidative phosphorylation	ATP6V1E1	KEGG
+649	Oxidative phosphorylation	ATP6V1F	KEGG
+650	Oxidative phosphorylation	ATP6V1G1	KEGG
+651	Oxidative phosphorylation	ATP6V1G3	KEGG
+652	Oxidative phosphorylation	ATP6V1G2	KEGG
+653	Oxidative phosphorylation	ATP6V1H	KEGG
+654	Oxidative phosphorylation	TCIRG1	KEGG
+655	Oxidative phosphorylation	ATP6V0A2	KEGG
+656	Oxidative phosphorylation	ATP6V0A4	KEGG
+657	Oxidative phosphorylation	ATP6V0A1	KEGG
+658	Oxidative phosphorylation	ATP6V0C	KEGG
+659	Oxidative phosphorylation	ATP6V0B	KEGG
+660	Oxidative phosphorylation	ATP6V0D1	KEGG
+661	Oxidative phosphorylation	ATP6V0D2	KEGG
+662	Oxidative phosphorylation	ATP6V0E1	KEGG
+663	Oxidative phosphorylation	ATP6V0E2	KEGG
+664	Oxidative phosphorylation	ATP6AP1	KEGG
+665	Oxidative phosphorylation	ATP4A	KEGG
+666	Oxidative phosphorylation	ATP4B	KEGG
+667	Oxidative phosphorylation	ATP12A	KEGG
+668	Oxidative phosphorylation	PPA2	KEGG
+669	Oxidative phosphorylation	PPA1	KEGG
+670	Oxidative phosphorylation	LHPP	KEGG
+671	Nitrogen metabolism	GLUD2	KEGG
+672	Nitrogen metabolism	GLUD1	KEGG
+673	Nitrogen metabolism	GLUL	KEGG
+674	Nitrogen metabolism	CPS1	KEGG
+675	Nitrogen metabolism	CA13	KEGG
+676	Nitrogen metabolism	CA1	KEGG
+677	Nitrogen metabolism	CA6	KEGG
+678	Nitrogen metabolism	CA7	KEGG
+679	Nitrogen metabolism	CA12	KEGG
+680	Nitrogen metabolism	CA5B	KEGG
+681	Nitrogen metabolism	CA14	KEGG
+682	Nitrogen metabolism	CA9	KEGG
+683	Nitrogen metabolism	CA3	KEGG
+684	Nitrogen metabolism	CA5A	KEGG
+685	Nitrogen metabolism	CA8	KEGG
+686	Nitrogen metabolism	CA2	KEGG
+687	Nitrogen metabolism	CA4	KEGG
+688	Sulfur metabolism	PAPSS2	KEGG
+689	Sulfur metabolism	PAPSS1	KEGG
+690	Sulfur metabolism	BPNT1	KEGG
+691	Sulfur metabolism	IMPAD1	KEGG
+692	Sulfur metabolism	SUOX	KEGG
+693	Sulfur metabolism	SQOR	KEGG
+694	Sulfur metabolism	ETHE1	KEGG
+695	Sulfur metabolism	MPST	KEGG
+696	Sulfur metabolism	TST	KEGG
+697	Fatty acid biosynthesis	ACACA	KEGG
+698	Fatty acid biosynthesis	ACACB	KEGG
+699	Fatty acid biosynthesis	MCAT	KEGG
+700	Fatty acid biosynthesis	FASN	KEGG
+701	Fatty acid biosynthesis	OXSM	KEGG
+702	Fatty acid biosynthesis	OLAH	KEGG
+703	Fatty acid biosynthesis	ACSL6	KEGG
+704	Fatty acid biosynthesis	ACSL4	KEGG
+705	Fatty acid biosynthesis	ACSL1	KEGG
+706	Fatty acid biosynthesis	ACSL5	KEGG
+707	Fatty acid biosynthesis	ACSL3	KEGG
+708	Fatty acid biosynthesis	ACSBG1	KEGG
+709	Fatty acid biosynthesis	ACSBG2	KEGG
+710	Fatty acid elongation	ACAA2	KEGG
+711	Fatty acid elongation	HADHB	KEGG
+712	Fatty acid elongation	HADH	KEGG
+713	Fatty acid elongation	HADHA	KEGG
+714	Fatty acid elongation	ECHS1	KEGG
+715	Fatty acid elongation	MECR	KEGG
+716	Fatty acid elongation	PPT1	KEGG
+717	Fatty acid elongation	PPT2	KEGG
+718	Fatty acid elongation	ABHD17A	KEGG
+719	Fatty acid elongation	ABHD17B	KEGG
+720	Fatty acid elongation	ABHD17C	KEGG
+721	Fatty acid elongation	ELOVL1	KEGG
+722	Fatty acid elongation	ELOVL2	KEGG
+723	Fatty acid elongation	ELOVL3	KEGG
+724	Fatty acid elongation	ELOVL4	KEGG
+725	Fatty acid elongation	ELOVL5	KEGG
+726	Fatty acid elongation	ELOVL6	KEGG
+727	Fatty acid elongation	ELOVL7	KEGG
+728	Fatty acid elongation	HSD17B12	KEGG
+729	Fatty acid elongation	HACD2	KEGG
+730	Fatty acid elongation	HACD1	KEGG
+731	Fatty acid elongation	HACD4	KEGG
+732	Fatty acid elongation	HACD3	KEGG
+733	Fatty acid elongation	TECR	KEGG
+734	Fatty acid elongation	ACOT4	KEGG
+735	Fatty acid elongation	ACOT2	KEGG
+736	Fatty acid elongation	ACOT1	KEGG
+737	Fatty acid elongation	ACOT7	KEGG
+738	Fatty acid elongation	THEM4	KEGG
+739	Fatty acid elongation	THEM5	KEGG
+740	Fatty acid degradation	ACAT2	KEGG
+741	Fatty acid degradation	ACAT1	KEGG
+742	Fatty acid degradation	ACAA1	KEGG
+743	Fatty acid degradation	ACAA2	KEGG
+744	Fatty acid degradation	HADHB	KEGG
+745	Fatty acid degradation	HADH	KEGG
+746	Fatty acid degradation	HADHA	KEGG
+747	Fatty acid degradation	EHHADH	KEGG
+748	Fatty acid degradation	ECHS1	KEGG
+749	Fatty acid degradation	ACOX3	KEGG
+750	Fatty acid degradation	ACOX1	KEGG
+751	Fatty acid degradation	ACADS	KEGG
+752	Fatty acid degradation	ACADM	KEGG
+753	Fatty acid degradation	ACADL	KEGG
+754	Fatty acid degradation	ACADSB	KEGG
+755	Fatty acid degradation	ACADVL	KEGG
+756	Fatty acid degradation	GCDH	KEGG
+757	Fatty acid degradation	ACSL6	KEGG
+758	Fatty acid degradation	ACSL4	KEGG
+759	Fatty acid degradation	ACSL1	KEGG
+760	Fatty acid degradation	ACSL5	KEGG
+761	Fatty acid degradation	ACSL3	KEGG
+762	Fatty acid degradation	ACSBG1	KEGG
+763	Fatty acid degradation	ACSBG2	KEGG
+764	Fatty acid degradation	CPT1A	KEGG
+765	Fatty acid degradation	CPT1B	KEGG
+766	Fatty acid degradation	CPT1C	KEGG
+767	Fatty acid degradation	CPT2	KEGG
+768	Fatty acid degradation	ECI1	KEGG
+769	Fatty acid degradation	ECI2	KEGG
+770	Fatty acid degradation	CYP4A11	KEGG
+771	Fatty acid degradation	CYP4A22	KEGG
+772	Fatty acid degradation	ADH1A	KEGG
+773	Fatty acid degradation	ADH1B	KEGG
+774	Fatty acid degradation	ADH1C	KEGG
+775	Fatty acid degradation	ADH7	KEGG
+776	Fatty acid degradation	ADH4	KEGG
+777	Fatty acid degradation	ADH5	KEGG
+778	Fatty acid degradation	ADH6	KEGG
+779	Fatty acid degradation	ALDH2	KEGG
+780	Fatty acid degradation	ALDH3A2	KEGG
+781	Fatty acid degradation	ALDH1B1	KEGG
+782	Fatty acid degradation	ALDH7A1	KEGG
+783	Fatty acid degradation	ALDH9A1	KEGG
+784	Synthesis and degradation of ketone bodies	HMGCS1	KEGG
+785	Synthesis and degradation of ketone bodies	HMGCS2	KEGG
+786	Synthesis and degradation of ketone bodies	HMGCL	KEGG
+787	Synthesis and degradation of ketone bodies	HMGCLL1	KEGG
+788	Synthesis and degradation of ketone bodies	OXCT1	KEGG
+789	Synthesis and degradation of ketone bodies	OXCT2	KEGG
+790	Synthesis and degradation of ketone bodies	ACAT2	KEGG
+791	Synthesis and degradation of ketone bodies	ACAT1	KEGG
+792	Synthesis and degradation of ketone bodies	BDH1	KEGG
+793	Synthesis and degradation of ketone bodies	BDH2	KEGG
+794	Steroid biosynthesis	FDFT1	KEGG
+795	Steroid biosynthesis	SQLE	KEGG
+796	Steroid biosynthesis	LSS	KEGG
+797	Steroid biosynthesis	CYP51A1	KEGG
+798	Steroid biosynthesis	TM7SF2	KEGG
+799	Steroid biosynthesis	MSMO1	KEGG
+800	Steroid biosynthesis	NSDHL	KEGG
+801	Steroid biosynthesis	HSD17B7	KEGG
+802	Steroid biosynthesis	EBP	KEGG
+803	Steroid biosynthesis	DHCR24	KEGG
+804	Steroid biosynthesis	SC5D	KEGG
+805	Steroid biosynthesis	DHCR7	KEGG
+806	Steroid biosynthesis	LIPA	KEGG
+807	Steroid biosynthesis	CEL	KEGG
+808	Steroid biosynthesis	SOAT2	KEGG
+809	Steroid biosynthesis	SOAT1	KEGG
+810	Steroid biosynthesis	CYP2R1	KEGG
+811	Steroid biosynthesis	CYP27B1	KEGG
+812	Steroid biosynthesis	CYP24A1	KEGG
+813	Primary bile acid biosynthesis	CYP46A1	KEGG
+814	Primary bile acid biosynthesis	CYP39A1	KEGG
+815	Primary bile acid biosynthesis	HSD3B7	KEGG
+816	Primary bile acid biosynthesis	CH25H	KEGG
+817	Primary bile acid biosynthesis	CYP7B1	KEGG
+818	Primary bile acid biosynthesis	CYP7A1	KEGG
+819	Primary bile acid biosynthesis	CYP27A1	KEGG
+820	Primary bile acid biosynthesis	CYP8B1	KEGG
+821	Primary bile acid biosynthesis	AKR1D1	KEGG
+822	Primary bile acid biosynthesis	AKR1C4	KEGG
+823	Primary bile acid biosynthesis	SLC27A5	KEGG
+824	Primary bile acid biosynthesis	AMACR	KEGG
+825	Primary bile acid biosynthesis	ACOX2	KEGG
+826	Primary bile acid biosynthesis	HSD17B4	KEGG
+827	Primary bile acid biosynthesis	SCP2	KEGG
+828	Primary bile acid biosynthesis	ACOT8	KEGG
+829	Primary bile acid biosynthesis	BAAT	KEGG
+830	Steroid hormone biosynthesis	CYP11A1	KEGG
+831	Steroid hormone biosynthesis	CYP17A1	KEGG
+832	Steroid hormone biosynthesis	STS	KEGG
+833	Steroid hormone biosynthesis	SULT2B1	KEGG
+834	Steroid hormone biosynthesis	CYP21A2	KEGG
+835	Steroid hormone biosynthesis	HSD3B1	KEGG
+836	Steroid hormone biosynthesis	HSD3B2	KEGG
+837	Steroid hormone biosynthesis	SRD5A1	KEGG
+838	Steroid hormone biosynthesis	SRD5A2	KEGG
+839	Steroid hormone biosynthesis	SRD5A3	KEGG
+840	Steroid hormone biosynthesis	AKR1C2	KEGG
+841	Steroid hormone biosynthesis	AKR1C3	KEGG
+842	Steroid hormone biosynthesis	CYP11B1	KEGG
+843	Steroid hormone biosynthesis	CYP11B2	KEGG
+844	Steroid hormone biosynthesis	AKR1D1	KEGG
+845	Steroid hormone biosynthesis	AKR1C4	KEGG
+846	Steroid hormone biosynthesis	HSD11B1	KEGG
+847	Steroid hormone biosynthesis	HSD11B2	KEGG
+848	Steroid hormone biosynthesis	AKR1C1	KEGG
+849	Steroid hormone biosynthesis	CYP7B1	KEGG
+850	Steroid hormone biosynthesis	SULT1E1	KEGG
+851	Steroid hormone biosynthesis	HSD17B1	KEGG
+852	Steroid hormone biosynthesis	HSD17B2	KEGG
+853	Steroid hormone biosynthesis	HSD17B6	KEGG
+854	Steroid hormone biosynthesis	HSD17B7	KEGG
+855	Steroid hormone biosynthesis	HSD17B8	KEGG
+856	Steroid hormone biosynthesis	HSD17B12	KEGG
+857	Steroid hormone biosynthesis	CYP1A1	KEGG
+858	Steroid hormone biosynthesis	CYP1A2	KEGG
+859	Steroid hormone biosynthesis	CYP3A5	KEGG
+860	Steroid hormone biosynthesis	CYP3A7	KEGG
+861	Steroid hormone biosynthesis	CYP3A7 CYP3A51P	KEGG
+862	Steroid hormone biosynthesis	CYP2E1	KEGG
+863	Steroid hormone biosynthesis	CYP3A4	KEGG
+864	Steroid hormone biosynthesis	CYP1B1	KEGG
+865	Steroid hormone biosynthesis	CYP19A1	KEGG
+866	Steroid hormone biosynthesis	CYP7A1	KEGG
+867	Steroid hormone biosynthesis	UGT2A1	KEGG
+868	Steroid hormone biosynthesis	UGT2A3	KEGG
+869	Steroid hormone biosynthesis	UGT2B17	KEGG
+870	Steroid hormone biosynthesis	UGT2B11	KEGG
+871	Steroid hormone biosynthesis	UGT2B28	KEGG
+872	Steroid hormone biosynthesis	UGT1A6	KEGG
+873	Steroid hormone biosynthesis	UGT1A4	KEGG
+874	Steroid hormone biosynthesis	UGT1A1	KEGG
+875	Steroid hormone biosynthesis	UGT1A3	KEGG
+876	Steroid hormone biosynthesis	UGT2B10	KEGG
+877	Steroid hormone biosynthesis	UGT1A9	KEGG
+878	Steroid hormone biosynthesis	UGT2B7	KEGG
+879	Steroid hormone biosynthesis	UGT1A10	KEGG
+880	Steroid hormone biosynthesis	UGT1A8	KEGG
+881	Steroid hormone biosynthesis	UGT1A5	KEGG
+882	Steroid hormone biosynthesis	UGT2B15	KEGG
+883	Steroid hormone biosynthesis	UGT1A7	KEGG
+884	Steroid hormone biosynthesis	UGT2B4	KEGG
+885	Steroid hormone biosynthesis	UGT2A2	KEGG
+886	Steroid hormone biosynthesis	COMT	KEGG
+887	Steroid hormone biosynthesis	LRTOMT	KEGG
+888	Steroid hormone biosynthesis	HSD17B3	KEGG
+889	Glycerolipid metabolism	GLYCTK	KEGG
+890	Glycerolipid metabolism	ALDH2	KEGG
+891	Glycerolipid metabolism	ALDH3A2	KEGG
+892	Glycerolipid metabolism	ALDH1B1	KEGG
+893	Glycerolipid metabolism	ALDH7A1	KEGG
+894	Glycerolipid metabolism	ALDH9A1	KEGG
+895	Glycerolipid metabolism	AKR1B1	KEGG
+896	Glycerolipid metabolism	AKR1B10	KEGG
+897	Glycerolipid metabolism	AKR1A1	KEGG
+898	Glycerolipid metabolism	TKFC	KEGG
+899	Glycerolipid metabolism	GK2	KEGG
+900	Glycerolipid metabolism	GK	KEGG
+901	Glycerolipid metabolism	GPAM	KEGG
+902	Glycerolipid metabolism	GPAT2	KEGG
+903	Glycerolipid metabolism	GPAT4	KEGG
+904	Glycerolipid metabolism	GPAT3	KEGG
+905	Glycerolipid metabolism	AGPAT1	KEGG
+906	Glycerolipid metabolism	AGPAT2	KEGG
+907	Glycerolipid metabolism	AGPAT5	KEGG
+908	Glycerolipid metabolism	LCLAT1	KEGG
+909	Glycerolipid metabolism	MBOAT1	KEGG
+910	Glycerolipid metabolism	MBOAT2	KEGG
+911	Glycerolipid metabolism	AGPAT3	KEGG
+912	Glycerolipid metabolism	AGPAT4	KEGG
+913	Glycerolipid metabolism	PLPP1	KEGG
+914	Glycerolipid metabolism	PLPP3	KEGG
+915	Glycerolipid metabolism	PLPP2	KEGG
+916	Glycerolipid metabolism	LPIN1	KEGG
+917	Glycerolipid metabolism	LPIN3	KEGG
+918	Glycerolipid metabolism	LPIN2	KEGG
+919	Glycerolipid metabolism	PLPP5	KEGG
+920	Glycerolipid metabolism	PLPP4	KEGG
+921	Glycerolipid metabolism	DGKZ	KEGG
+922	Glycerolipid metabolism	DGKD	KEGG
+923	Glycerolipid metabolism	DGKI	KEGG
+924	Glycerolipid metabolism	DGKA	KEGG
+925	Glycerolipid metabolism	DGKE	KEGG
+926	Glycerolipid metabolism	DGKB	KEGG
+927	Glycerolipid metabolism	DGKH	KEGG
+928	Glycerolipid metabolism	DGKG	KEGG
+929	Glycerolipid metabolism	DGKQ	KEGG
+930	Glycerolipid metabolism	DGKK	KEGG
+931	Glycerolipid metabolism	DGAT1	KEGG
+932	Glycerolipid metabolism	DGAT2	KEGG
+933	Glycerolipid metabolism	MOGAT3	KEGG
+934	Glycerolipid metabolism	CEL	KEGG
+935	Glycerolipid metabolism	PNPLA2	KEGG
+936	Glycerolipid metabolism	PNPLA3	KEGG
+937	Glycerolipid metabolism	PNLIP	KEGG
+938	Glycerolipid metabolism	PNLIPRP1	KEGG
+939	Glycerolipid metabolism	PNLIPRP2	KEGG
+940	Glycerolipid metabolism	PNLIPRP3	KEGG
+941	Glycerolipid metabolism	LIPC	KEGG
+942	Glycerolipid metabolism	LIPF	KEGG
+943	Glycerolipid metabolism	LIPG	KEGG
+944	Glycerolipid metabolism	LPL	KEGG
+945	Glycerolipid metabolism	AGK	KEGG
+946	Glycerolipid metabolism	MGLL	KEGG
+947	Glycerolipid metabolism	MOGAT1	KEGG
+948	Glycerolipid metabolism	MOGAT2	KEGG
+949	Glycerolipid metabolism	GLA	KEGG
+950	Glycerophospholipid metabolism	GPD1L	KEGG
+951	Glycerophospholipid metabolism	GPD1	KEGG
+952	Glycerophospholipid metabolism	GPD2	KEGG
+953	Glycerophospholipid metabolism	GPAM	KEGG
+954	Glycerophospholipid metabolism	GPAT2	KEGG
+955	Glycerophospholipid metabolism	GPAT4	KEGG
+956	Glycerophospholipid metabolism	GPAT3	KEGG
+957	Glycerophospholipid metabolism	AGPAT1	KEGG
+958	Glycerophospholipid metabolism	AGPAT2	KEGG
+959	Glycerophospholipid metabolism	AGPAT5	KEGG
+960	Glycerophospholipid metabolism	LCLAT1	KEGG
+961	Glycerophospholipid metabolism	MBOAT1	KEGG
+962	Glycerophospholipid metabolism	MBOAT2	KEGG
+963	Glycerophospholipid metabolism	AGPAT3	KEGG
+964	Glycerophospholipid metabolism	AGPAT4	KEGG
+965	Glycerophospholipid metabolism	GNPAT	KEGG
+966	Glycerophospholipid metabolism	ADPRM	KEGG
+967	Glycerophospholipid metabolism	PLPP1	KEGG
+968	Glycerophospholipid metabolism	PLPP3	KEGG
+969	Glycerophospholipid metabolism	PLPP2	KEGG
+970	Glycerophospholipid metabolism	LPIN1	KEGG
+971	Glycerophospholipid metabolism	LPIN3	KEGG
+972	Glycerophospholipid metabolism	LPIN2	KEGG
+973	Glycerophospholipid metabolism	PLPP5	KEGG
+974	Glycerophospholipid metabolism	PLPP4	KEGG
+975	Glycerophospholipid metabolism	DGKZ	KEGG
+976	Glycerophospholipid metabolism	DGKD	KEGG
+977	Glycerophospholipid metabolism	DGKI	KEGG
+978	Glycerophospholipid metabolism	DGKA	KEGG
+979	Glycerophospholipid metabolism	DGKE	KEGG
+980	Glycerophospholipid metabolism	DGKB	KEGG
+981	Glycerophospholipid metabolism	DGKH	KEGG
+982	Glycerophospholipid metabolism	DGKG	KEGG
+983	Glycerophospholipid metabolism	DGKQ	KEGG
+984	Glycerophospholipid metabolism	DGKK	KEGG
+985	Glycerophospholipid metabolism	CHPT1	KEGG
+986	Glycerophospholipid metabolism	CEPT1	KEGG
+987	Glycerophospholipid metabolism	PLD1	KEGG
+988	Glycerophospholipid metabolism	PLD2	KEGG
+989	Glycerophospholipid metabolism	PLD3	KEGG
+990	Glycerophospholipid metabolism	PLD4	KEGG
+991	Glycerophospholipid metabolism	LCAT	KEGG
+992	Glycerophospholipid metabolism	PLA2G10	KEGG
+993	Glycerophospholipid metabolism	PLA2G2D	KEGG
+994	Glycerophospholipid metabolism	PLA2G2E	KEGG
+995	Glycerophospholipid metabolism	PLA2G3	KEGG
+996	Glycerophospholipid metabolism	PLA2G2F	KEGG
+997	Glycerophospholipid metabolism	PLA2G12A	KEGG
+998	Glycerophospholipid metabolism	PLA2G12B	KEGG
+999	Glycerophospholipid metabolism	PLA2G1B	KEGG
+1000	Glycerophospholipid metabolism	PLA2G5	KEGG
+1001	Glycerophospholipid metabolism	PLA2G2A	KEGG
+1002	Glycerophospholipid metabolism	PLA2G2C	KEGG
+1003	Glycerophospholipid metabolism	PLA2G4E	KEGG
+1004	Glycerophospholipid metabolism	PLA2G4A	KEGG
+1005	Glycerophospholipid metabolism	JMJD7 PLA2G4B	KEGG
+1006	Glycerophospholipid metabolism	PLA2G4B	KEGG
+1007	Glycerophospholipid metabolism	PLA2G4C	KEGG
+1008	Glycerophospholipid metabolism	PLA2G4D	KEGG
+1009	Glycerophospholipid metabolism	PLA2G4F	KEGG
+1010	Glycerophospholipid metabolism	PLA2G6	KEGG
+1011	Glycerophospholipid metabolism	PLB1	KEGG
+1012	Glycerophospholipid metabolism	PLA2G16	KEGG
+1013	Glycerophospholipid metabolism	LPCAT2	KEGG
+1014	Glycerophospholipid metabolism	LPCAT1	KEGG
+1015	Glycerophospholipid metabolism	LPCAT4	KEGG
+1016	Glycerophospholipid metabolism	LPCAT3	KEGG
+1017	Glycerophospholipid metabolism	LYPLA1	KEGG
+1018	Glycerophospholipid metabolism	PLA2G15	KEGG
+1019	Glycerophospholipid metabolism	LYPLA2	KEGG
+1020	Glycerophospholipid metabolism	PNPLA6	KEGG
+1021	Glycerophospholipid metabolism	PNPLA7	KEGG
+1022	Glycerophospholipid metabolism	GPCPD1	KEGG
+1023	Glycerophospholipid metabolism	CHAT	KEGG
+1024	Glycerophospholipid metabolism	ACHE	KEGG
+1025	Glycerophospholipid metabolism	CHKA	KEGG
+1026	Glycerophospholipid metabolism	CHKB	KEGG
+1027	Glycerophospholipid metabolism	PHOSPHO1	KEGG
+1028	Glycerophospholipid metabolism	PCYT1B	KEGG
+1029	Glycerophospholipid metabolism	PCYT1A	KEGG
+1030	Glycerophospholipid metabolism	SELENOI	KEGG
+1031	Glycerophospholipid metabolism	ETNK1	KEGG
+1032	Glycerophospholipid metabolism	ETNK2	KEGG
+1033	Glycerophospholipid metabolism	PCYT2	KEGG
+1034	Glycerophospholipid metabolism	ETNPPL	KEGG
+1035	Glycerophospholipid metabolism	PEMT	KEGG
+1036	Glycerophospholipid metabolism	CDS1	KEGG
+1037	Glycerophospholipid metabolism	CDS2	KEGG
+1038	Glycerophospholipid metabolism	PTDSS1	KEGG
+1039	Glycerophospholipid metabolism	PTDSS2	KEGG
+1040	Glycerophospholipid metabolism	PISD	KEGG
+1041	Glycerophospholipid metabolism	PGS1	KEGG
+1042	Glycerophospholipid metabolism	CRLS1	KEGG
+1043	Glycerophospholipid metabolism	TAZ	KEGG
+1044	Glycerophospholipid metabolism	LPGAT1	KEGG
+1045	Glycerophospholipid metabolism	CDIPT	KEGG
+1046	Glycerophospholipid metabolism	MBOAT7	KEGG
+1047	Ether lipid metabolism	AGPS	KEGG
+1048	Ether lipid metabolism	PLPP1	KEGG
+1049	Ether lipid metabolism	PLPP3	KEGG
+1050	Ether lipid metabolism	PLPP2	KEGG
+1051	Ether lipid metabolism	SELENOI	KEGG
+1052	Ether lipid metabolism	CHPT1	KEGG
+1053	Ether lipid metabolism	CEPT1	KEGG
+1054	Ether lipid metabolism	PLA2G10	KEGG
+1055	Ether lipid metabolism	PLA2G2D	KEGG
+1056	Ether lipid metabolism	PLA2G2E	KEGG
+1057	Ether lipid metabolism	PLA2G3	KEGG
+1058	Ether lipid metabolism	PLA2G2F	KEGG
+1059	Ether lipid metabolism	PLA2G12A	KEGG
+1060	Ether lipid metabolism	PLA2G12B	KEGG
+1061	Ether lipid metabolism	PLA2G1B	KEGG
+1062	Ether lipid metabolism	PLA2G5	KEGG
+1063	Ether lipid metabolism	PLA2G2A	KEGG
+1064	Ether lipid metabolism	PLA2G2C	KEGG
+1065	Ether lipid metabolism	PLA2G4E	KEGG
+1066	Ether lipid metabolism	PLA2G4A	KEGG
+1067	Ether lipid metabolism	JMJD7 PLA2G4B	KEGG
+1068	Ether lipid metabolism	PLA2G4B	KEGG
+1069	Ether lipid metabolism	PLA2G4C	KEGG
+1070	Ether lipid metabolism	PLA2G4D	KEGG
+1071	Ether lipid metabolism	PLA2G4F	KEGG
+1072	Ether lipid metabolism	PLA2G6	KEGG
+1073	Ether lipid metabolism	PLB1	KEGG
+1074	Ether lipid metabolism	PLA2G16	KEGG
+1075	Ether lipid metabolism	LPCAT4	KEGG
+1076	Ether lipid metabolism	ENPP6	KEGG
+1077	Ether lipid metabolism	ENPP2	KEGG
+1078	Ether lipid metabolism	GDPD3	KEGG
+1079	Ether lipid metabolism	GDPD1	KEGG
+1080	Ether lipid metabolism	TMEM86B	KEGG
+1081	Ether lipid metabolism	PLD1	KEGG
+1082	Ether lipid metabolism	PLD2	KEGG
+1083	Ether lipid metabolism	PLD3	KEGG
+1084	Ether lipid metabolism	PLD4	KEGG
+1085	Ether lipid metabolism	UGT8	KEGG
+1086	Ether lipid metabolism	GAL3ST1	KEGG
+1087	Ether lipid metabolism	LPCAT2	KEGG
+1088	Ether lipid metabolism	LPCAT1	KEGG
+1089	Ether lipid metabolism	PAFAH1B1	KEGG
+1090	Ether lipid metabolism	PAFAH1B2	KEGG
+1091	Ether lipid metabolism	PAFAH1B3	KEGG
+1092	Ether lipid metabolism	PLA2G7	KEGG
+1093	Ether lipid metabolism	PAFAH2	KEGG
+1094	Sphingolipid metabolism	SPTLC1	KEGG
+1095	Sphingolipid metabolism	SPTLC2	KEGG
+1096	Sphingolipid metabolism	SPTLC3	KEGG
+1097	Sphingolipid metabolism	KDSR	KEGG
+1098	Sphingolipid metabolism	CERS2	KEGG
+1099	Sphingolipid metabolism	CERS3	KEGG
+1100	Sphingolipid metabolism	CERS6	KEGG
+1101	Sphingolipid metabolism	CERS1	KEGG
+1102	Sphingolipid metabolism	CERS4	KEGG
+1103	Sphingolipid metabolism	CERS5	KEGG
+1104	Sphingolipid metabolism	ASAH1	KEGG
+1105	Sphingolipid metabolism	ASAH2	KEGG
+1106	Sphingolipid metabolism	ACER2	KEGG
+1107	Sphingolipid metabolism	ACER1	KEGG
+1108	Sphingolipid metabolism	ACER3	KEGG
+1109	Sphingolipid metabolism	DEGS1	KEGG
+1110	Sphingolipid metabolism	DEGS2	KEGG
+1111	Sphingolipid metabolism	SGMS1	KEGG
+1112	Sphingolipid metabolism	SGMS2	KEGG
+1113	Sphingolipid metabolism	SMPD1	KEGG
+1114	Sphingolipid metabolism	SMPD2	KEGG
+1115	Sphingolipid metabolism	SMPD3	KEGG
+1116	Sphingolipid metabolism	SMPD4	KEGG
+1117	Sphingolipid metabolism	ENPP7	KEGG
+1118	Sphingolipid metabolism	CERK	KEGG
+1119	Sphingolipid metabolism	PLPP1	KEGG
+1120	Sphingolipid metabolism	PLPP3	KEGG
+1121	Sphingolipid metabolism	PLPP2	KEGG
+1122	Sphingolipid metabolism	SGPP1	KEGG
+1123	Sphingolipid metabolism	SGPP2	KEGG
+1124	Sphingolipid metabolism	SPHK1	KEGG
+1125	Sphingolipid metabolism	SPHK2	KEGG
+1126	Sphingolipid metabolism	SGPL1	KEGG
+1127	Sphingolipid metabolism	UGCG	KEGG
+1128	Sphingolipid metabolism	GBA	KEGG
+1129	Sphingolipid metabolism	GBA2	KEGG
+1130	Sphingolipid metabolism	B4GALT6	KEGG
+1131	Sphingolipid metabolism	GLB1	KEGG
+1132	Sphingolipid metabolism	UGT8	KEGG
+1133	Sphingolipid metabolism	GALC	KEGG
+1134	Sphingolipid metabolism	GAL3ST1	KEGG
+1135	Sphingolipid metabolism	ARSA	KEGG
+1136	Sphingolipid metabolism	NEU1	KEGG
+1137	Sphingolipid metabolism	NEU3	KEGG
+1138	Sphingolipid metabolism	NEU4	KEGG
+1139	Sphingolipid metabolism	NEU2	KEGG
+1140	Sphingolipid metabolism	GLA	KEGG
+1141	Arachidonic acid metabolism	PLA2G10	KEGG
+1142	Arachidonic acid metabolism	PLA2G2D	KEGG
+1143	Arachidonic acid metabolism	PLA2G2E	KEGG
+1144	Arachidonic acid metabolism	PLA2G3	KEGG
+1145	Arachidonic acid metabolism	PLA2G2F	KEGG
+1146	Arachidonic acid metabolism	PLA2G12A	KEGG
+1147	Arachidonic acid metabolism	PLA2G12B	KEGG
+1148	Arachidonic acid metabolism	PLA2G1B	KEGG
+1149	Arachidonic acid metabolism	PLA2G5	KEGG
+1150	Arachidonic acid metabolism	PLA2G2A	KEGG
+1151	Arachidonic acid metabolism	PLA2G2C	KEGG
+1152	Arachidonic acid metabolism	PLA2G4E	KEGG
+1153	Arachidonic acid metabolism	PLA2G4A	KEGG
+1154	Arachidonic acid metabolism	JMJD7 PLA2G4B	KEGG
+1155	Arachidonic acid metabolism	PLA2G4B	KEGG
+1156	Arachidonic acid metabolism	PLA2G4C	KEGG
+1157	Arachidonic acid metabolism	PLA2G4D	KEGG
+1158	Arachidonic acid metabolism	PLA2G4F	KEGG
+1159	Arachidonic acid metabolism	PLA2G6	KEGG
+1160	Arachidonic acid metabolism	PLB1	KEGG
+1161	Arachidonic acid metabolism	PLA2G16	KEGG
+1162	Arachidonic acid metabolism	PTGS1	KEGG
+1163	Arachidonic acid metabolism	PTGS2	KEGG
+1164	Arachidonic acid metabolism	PTGES	KEGG
+1165	Arachidonic acid metabolism	PTGES2	KEGG
+1166	Arachidonic acid metabolism	PTGES3	KEGG
+1167	Arachidonic acid metabolism	CBR1	KEGG
+1168	Arachidonic acid metabolism	CBR3	KEGG
+1169	Arachidonic acid metabolism	FAM213B	KEGG
+1170	Arachidonic acid metabolism	TBXAS1	KEGG
+1171	Arachidonic acid metabolism	PTGDS	KEGG
+1172	Arachidonic acid metabolism	HPGDS	KEGG
+1173	Arachidonic acid metabolism	AKR1C3	KEGG
+1174	Arachidonic acid metabolism	PTGIS	KEGG
+1175	Arachidonic acid metabolism	ALOX5	KEGG
+1176	Arachidonic acid metabolism	LTA4H	KEGG
+1177	Arachidonic acid metabolism	CYP4F2	KEGG
+1178	Arachidonic acid metabolism	CYP4F3	KEGG
+1179	Arachidonic acid metabolism	LTC4S	KEGG
+1180	Arachidonic acid metabolism	GGT1	KEGG
+1181	Arachidonic acid metabolism	GGT5	KEGG
+1182	Arachidonic acid metabolism	GPX6	KEGG
+1183	Arachidonic acid metabolism	GPX7	KEGG
+1184	Arachidonic acid metabolism	GPX2	KEGG
+1185	Arachidonic acid metabolism	GPX3	KEGG
+1186	Arachidonic acid metabolism	GPX1	KEGG
+1187	Arachidonic acid metabolism	GPX5	KEGG
+1188	Arachidonic acid metabolism	GPX8	KEGG
+1189	Arachidonic acid metabolism	CYP2E1	KEGG
+1190	Arachidonic acid metabolism	CYP2J2	KEGG
+1191	Arachidonic acid metabolism	CYP2U1	KEGG
+1192	Arachidonic acid metabolism	CYP4A11	KEGG
+1193	Arachidonic acid metabolism	CYP2C19	KEGG
+1194	Arachidonic acid metabolism	CYP4F8	KEGG
+1195	Arachidonic acid metabolism	ALOX12	KEGG
+1196	Arachidonic acid metabolism	ALOX12B	KEGG
+1197	Arachidonic acid metabolism	ALOX15B	KEGG
+1198	Arachidonic acid metabolism	CYP2B6	KEGG
+1199	Arachidonic acid metabolism	CYP2C8	KEGG
+1200	Arachidonic acid metabolism	CYP2C9	KEGG
+1201	Arachidonic acid metabolism	EPHX2	KEGG
+1202	Arachidonic acid metabolism	ALOX15	KEGG
+1203	Linoleic acid metabolism	PLA2G10	KEGG
+1204	Linoleic acid metabolism	PLA2G2D	KEGG
+1205	Linoleic acid metabolism	PLA2G2E	KEGG
+1206	Linoleic acid metabolism	PLA2G3	KEGG
+1207	Linoleic acid metabolism	PLA2G2F	KEGG
+1208	Linoleic acid metabolism	PLA2G12A	KEGG
+1209	Linoleic acid metabolism	PLA2G12B	KEGG
+1210	Linoleic acid metabolism	PLA2G1B	KEGG
+1211	Linoleic acid metabolism	PLA2G5	KEGG
+1212	Linoleic acid metabolism	PLA2G2A	KEGG
+1213	Linoleic acid metabolism	PLA2G2C	KEGG
+1214	Linoleic acid metabolism	PLA2G4E	KEGG
+1215	Linoleic acid metabolism	PLA2G4A	KEGG
+1216	Linoleic acid metabolism	JMJD7 PLA2G4B	KEGG
+1217	Linoleic acid metabolism	PLA2G4B	KEGG
+1218	Linoleic acid metabolism	PLA2G4C	KEGG
+1219	Linoleic acid metabolism	PLA2G4D	KEGG
+1220	Linoleic acid metabolism	PLA2G4F	KEGG
+1221	Linoleic acid metabolism	PLA2G6	KEGG
+1222	Linoleic acid metabolism	PLB1	KEGG
+1223	Linoleic acid metabolism	PLA2G16	KEGG
+1224	Linoleic acid metabolism	ALOX15	KEGG
+1225	Linoleic acid metabolism	CYP1A2	KEGG
+1226	Linoleic acid metabolism	CYP2C8	KEGG
+1227	Linoleic acid metabolism	CYP2C9	KEGG
+1228	Linoleic acid metabolism	CYP2C19	KEGG
+1229	Linoleic acid metabolism	CYP2J2	KEGG
+1230	Linoleic acid metabolism	CYP2E1	KEGG
+1231	Linoleic acid metabolism	CYP3A4	KEGG
+1232	alpha Linolenic acid metabolism	PLA2G10	KEGG
+1233	alpha Linolenic acid metabolism	PLA2G2D	KEGG
+1234	alpha Linolenic acid metabolism	PLA2G2E	KEGG
+1235	alpha Linolenic acid metabolism	PLA2G3	KEGG
+1236	alpha Linolenic acid metabolism	PLA2G2F	KEGG
+1237	alpha Linolenic acid metabolism	PLA2G12A	KEGG
+1238	alpha Linolenic acid metabolism	PLA2G12B	KEGG
+1239	alpha Linolenic acid metabolism	PLA2G1B	KEGG
+1240	alpha Linolenic acid metabolism	PLA2G5	KEGG
+1241	alpha Linolenic acid metabolism	PLA2G2A	KEGG
+1242	alpha Linolenic acid metabolism	PLA2G2C	KEGG
+1243	alpha Linolenic acid metabolism	PLA2G4E	KEGG
+1244	alpha Linolenic acid metabolism	PLA2G4A	KEGG
+1245	alpha Linolenic acid metabolism	JMJD7 PLA2G4B	KEGG
+1246	alpha Linolenic acid metabolism	PLA2G4B	KEGG
+1247	alpha Linolenic acid metabolism	PLA2G4C	KEGG
+1248	alpha Linolenic acid metabolism	PLA2G4D	KEGG
+1249	alpha Linolenic acid metabolism	PLA2G4F	KEGG
+1250	alpha Linolenic acid metabolism	PLA2G6	KEGG
+1251	alpha Linolenic acid metabolism	PLB1	KEGG
+1252	alpha Linolenic acid metabolism	PLA2G16	KEGG
+1253	alpha Linolenic acid metabolism	FADS2	KEGG
+1254	alpha Linolenic acid metabolism	ACOX3	KEGG
+1255	alpha Linolenic acid metabolism	ACOX1	KEGG
+1256	alpha Linolenic acid metabolism	ACAA1	KEGG
+1257	Biosynthesis of unsaturated fatty acids	ELOVL6	KEGG
+1258	Biosynthesis of unsaturated fatty acids	HSD17B12	KEGG
+1259	Biosynthesis of unsaturated fatty acids	HACD2	KEGG
+1260	Biosynthesis of unsaturated fatty acids	HACD1	KEGG
+1261	Biosynthesis of unsaturated fatty acids	HACD4	KEGG
+1262	Biosynthesis of unsaturated fatty acids	HACD3	KEGG
+1263	Biosynthesis of unsaturated fatty acids	TECR	KEGG
+1264	Biosynthesis of unsaturated fatty acids	PECR	KEGG
+1265	Biosynthesis of unsaturated fatty acids	SCD	KEGG
+1266	Biosynthesis of unsaturated fatty acids	SCD5	KEGG
+1267	Biosynthesis of unsaturated fatty acids	FADS2	KEGG
+1268	Biosynthesis of unsaturated fatty acids	ELOVL5	KEGG
+1269	Biosynthesis of unsaturated fatty acids	FADS1	KEGG
+1270	Biosynthesis of unsaturated fatty acids	ELOVL2	KEGG
+1271	Biosynthesis of unsaturated fatty acids	ACOX3	KEGG
+1272	Biosynthesis of unsaturated fatty acids	ACOX1	KEGG
+1273	Biosynthesis of unsaturated fatty acids	HADHA	KEGG
+1274	Biosynthesis of unsaturated fatty acids	ACAA1	KEGG
+1275	Biosynthesis of unsaturated fatty acids	ACOT4	KEGG
+1276	Biosynthesis of unsaturated fatty acids	ACOT2	KEGG
+1277	Biosynthesis of unsaturated fatty acids	ACOT1	KEGG
+1278	Biosynthesis of unsaturated fatty acids	ACOT7	KEGG
+1279	Biosynthesis of unsaturated fatty acids	BAAT	KEGG
+1280	Purine metabolism	NUDT9	KEGG
+1281	Purine metabolism	ADPRM	KEGG
+1282	Purine metabolism	NUDT5	KEGG
+1283	Purine metabolism	PGM1	KEGG
+1284	Purine metabolism	PGM2	KEGG
+1285	Purine metabolism	PRPS1L1	KEGG
+1286	Purine metabolism	PRPS2	KEGG
+1287	Purine metabolism	PRPS1	KEGG
+1288	Purine metabolism	PPAT	KEGG
+1289	Purine metabolism	GART	KEGG
+1290	Purine metabolism	PFAS	KEGG
+1291	Purine metabolism	PAICS	KEGG
+1292	Purine metabolism	ADSL	KEGG
+1293	Purine metabolism	ATIC	KEGG
+1294	Purine metabolism	APRT	KEGG
+1295	Purine metabolism	NT5C2	KEGG
+1296	Purine metabolism	NT5C1A	KEGG
+1297	Purine metabolism	NT5C1B	KEGG
+1298	Purine metabolism	NT5C	KEGG
+1299	Purine metabolism	NT5M	KEGG
+1300	Purine metabolism	NT5C3A	KEGG
+1301	Purine metabolism	NT5C3B	KEGG
+1302	Purine metabolism	NT5C1B RDH14	KEGG
+1303	Purine metabolism	NT5E	KEGG
+1304	Purine metabolism	PNP	KEGG
+1305	Purine metabolism	HPRT1	KEGG
+1306	Purine metabolism	IMPDH1	KEGG
+1307	Purine metabolism	IMPDH2	KEGG
+1308	Purine metabolism	NME6	KEGG
+1309	Purine metabolism	NME7	KEGG
+1310	Purine metabolism	NME2	KEGG
+1311	Purine metabolism	NME4	KEGG
+1312	Purine metabolism	NME1	KEGG
+1313	Purine metabolism	NME3	KEGG
+1314	Purine metabolism	NME1 NME2	KEGG
+1315	Purine metabolism	AK9	KEGG
+1316	Purine metabolism	ENTPD3	KEGG
+1317	Purine metabolism	ENTPD8	KEGG
+1318	Purine metabolism	ENTPD1	KEGG
+1319	Purine metabolism	CANT1	KEGG
+1320	Purine metabolism	ENTPD4	KEGG
+1321	Purine metabolism	ENTPD5	KEGG
+1322	Purine metabolism	ENTPD6	KEGG
+1323	Purine metabolism	NUDT16	KEGG
+1324	Purine metabolism	ITPA	KEGG
+1325	Purine metabolism	XDH	KEGG
+1326	Purine metabolism	NUDT2	KEGG
+1327	Purine metabolism	GMPS	KEGG
+1328	Purine metabolism	GMPR	KEGG
+1329	Purine metabolism	GMPR2	KEGG
+1330	Purine metabolism	GDA	KEGG
+1331	Purine metabolism	GUK1	KEGG
+1332	Purine metabolism	PKM	KEGG
+1333	Purine metabolism	PKLR	KEGG
+1334	Purine metabolism	RRM1	KEGG
+1335	Purine metabolism	RRM2B	KEGG
+1336	Purine metabolism	RRM2	KEGG
+1337	Purine metabolism	DGUOK	KEGG
+1338	Purine metabolism	POLR1A	KEGG
+1339	Purine metabolism	POLR1B	KEGG
+1340	Purine metabolism	ZNRD1	KEGG
+1341	Purine metabolism	TWISTNB	KEGG
+1342	Purine metabolism	POLR1E	KEGG
+1343	Purine metabolism	POLR2A	KEGG
+1344	Purine metabolism	POLR2B	KEGG
+1345	Purine metabolism	POLR2C	KEGG
+1346	Purine metabolism	POLR2D	KEGG
+1347	Purine metabolism	POLR2E	KEGG
+1348	Purine metabolism	POLR2F	KEGG
+1349	Purine metabolism	POLR2G	KEGG
+1350	Purine metabolism	POLR2H	KEGG
+1351	Purine metabolism	POLR2I	KEGG
+1352	Purine metabolism	POLR2L	KEGG
+1353	Purine metabolism	POLR2J	KEGG
+1354	Purine metabolism	POLR2J3	KEGG
+1355	Purine metabolism	POLR2J2	KEGG
+1356	Purine metabolism	POLR2K	KEGG
+1357	Purine metabolism	POLR3A	KEGG
+1358	Purine metabolism	POLR3B	KEGG
+1359	Purine metabolism	POLR3C	KEGG
+1360	Purine metabolism	POLR3D	KEGG
+1361	Purine metabolism	POLR3E	KEGG
+1362	Purine metabolism	POLR1C	KEGG
+1363	Purine metabolism	POLR3K	KEGG
+1364	Purine metabolism	POLR1D	KEGG
+1365	Purine metabolism	POLR3H	KEGG
+1366	Purine metabolism	POLR3GL	KEGG
+1367	Purine metabolism	POLR3G	KEGG
+1368	Purine metabolism	POLR3F	KEGG
+1369	Purine metabolism	POLA1	KEGG
+1370	Purine metabolism	POLA2	KEGG
+1371	Purine metabolism	PRIM1	KEGG
+1372	Purine metabolism	PRIM2	KEGG
+1373	Purine metabolism	POLD1	KEGG
+1374	Purine metabolism	POLD2	KEGG
+1375	Purine metabolism	POLD3	KEGG
+1376	Purine metabolism	POLD4	KEGG
+1377	Purine metabolism	POLE	KEGG
+1378	Purine metabolism	POLE2	KEGG
+1379	Purine metabolism	POLE3	KEGG
+1380	Purine metabolism	POLE4	KEGG
+1381	Purine metabolism	HDDC3	KEGG
+1382	Purine metabolism	PRUNE1	KEGG
+1383	Purine metabolism	ADCY1	KEGG
+1384	Purine metabolism	ADCY2	KEGG
+1385	Purine metabolism	ADCY3	KEGG
+1386	Purine metabolism	ADCY4	KEGG
+1387	Purine metabolism	ADCY5	KEGG
+1388	Purine metabolism	ADCY6	KEGG
+1389	Purine metabolism	ADCY7	KEGG
+1390	Purine metabolism	ADCY8	KEGG
+1391	Purine metabolism	ADCY9	KEGG
+1392	Purine metabolism	ADCY10	KEGG
+1393	Purine metabolism	GUCY1A2	KEGG
+1394	Purine metabolism	GUCY1A1	KEGG
+1395	Purine metabolism	GUCY1B1	KEGG
+1396	Purine metabolism	GUCY2C	KEGG
+1397	Purine metabolism	GUCY2D	KEGG
+1398	Purine metabolism	GUCY2F	KEGG
+1399	Purine metabolism	NPR1	KEGG
+1400	Purine metabolism	NPR2	KEGG
+1401	Purine metabolism	PDE1A	KEGG
+1402	Purine metabolism	PDE1B	KEGG
+1403	Purine metabolism	PDE1C	KEGG
+1404	Purine metabolism	PDE2A	KEGG
+1405	Purine metabolism	PDE3A	KEGG
+1406	Purine metabolism	PDE3B	KEGG
+1407	Purine metabolism	PDE5A	KEGG
+1408	Purine metabolism	PDE6A	KEGG
+1409	Purine metabolism	PDE6B	KEGG
+1410	Purine metabolism	PDE6C	KEGG
+1411	Purine metabolism	PDE6D	KEGG
+1412	Purine metabolism	PDE6G	KEGG
+1413	Purine metabolism	PDE6H	KEGG
+1414	Purine metabolism	PDE9A	KEGG
+1415	Purine metabolism	PDE10A	KEGG
+1416	Purine metabolism	PDE11A	KEGG
+1417	Purine metabolism	ADSSL1	KEGG
+1418	Purine metabolism	ADSS	KEGG
+1419	Purine metabolism	AMPD2	KEGG
+1420	Purine metabolism	AMPD3	KEGG
+1421	Purine metabolism	AMPD1	KEGG
+1422	Purine metabolism	ADK	KEGG
+1423	Purine metabolism	DCK	KEGG
+1424	Purine metabolism	ADA	KEGG
+1425	Purine metabolism	ADA2	KEGG
+1426	Purine metabolism	AK7	KEGG
+1427	Purine metabolism	AK4	KEGG
+1428	Purine metabolism	AK5	KEGG
+1429	Purine metabolism	AK2	KEGG
+1430	Purine metabolism	AK1	KEGG
+1431	Purine metabolism	adenylate kinase isoenzyme 1 like [KO:K00939] [EC:2.7.4.3]	KEGG
+1432	Purine metabolism	AK8	KEGG
+1433	Purine metabolism	AK6	KEGG
+1434	Purine metabolism	AK3	KEGG
+1435	Purine metabolism	ENTPD2	KEGG
+1436	Purine metabolism	NTPCR	KEGG
+1437	Purine metabolism	PNPT1	KEGG
+1438	Purine metabolism	PDE4A	KEGG
+1439	Purine metabolism	PDE4B	KEGG
+1440	Purine metabolism	PDE4C	KEGG
+1441	Purine metabolism	PDE4D	KEGG
+1442	Purine metabolism	PDE7A	KEGG
+1443	Purine metabolism	PDE7B	KEGG
+1444	Purine metabolism	PDE8B	KEGG
+1445	Purine metabolism	PDE8A	KEGG
+1446	Purine metabolism	FHIT	KEGG
+1447	Purine metabolism	ENPP4	KEGG
+1448	Purine metabolism	PAPSS2	KEGG
+1449	Purine metabolism	PAPSS1	KEGG
+1450	Purine metabolism	ENPP1	KEGG
+1451	Purine metabolism	ENPP3	KEGG
+1452	Purine metabolism	URAD	KEGG
+1453	Purine metabolism	ALLC	KEGG
+1454	Pyrimidine metabolism	CAD	KEGG
+1455	Pyrimidine metabolism	DHODH	KEGG
+1456	Pyrimidine metabolism	UMPS	KEGG
+1457	Pyrimidine metabolism	CMPK1	KEGG
+1458	Pyrimidine metabolism	CMPK2	KEGG
+1459	Pyrimidine metabolism	NME6	KEGG
+1460	Pyrimidine metabolism	NME7	KEGG
+1461	Pyrimidine metabolism	NME2	KEGG
+1462	Pyrimidine metabolism	NME4	KEGG
+1463	Pyrimidine metabolism	NME1	KEGG
+1464	Pyrimidine metabolism	NME3	KEGG
+1465	Pyrimidine metabolism	NME1 NME2	KEGG
+1466	Pyrimidine metabolism	AK9	KEGG
+1467	Pyrimidine metabolism	PNPT1	KEGG
+1468	Pyrimidine metabolism	ENTPD3	KEGG
+1469	Pyrimidine metabolism	ENTPD8	KEGG
+1470	Pyrimidine metabolism	ENTPD1	KEGG
+1471	Pyrimidine metabolism	CANT1	KEGG
+1472	Pyrimidine metabolism	ENTPD4	KEGG
+1473	Pyrimidine metabolism	ENTPD5	KEGG
+1474	Pyrimidine metabolism	ENTPD6	KEGG
+1475	Pyrimidine metabolism	CTPS1	KEGG
+1476	Pyrimidine metabolism	CTPS2	KEGG
+1477	Pyrimidine metabolism	POLR1A	KEGG
+1478	Pyrimidine metabolism	POLR1B	KEGG
+1479	Pyrimidine metabolism	ZNRD1	KEGG
+1480	Pyrimidine metabolism	TWISTNB	KEGG
+1481	Pyrimidine metabolism	POLR1E	KEGG
+1482	Pyrimidine metabolism	POLR2A	KEGG
+1483	Pyrimidine metabolism	POLR2B	KEGG
+1484	Pyrimidine metabolism	POLR2C	KEGG
+1485	Pyrimidine metabolism	POLR2D	KEGG
+1486	Pyrimidine metabolism	POLR2E	KEGG
+1487	Pyrimidine metabolism	POLR2F	KEGG
+1488	Pyrimidine metabolism	POLR2G	KEGG
+1489	Pyrimidine metabolism	POLR2H	KEGG
+1490	Pyrimidine metabolism	POLR2I	KEGG
+1491	Pyrimidine metabolism	POLR2L	KEGG
+1492	Pyrimidine metabolism	POLR2J	KEGG
+1493	Pyrimidine metabolism	POLR2J3	KEGG
+1494	Pyrimidine metabolism	POLR2J2	KEGG
+1495	Pyrimidine metabolism	POLR2K	KEGG
+1496	Pyrimidine metabolism	POLR3A	KEGG
+1497	Pyrimidine metabolism	POLR3B	KEGG
+1498	Pyrimidine metabolism	POLR3C	KEGG
+1499	Pyrimidine metabolism	POLR3D	KEGG
+1500	Pyrimidine metabolism	POLR3E	KEGG
+1501	Pyrimidine metabolism	POLR1C	KEGG
+1502	Pyrimidine metabolism	POLR3K	KEGG
+1503	Pyrimidine metabolism	POLR1D	KEGG
+1504	Pyrimidine metabolism	POLR3H	KEGG
+1505	Pyrimidine metabolism	POLR3GL	KEGG
+1506	Pyrimidine metabolism	POLR3G	KEGG
+1507	Pyrimidine metabolism	POLR3F	KEGG
+1508	Pyrimidine metabolism	POLA1	KEGG
+1509	Pyrimidine metabolism	POLA2	KEGG
+1510	Pyrimidine metabolism	PRIM1	KEGG
+1511	Pyrimidine metabolism	PRIM2	KEGG
+1512	Pyrimidine metabolism	POLD1	KEGG
+1513	Pyrimidine metabolism	POLD2	KEGG
+1514	Pyrimidine metabolism	POLD3	KEGG
+1515	Pyrimidine metabolism	POLD4	KEGG
+1516	Pyrimidine metabolism	POLE	KEGG
+1517	Pyrimidine metabolism	POLE2	KEGG
+1518	Pyrimidine metabolism	POLE3	KEGG
+1519	Pyrimidine metabolism	POLE4	KEGG
+1520	Pyrimidine metabolism	UCK1	KEGG
+1521	Pyrimidine metabolism	UCK2	KEGG
+1522	Pyrimidine metabolism	UCKL1	KEGG
+1523	Pyrimidine metabolism	NT5C2	KEGG
+1524	Pyrimidine metabolism	NT5C1A	KEGG
+1525	Pyrimidine metabolism	NT5C1B	KEGG
+1526	Pyrimidine metabolism	NT5C	KEGG
+1527	Pyrimidine metabolism	NT5M	KEGG
+1528	Pyrimidine metabolism	NT5C3A	KEGG
+1529	Pyrimidine metabolism	NT5C3B	KEGG
+1530	Pyrimidine metabolism	NT5C1B RDH14	KEGG
+1531	Pyrimidine metabolism	NT5E	KEGG
+1532	Pyrimidine metabolism	UPP2	KEGG
+1533	Pyrimidine metabolism	UPP1	KEGG
+1534	Pyrimidine metabolism	UPRT	KEGG
+1535	Pyrimidine metabolism	DPYD	KEGG
+1536	Pyrimidine metabolism	DPYS	KEGG
+1537	Pyrimidine metabolism	UPB1	KEGG
+1538	Pyrimidine metabolism	ENPP1	KEGG
+1539	Pyrimidine metabolism	ENPP3	KEGG
+1540	Pyrimidine metabolism	RRM1	KEGG
+1541	Pyrimidine metabolism	RRM2B	KEGG
+1542	Pyrimidine metabolism	RRM2	KEGG
+1543	Pyrimidine metabolism	DCTPP1	KEGG
+1544	Pyrimidine metabolism	DUT	KEGG
+1545	Pyrimidine metabolism	TYMS	KEGG
+1546	Pyrimidine metabolism	CDA	KEGG
+1547	Pyrimidine metabolism	TYMP	KEGG
+1548	Pyrimidine metabolism	PNP	KEGG
+1549	Pyrimidine metabolism	DCK	KEGG
+1550	Pyrimidine metabolism	DCTD	KEGG
+1551	Pyrimidine metabolism	TK2	KEGG
+1552	Pyrimidine metabolism	TK1	KEGG
+1553	Pyrimidine metabolism	DTYMK	KEGG
+1554	Pyrimidine metabolism	NUDT2	KEGG
+1555	Alanine aspartate and glutamate metabolism	GOT1	KEGG
+1556	Alanine aspartate and glutamate metabolism	GOT2	KEGG
+1557	Alanine aspartate and glutamate metabolism	IL4I1	KEGG
+1558	Alanine aspartate and glutamate metabolism	DDO	KEGG
+1559	Alanine aspartate and glutamate metabolism	ASNS	KEGG
+1560	Alanine aspartate and glutamate metabolism	NIT2	KEGG
+1561	Alanine aspartate and glutamate metabolism	GPT2	KEGG
+1562	Alanine aspartate and glutamate metabolism	GPT	KEGG
+1563	Alanine aspartate and glutamate metabolism	AGXT	KEGG
+1564	Alanine aspartate and glutamate metabolism	AGXT2	KEGG
+1565	Alanine aspartate and glutamate metabolism	ASS1	KEGG
+1566	Alanine aspartate and glutamate metabolism	ASL	KEGG
+1567	Alanine aspartate and glutamate metabolism	ADSSL1	KEGG
+1568	Alanine aspartate and glutamate metabolism	ADSS	KEGG
+1569	Alanine aspartate and glutamate metabolism	ADSL	KEGG
+1570	Alanine aspartate and glutamate metabolism	NAT8L	KEGG
+1571	Alanine aspartate and glutamate metabolism	RIMKLB	KEGG
+1572	Alanine aspartate and glutamate metabolism	RIMKLA	KEGG
+1573	Alanine aspartate and glutamate metabolism	FOLH1	KEGG
+1574	Alanine aspartate and glutamate metabolism	ASPA	KEGG
+1575	Alanine aspartate and glutamate metabolism	GAD1	KEGG
+1576	Alanine aspartate and glutamate metabolism	GAD2	KEGG
+1577	Alanine aspartate and glutamate metabolism	ABAT	KEGG
+1578	Alanine aspartate and glutamate metabolism	ALDH5A1	KEGG
+1579	Alanine aspartate and glutamate metabolism	GLUD2	KEGG
+1580	Alanine aspartate and glutamate metabolism	GLUD1	KEGG
+1581	Alanine aspartate and glutamate metabolism	ALDH4A1	KEGG
+1582	Alanine aspartate and glutamate metabolism	GLUL	KEGG
+1583	Alanine aspartate and glutamate metabolism	CAD	KEGG
+1584	Alanine aspartate and glutamate metabolism	GLS2	KEGG
+1585	Alanine aspartate and glutamate metabolism	GLS	KEGG
+1586	Alanine aspartate and glutamate metabolism	CPS1	KEGG
+1587	Alanine aspartate and glutamate metabolism	GFPT2	KEGG
+1588	Alanine aspartate and glutamate metabolism	GFPT1	KEGG
+1589	Alanine aspartate and glutamate metabolism	PPAT	KEGG
+1590	Glycine serine and threonine metabolism	SHMT2	KEGG
+1591	Glycine serine and threonine metabolism	SHMT1	KEGG
+1592	Glycine serine and threonine metabolism	AGXT	KEGG
+1593	Glycine serine and threonine metabolism	GRHPR	KEGG
+1594	Glycine serine and threonine metabolism	GLYCTK	KEGG
+1595	Glycine serine and threonine metabolism	PGAM1	KEGG
+1596	Glycine serine and threonine metabolism	PGAM2	KEGG
+1597	Glycine serine and threonine metabolism	PGAM4	KEGG
+1598	Glycine serine and threonine metabolism	BPGM	KEGG
+1599	Glycine serine and threonine metabolism	PHGDH	KEGG
+1600	Glycine serine and threonine metabolism	PSAT1	KEGG
+1601	Glycine serine and threonine metabolism	PSPH	KEGG
+1602	Glycine serine and threonine metabolism	GCAT	KEGG
+1603	Glycine serine and threonine metabolism	ALAS1	KEGG
+1604	Glycine serine and threonine metabolism	ALAS2	KEGG
+1605	Glycine serine and threonine metabolism	MAOB	KEGG
+1606	Glycine serine and threonine metabolism	MAOA	KEGG
+1607	Glycine serine and threonine metabolism	AOC3	KEGG
+1608	Glycine serine and threonine metabolism	AOC2	KEGG
+1609	Glycine serine and threonine metabolism	GLDC	KEGG
+1610	Glycine serine and threonine metabolism	AMT	KEGG
+1611	Glycine serine and threonine metabolism	DLD	KEGG
+1612	Glycine serine and threonine metabolism	GCSH	KEGG
+1613	Glycine serine and threonine metabolism	DAO	KEGG
+1614	Glycine serine and threonine metabolism	AGXT2	KEGG
+1615	Glycine serine and threonine metabolism	GATM	KEGG
+1616	Glycine serine and threonine metabolism	GAMT	KEGG
+1617	Glycine serine and threonine metabolism	CHDH	KEGG
+1618	Glycine serine and threonine metabolism	ALDH7A1	KEGG
+1619	Glycine serine and threonine metabolism	BHMT	KEGG
+1620	Glycine serine and threonine metabolism	DMGDH	KEGG
+1621	Glycine serine and threonine metabolism	PIPOX	KEGG
+1622	Glycine serine and threonine metabolism	SARDH	KEGG
+1623	Glycine serine and threonine metabolism	GNMT	KEGG
+1624	Glycine serine and threonine metabolism	CBS	KEGG
+1625	Glycine serine and threonine metabolism	CBSL	KEGG
+1626	Glycine serine and threonine metabolism	CTH	KEGG
+1627	Glycine serine and threonine metabolism	SDS	KEGG
+1628	Glycine serine and threonine metabolism	SDSL	KEGG
+1629	Glycine serine and threonine metabolism	SRR	KEGG
+1630	Cysteine and methionine metabolism	CTH	KEGG
+1631	Cysteine and methionine metabolism	CBS	KEGG
+1632	Cysteine and methionine metabolism	CBSL	KEGG
+1633	Cysteine and methionine metabolism	BHMT	KEGG
+1634	Cysteine and methionine metabolism	BHMT2	KEGG
+1635	Cysteine and methionine metabolism	MTR	KEGG
+1636	Cysteine and methionine metabolism	MAT2B	KEGG
+1637	Cysteine and methionine metabolism	MAT1A	KEGG
+1638	Cysteine and methionine metabolism	MAT2A	KEGG
+1639	Cysteine and methionine metabolism	AMD1	KEGG
+1640	Cysteine and methionine metabolism	SRM	KEGG
+1641	Cysteine and methionine metabolism	SMS	KEGG
+1642	Cysteine and methionine metabolism	MTAP	KEGG
+1643	Cysteine and methionine metabolism	MRI1	KEGG
+1644	Cysteine and methionine metabolism	APIP	KEGG
+1645	Cysteine and methionine metabolism	ENOPH1	KEGG
+1646	Cysteine and methionine metabolism	ADI1	KEGG
+1647	Cysteine and methionine metabolism	TAT	KEGG
+1648	Cysteine and methionine metabolism	IL4I1	KEGG
+1649	Cysteine and methionine metabolism	DNMT1	KEGG
+1650	Cysteine and methionine metabolism	DNMT3A	KEGG
+1651	Cysteine and methionine metabolism	DNMT3B	KEGG
+1652	Cysteine and methionine metabolism	AHCYL2	KEGG
+1653	Cysteine and methionine metabolism	AHCYL1	KEGG
+1654	Cysteine and methionine metabolism	AHCY	KEGG
+1655	Cysteine and methionine metabolism	BCAT2	KEGG
+1656	Cysteine and methionine metabolism	BCAT1	KEGG
+1657	Cysteine and methionine metabolism	AGXT2	KEGG
+1658	Cysteine and methionine metabolism	GCLC	KEGG
+1659	Cysteine and methionine metabolism	GCLM	KEGG
+1660	Cysteine and methionine metabolism	GSS	KEGG
+1661	Cysteine and methionine metabolism	CDO1	KEGG
+1662	Cysteine and methionine metabolism	GOT1	KEGG
+1663	Cysteine and methionine metabolism	GOT2	KEGG
+1664	Cysteine and methionine metabolism	MPST	KEGG
+1665	Cysteine and methionine metabolism	TST	KEGG
+1666	Cysteine and methionine metabolism	LDHAL6A	KEGG
+1667	Cysteine and methionine metabolism	LDHAL6B	KEGG
+1668	Cysteine and methionine metabolism	LDHA	KEGG
+1669	Cysteine and methionine metabolism	LDHB	KEGG
+1670	Cysteine and methionine metabolism	LDHC	KEGG
+1671	Cysteine and methionine metabolism	MDH1	KEGG
+1672	Cysteine and methionine metabolism	MDH2	KEGG
+1673	Cysteine and methionine metabolism	SDS	KEGG
+1674	Cysteine and methionine metabolism	SDSL	KEGG
+1675	Valine leucine and isoleucine degradation	BCAT2	KEGG
+1676	Valine leucine and isoleucine degradation	BCAT1	KEGG
+1677	Valine leucine and isoleucine degradation	IL4I1	KEGG
+1678	Valine leucine and isoleucine degradation	BCKDHA	KEGG
+1679	Valine leucine and isoleucine degradation	BCKDHB	KEGG
+1680	Valine leucine and isoleucine degradation	DBT	KEGG
+1681	Valine leucine and isoleucine degradation	DLD	KEGG
+1682	Valine leucine and isoleucine degradation	ACADS	KEGG
+1683	Valine leucine and isoleucine degradation	ACADM	KEGG
+1684	Valine leucine and isoleucine degradation	IVD	KEGG
+1685	Valine leucine and isoleucine degradation	ACADSB	KEGG
+1686	Valine leucine and isoleucine degradation	ACAD8	KEGG
+1687	Valine leucine and isoleucine degradation	HADHA	KEGG
+1688	Valine leucine and isoleucine degradation	EHHADH	KEGG
+1689	Valine leucine and isoleucine degradation	ECHS1	KEGG
+1690	Valine leucine and isoleucine degradation	HADH	KEGG
+1691	Valine leucine and isoleucine degradation	HSD17B10	KEGG
+1692	Valine leucine and isoleucine degradation	ACAA1	KEGG
+1693	Valine leucine and isoleucine degradation	ACAA2	KEGG
+1694	Valine leucine and isoleucine degradation	HADHB	KEGG
+1695	Valine leucine and isoleucine degradation	PCCA	KEGG
+1696	Valine leucine and isoleucine degradation	PCCB	KEGG
+1697	Valine leucine and isoleucine degradation	MCEE	KEGG
+1698	Valine leucine and isoleucine degradation	MUT	KEGG
+1699	Valine leucine and isoleucine degradation	HIBCH	KEGG
+1700	Valine leucine and isoleucine degradation	HIBADH	KEGG
+1701	Valine leucine and isoleucine degradation	ALDH6A1	KEGG
+1702	Valine leucine and isoleucine degradation	ALDH2	KEGG
+1703	Valine leucine and isoleucine degradation	ALDH3A2	KEGG
+1704	Valine leucine and isoleucine degradation	ALDH1B1	KEGG
+1705	Valine leucine and isoleucine degradation	ALDH7A1	KEGG
+1706	Valine leucine and isoleucine degradation	ALDH9A1	KEGG
+1707	Valine leucine and isoleucine degradation	AOX1	KEGG
+1708	Valine leucine and isoleucine degradation	ACSF3	KEGG
+1709	Valine leucine and isoleucine degradation	ABAT	KEGG
+1710	Valine leucine and isoleucine degradation	AGXT2	KEGG
+1711	Valine leucine and isoleucine degradation	MCCC1	KEGG
+1712	Valine leucine and isoleucine degradation	MCCC2	KEGG
+1713	Valine leucine and isoleucine degradation	AUH	KEGG
+1714	Valine leucine and isoleucine degradation	HMGCL	KEGG
+1715	Valine leucine and isoleucine degradation	HMGCLL1	KEGG
+1716	Valine leucine and isoleucine degradation	OXCT1	KEGG
+1717	Valine leucine and isoleucine degradation	OXCT2	KEGG
+1718	Valine leucine and isoleucine degradation	AACS	KEGG
+1719	Valine leucine and isoleucine degradation	ACAT2	KEGG
+1720	Valine leucine and isoleucine degradation	ACAT1	KEGG
+1721	Valine leucine and isoleucine degradation	HMGCS1	KEGG
+1722	Valine leucine and isoleucine degradation	HMGCS2	KEGG
+1723	Valine leucine and isoleucine biosynthesis	SDS	KEGG
+1724	Valine leucine and isoleucine biosynthesis	SDSL	KEGG
+1725	Valine leucine and isoleucine biosynthesis	BCAT2	KEGG
+1726	Valine leucine and isoleucine biosynthesis	BCAT1	KEGG
+1727	Lysine degradation	AASS	KEGG
+1728	Lysine degradation	ALDH7A1	KEGG
+1729	Lysine degradation	AADAT	KEGG
+1730	Lysine degradation	OGDHL	KEGG
+1731	Lysine degradation	OGDH	KEGG
+1732	Lysine degradation	DLST	KEGG
+1733	Lysine degradation	GCDH	KEGG
+1734	Lysine degradation	HADHA	KEGG
+1735	Lysine degradation	EHHADH	KEGG
+1736	Lysine degradation	ECHS1	KEGG
+1737	Lysine degradation	HADH	KEGG
+1738	Lysine degradation	ACAT2	KEGG
+1739	Lysine degradation	ACAT1	KEGG
+1740	Lysine degradation	HYKK	KEGG
+1741	Lysine degradation	PHYKPL	KEGG
+1742	Lysine degradation	PIPOX	KEGG
+1743	Lysine degradation	ASH1L	KEGG
+1744	Lysine degradation	DOT1L	KEGG
+1745	Lysine degradation	EHMT2	KEGG
+1746	Lysine degradation	EHMT1	KEGG
+1747	Lysine degradation	KMT2A	KEGG
+1748	Lysine degradation	KMT2D	KEGG
+1749	Lysine degradation	KMT2C	KEGG
+1750	Lysine degradation	KMT2B	KEGG
+1751	Lysine degradation	KMT2E	KEGG
+1752	Lysine degradation	NSD1	KEGG
+1753	Lysine degradation	NSD2	KEGG
+1754	Lysine degradation	NSD3	KEGG
+1755	Lysine degradation	SETD1B	KEGG
+1756	Lysine degradation	SETD1A	KEGG
+1757	Lysine degradation	SETD2	KEGG
+1758	Lysine degradation	SETD3	KEGG
+1759	Lysine degradation	SETD7	KEGG
+1760	Lysine degradation	KMT5A	KEGG
+1761	Lysine degradation	SETDB1	KEGG
+1762	Lysine degradation	SETDB2	KEGG
+1763	Lysine degradation	SETMAR	KEGG
+1764	Lysine degradation	SUV39H1	KEGG
+1765	Lysine degradation	SUV39H2	KEGG
+1766	Lysine degradation	KMT5C	KEGG
+1767	Lysine degradation	KMT5B	KEGG
+1768	Lysine degradation	EZH1	KEGG
+1769	Lysine degradation	EZH2	KEGG
+1770	Lysine degradation	PRDM2	KEGG
+1771	Lysine degradation	PRDM6	KEGG
+1772	Lysine degradation	PRDM9	KEGG
+1773	Lysine degradation	PRDM7	KEGG
+1774	Lysine degradation	CAMKMT	KEGG
+1775	Lysine degradation	TMLHE	KEGG
+1776	Lysine degradation	ALDH2	KEGG
+1777	Lysine degradation	ALDH3A2	KEGG
+1778	Lysine degradation	ALDH1B1	KEGG
+1779	Lysine degradation	ALDH9A1	KEGG
+1780	Lysine degradation	BBOX1	KEGG
+1781	Lysine degradation	PLOD1	KEGG
+1782	Lysine degradation	PLOD2	KEGG
+1783	Lysine degradation	PLOD3	KEGG
+1784	Lysine degradation	COLGALT1	KEGG
+1785	Lysine degradation	COLGALT2	KEGG
+1786	Arginine biosynthesis	OTC	KEGG
+1787	Arginine biosynthesis	ASS1	KEGG
+1788	Arginine biosynthesis	ASL	KEGG
+1789	Arginine biosynthesis	ARG2	KEGG
+1790	Arginine biosynthesis	ARG1	KEGG
+1791	Arginine biosynthesis	NOS1	KEGG
+1792	Arginine biosynthesis	NOS2	KEGG
+1793	Arginine biosynthesis	NOS3	KEGG
+1794	Arginine biosynthesis	GLS2	KEGG
+1795	Arginine biosynthesis	GLS	KEGG
+1796	Arginine biosynthesis	GLUL	KEGG
+1797	Arginine biosynthesis	GLUD2	KEGG
+1798	Arginine biosynthesis	GLUD1	KEGG
+1799	Arginine biosynthesis	CPS1	KEGG
+1800	Arginine biosynthesis	GOT1	KEGG
+1801	Arginine biosynthesis	GOT2	KEGG
+1802	Arginine biosynthesis	GPT2	KEGG
+1803	Arginine biosynthesis	GPT	KEGG
+1804	Arginine biosynthesis	NAGS	KEGG
+1805	Arginine biosynthesis	ACY1	KEGG
+1806	Arginine biosynthesis	ABHD14A ACY1	KEGG
+1807	Arginine and proline metabolism	GATM	KEGG
+1808	Arginine and proline metabolism	GAMT	KEGG
+1809	Arginine and proline metabolism	CKM	KEGG
+1810	Arginine and proline metabolism	CKMT1A	KEGG
+1811	Arginine and proline metabolism	CKMT2	KEGG
+1812	Arginine and proline metabolism	CKB	KEGG
+1813	Arginine and proline metabolism	CKMT1B	KEGG
+1814	Arginine and proline metabolism	AZIN2	KEGG
+1815	Arginine and proline metabolism	AGMAT	KEGG
+1816	Arginine and proline metabolism	ODC1	KEGG
+1817	Arginine and proline metabolism	SRM	KEGG
+1818	Arginine and proline metabolism	SMS	KEGG
+1819	Arginine and proline metabolism	AMD1	KEGG
+1820	Arginine and proline metabolism	AOC1	KEGG
+1821	Arginine and proline metabolism	SMOX	KEGG
+1822	Arginine and proline metabolism	ALDH2	KEGG
+1823	Arginine and proline metabolism	ALDH3A2	KEGG
+1824	Arginine and proline metabolism	ALDH1B1	KEGG
+1825	Arginine and proline metabolism	ALDH7A1	KEGG
+1826	Arginine and proline metabolism	ALDH9A1	KEGG
+1827	Arginine and proline metabolism	CNDP1	KEGG
+1828	Arginine and proline metabolism	CNDP2	KEGG
+1829	Arginine and proline metabolism	CARNS1	KEGG
+1830	Arginine and proline metabolism	SAT2	KEGG
+1831	Arginine and proline metabolism	SAT1	KEGG
+1832	Arginine and proline metabolism	MAOB	KEGG
+1833	Arginine and proline metabolism	MAOA	KEGG
+1834	Arginine and proline metabolism	NOS1	KEGG
+1835	Arginine and proline metabolism	NOS2	KEGG
+1836	Arginine and proline metabolism	NOS3	KEGG
+1837	Arginine and proline metabolism	ARG2	KEGG
+1838	Arginine and proline metabolism	ARG1	KEGG
+1839	Arginine and proline metabolism	OAT	KEGG
+1840	Arginine and proline metabolism	PYCR3	KEGG
+1841	Arginine and proline metabolism	PYCR2	KEGG
+1842	Arginine and proline metabolism	PYCR1	KEGG
+1843	Arginine and proline metabolism	PRODH	KEGG
+1844	Arginine and proline metabolism	proline dehydrogenase 1 mitochondrial [KO:K00318] [EC:1.5. . ]	KEGG
+1845	Arginine and proline metabolism	ALDH4A1	KEGG
+1846	Arginine and proline metabolism	ALDH18A1	KEGG
+1847	Arginine and proline metabolism	LAP3	KEGG
+1848	Arginine and proline metabolism	P4HA2	KEGG
+1849	Arginine and proline metabolism	P4HA3	KEGG
+1850	Arginine and proline metabolism	P4HA1	KEGG
+1851	Arginine and proline metabolism	PRODH2	KEGG
+1852	Arginine and proline metabolism	GOT1	KEGG
+1853	Arginine and proline metabolism	GOT2	KEGG
+1854	Arginine and proline metabolism	HOGA1	KEGG
+1855	Arginine and proline metabolism	DAO	KEGG
+1856	Arginine and proline metabolism	L3HYPDH	KEGG
+1857	Histidine metabolism	HAL	KEGG
+1858	Histidine metabolism	UROC1	KEGG
+1859	Histidine metabolism	AMDHD1	KEGG
+1860	Histidine metabolism	FTCD	KEGG
+1861	Histidine metabolism	HDC	KEGG
+1862	Histidine metabolism	AOC1	KEGG
+1863	Histidine metabolism	ALDH2	KEGG
+1864	Histidine metabolism	ALDH3A2	KEGG
+1865	Histidine metabolism	ALDH1B1	KEGG
+1866	Histidine metabolism	ALDH7A1	KEGG
+1867	Histidine metabolism	ALDH9A1	KEGG
+1868	Histidine metabolism	ASPA	KEGG
+1869	Histidine metabolism	HNMT	KEGG
+1870	Histidine metabolism	MAOB	KEGG
+1871	Histidine metabolism	MAOA	KEGG
+1872	Histidine metabolism	ALDH3B1	KEGG
+1873	Histidine metabolism	ALDH3B2	KEGG
+1874	Histidine metabolism	ALDH1A3	KEGG
+1875	Histidine metabolism	ALDH3A1	KEGG
+1876	Histidine metabolism	CARNS1	KEGG
+1877	Histidine metabolism	CARNMT1	KEGG
+1878	Histidine metabolism	CNDP2	KEGG
+1879	Histidine metabolism	CNDP1	KEGG
+1880	Tyrosine metabolism	GOT1	KEGG
+1881	Tyrosine metabolism	GOT2	KEGG
+1882	Tyrosine metabolism	TAT	KEGG
+1883	Tyrosine metabolism	IL4I1	KEGG
+1884	Tyrosine metabolism	HPD	KEGG
+1885	Tyrosine metabolism	HGD	KEGG
+1886	Tyrosine metabolism	GSTZ1	KEGG
+1887	Tyrosine metabolism	FAH	KEGG
+1888	Tyrosine metabolism	TYR	KEGG
+1889	Tyrosine metabolism	TH	KEGG
+1890	Tyrosine metabolism	DCT	KEGG
+1891	Tyrosine metabolism	TYRP1	KEGG
+1892	Tyrosine metabolism	DDC	KEGG
+1893	Tyrosine metabolism	DBH	KEGG
+1894	Tyrosine metabolism	PNMT	KEGG
+1895	Tyrosine metabolism	COMT	KEGG
+1896	Tyrosine metabolism	LRTOMT	KEGG
+1897	Tyrosine metabolism	MAOB	KEGG
+1898	Tyrosine metabolism	MAOA	KEGG
+1899	Tyrosine metabolism	AOC3	KEGG
+1900	Tyrosine metabolism	AOC2	KEGG
+1901	Tyrosine metabolism	ALDH3B1	KEGG
+1902	Tyrosine metabolism	ALDH3B2	KEGG
+1903	Tyrosine metabolism	ALDH1A3	KEGG
+1904	Tyrosine metabolism	ALDH3A1	KEGG
+1905	Tyrosine metabolism	ADH1A	KEGG
+1906	Tyrosine metabolism	ADH1B	KEGG
+1907	Tyrosine metabolism	ADH1C	KEGG
+1908	Tyrosine metabolism	ADH7	KEGG
+1909	Tyrosine metabolism	ADH4	KEGG
+1910	Tyrosine metabolism	ADH5	KEGG
+1911	Tyrosine metabolism	ADH6	KEGG
+1912	Tyrosine metabolism	TPO	KEGG
+1913	Tyrosine metabolism	AOX1	KEGG
+1914	Tyrosine metabolism	FAHD1	KEGG
+1915	Tyrosine metabolism	MIF	KEGG
+1916	Phenylalanine metabolism	PAH	KEGG
+1917	Phenylalanine metabolism	DDC	KEGG
+1918	Phenylalanine metabolism	AOC3	KEGG
+1919	Phenylalanine metabolism	AOC2	KEGG
+1920	Phenylalanine metabolism	MAOB	KEGG
+1921	Phenylalanine metabolism	MAOA	KEGG
+1922	Phenylalanine metabolism	ALDH3B1	KEGG
+1923	Phenylalanine metabolism	ALDH3B2	KEGG
+1924	Phenylalanine metabolism	ALDH1A3	KEGG
+1925	Phenylalanine metabolism	ALDH3A1	KEGG
+1926	Phenylalanine metabolism	GOT1	KEGG
+1927	Phenylalanine metabolism	GOT2	KEGG
+1928	Phenylalanine metabolism	TAT	KEGG
+1929	Phenylalanine metabolism	IL4I1	KEGG
+1930	Phenylalanine metabolism	HPD	KEGG
+1931	Phenylalanine metabolism	MIF	KEGG
+1932	Phenylalanine metabolism	GLYAT	KEGG
+1933	Tryptophan metabolism	TDO2	KEGG
+1934	Tryptophan metabolism	IDO1	KEGG
+1935	Tryptophan metabolism	IDO2	KEGG
+1936	Tryptophan metabolism	AFMID	KEGG
+1937	Tryptophan metabolism	KMO	KEGG
+1938	Tryptophan metabolism	KYNU	KEGG
+1939	Tryptophan metabolism	HAAO	KEGG
+1940	Tryptophan metabolism	ACMSD	KEGG
+1941	Tryptophan metabolism	OGDHL	KEGG
+1942	Tryptophan metabolism	OGDH	KEGG
+1943	Tryptophan metabolism	GCDH	KEGG
+1944	Tryptophan metabolism	HADHA	KEGG
+1945	Tryptophan metabolism	EHHADH	KEGG
+1946	Tryptophan metabolism	ECHS1	KEGG
+1947	Tryptophan metabolism	HADH	KEGG
+1948	Tryptophan metabolism	ACAT2	KEGG
+1949	Tryptophan metabolism	ACAT1	KEGG
+1950	Tryptophan metabolism	KYAT3	KEGG
+1951	Tryptophan metabolism	KYAT1	KEGG
+1952	Tryptophan metabolism	AADAT	KEGG
+1953	Tryptophan metabolism	TPH2	KEGG
+1954	Tryptophan metabolism	TPH1	KEGG
+1955	Tryptophan metabolism	DDC	KEGG
+1956	Tryptophan metabolism	MAOB	KEGG
+1957	Tryptophan metabolism	MAOA	KEGG
+1958	Tryptophan metabolism	ALDH2	KEGG
+1959	Tryptophan metabolism	ALDH3A2	KEGG
+1960	Tryptophan metabolism	ALDH1B1	KEGG
+1961	Tryptophan metabolism	ALDH7A1	KEGG
+1962	Tryptophan metabolism	ALDH9A1	KEGG
+1963	Tryptophan metabolism	AOX1	KEGG
+1964	Tryptophan metabolism	ASMT	KEGG
+1965	Tryptophan metabolism	AANAT	KEGG
+1966	Tryptophan metabolism	CYP1A1	KEGG
+1967	Tryptophan metabolism	CYP1A2	KEGG
+1968	Tryptophan metabolism	CYP1B1	KEGG
+1969	Tryptophan metabolism	INMT	KEGG
+1970	Tryptophan metabolism	IL4I1	KEGG
+1971	Tryptophan metabolism	AOC1	KEGG
+1972	Tryptophan metabolism	CAT	KEGG
+1973	Phenylalanine tyrosine and tryptophan biosynthesis	GOT1	KEGG
+1974	Phenylalanine tyrosine and tryptophan biosynthesis	GOT2	KEGG
+1975	Phenylalanine tyrosine and tryptophan biosynthesis	TAT	KEGG
+1976	Phenylalanine tyrosine and tryptophan biosynthesis	IL4I1	KEGG
+1977	Phenylalanine tyrosine and tryptophan biosynthesis	PAH	KEGG
+1978	beta Alanine metabolism	GADL1	KEGG
+1979	beta Alanine metabolism	GAD1	KEGG
+1980	beta Alanine metabolism	GAD2	KEGG
+1981	beta Alanine metabolism	CNDP1	KEGG
+1982	beta Alanine metabolism	CARNS1	KEGG
+1983	beta Alanine metabolism	CNDP2	KEGG
+1984	beta Alanine metabolism	ABAT	KEGG
+1985	beta Alanine metabolism	SRM	KEGG
+1986	beta Alanine metabolism	SMS	KEGG
+1987	beta Alanine metabolism	SMOX	KEGG
+1988	beta Alanine metabolism	AOC3	KEGG
+1989	beta Alanine metabolism	AOC2	KEGG
+1990	beta Alanine metabolism	ALDH2	KEGG
+1991	beta Alanine metabolism	ALDH3A2	KEGG
+1992	beta Alanine metabolism	ALDH1B1	KEGG
+1993	beta Alanine metabolism	ALDH7A1	KEGG
+1994	beta Alanine metabolism	ALDH9A1	KEGG
+1995	beta Alanine metabolism	ALDH3B1	KEGG
+1996	beta Alanine metabolism	ALDH3B2	KEGG
+1997	beta Alanine metabolism	ALDH1A3	KEGG
+1998	beta Alanine metabolism	ALDH3A1	KEGG
+1999	beta Alanine metabolism	DPYD	KEGG
+2000	beta Alanine metabolism	DPYS	KEGG
+2001	beta Alanine metabolism	UPB1	KEGG
+2002	beta Alanine metabolism	HIBCH	KEGG
+2003	beta Alanine metabolism	HADHA	KEGG
+2004	beta Alanine metabolism	EHHADH	KEGG
+2005	beta Alanine metabolism	ECHS1	KEGG
+2006	beta Alanine metabolism	ACADM	KEGG
+2007	beta Alanine metabolism	MLYCD	KEGG
+2008	beta Alanine metabolism	ALDH6A1	KEGG
+2009	Taurine and hypotaurine metabolism	CDO1	KEGG
+2010	Taurine and hypotaurine metabolism	GAD1	KEGG
+2011	Taurine and hypotaurine metabolism	GAD2	KEGG
+2012	Taurine and hypotaurine metabolism	CSAD	KEGG
+2013	Taurine and hypotaurine metabolism	GADL1	KEGG
+2014	Taurine and hypotaurine metabolism	ADO	KEGG
+2015	Taurine and hypotaurine metabolism	GGT7	KEGG
+2016	Taurine and hypotaurine metabolism	GGT6	KEGG
+2017	Taurine and hypotaurine metabolism	GGT1	KEGG
+2018	Taurine and hypotaurine metabolism	GGT5	KEGG
+2019	Taurine and hypotaurine metabolism	BAAT	KEGG
+2020	Phosphonate and phosphinate metabolism	PCYT2	KEGG
+2021	Phosphonate and phosphinate metabolism	SELENOI	KEGG
+2022	Phosphonate and phosphinate metabolism	CEPT1	KEGG
+2023	Phosphonate and phosphinate metabolism	PCYT1B	KEGG
+2024	Phosphonate and phosphinate metabolism	PCYT1A	KEGG
+2025	Phosphonate and phosphinate metabolism	CHPT1	KEGG
+2026	Selenocompound metabolism	MTR	KEGG
+2027	Selenocompound metabolism	CTH	KEGG
+2028	Selenocompound metabolism	SCLY	KEGG
+2029	Selenocompound metabolism	KYAT3	KEGG
+2030	Selenocompound metabolism	KYAT1	KEGG
+2031	Selenocompound metabolism	TXNRD1	KEGG
+2032	Selenocompound metabolism	TXNRD3	KEGG
+2033	Selenocompound metabolism	TXNRD2	KEGG
+2034	Selenocompound metabolism	INMT	KEGG
+2035	Selenocompound metabolism	PAPSS2	KEGG
+2036	Selenocompound metabolism	PAPSS1	KEGG
+2037	Selenocompound metabolism	SEPHS2	KEGG
+2038	Selenocompound metabolism	SEPHS1	KEGG
+2039	Selenocompound metabolism	PSTK	KEGG
+2040	Selenocompound metabolism	SEPSECS	KEGG
+2041	Selenocompound metabolism	MARS	KEGG
+2042	Selenocompound metabolism	MARS2	KEGG
+2043	D Glutamine and D glutamate metabolism	DGLUCY	KEGG
+2044	D Glutamine and D glutamate metabolism	GLS2	KEGG
+2045	D Glutamine and D glutamate metabolism	GLS	KEGG
+2046	D Glutamine and D glutamate metabolism	GLUD2	KEGG
+2047	D Glutamine and D glutamate metabolism	GLUD1	KEGG
+2048	D Arginine and D ornithine metabolism	DAO	KEGG
+2049	Glutathione metabolism	GGT7	KEGG
+2050	Glutathione metabolism	GGT6	KEGG
+2051	Glutathione metabolism	GGT1	KEGG
+2052	Glutathione metabolism	GGT5	KEGG
+2053	Glutathione metabolism	GGCT	KEGG
+2054	Glutathione metabolism	CHAC1	KEGG
+2055	Glutathione metabolism	CHAC2	KEGG
+2056	Glutathione metabolism	OPLAH	KEGG
+2057	Glutathione metabolism	GCLC	KEGG
+2058	Glutathione metabolism	GCLM	KEGG
+2059	Glutathione metabolism	GSS	KEGG
+2060	Glutathione metabolism	LAP3	KEGG
+2061	Glutathione metabolism	ANPEP	KEGG
+2062	Glutathione metabolism	GSTA5	KEGG
+2063	Glutathione metabolism	GSTA2	KEGG
+2064	Glutathione metabolism	GSTA4	KEGG
+2065	Glutathione metabolism	GSTO2	KEGG
+2066	Glutathione metabolism	GSTM4	KEGG
+2067	Glutathione metabolism	GSTT2	KEGG
+2068	Glutathione metabolism	GSTT1	KEGG
+2069	Glutathione metabolism	GSTM3	KEGG
+2070	Glutathione metabolism	MGST1	KEGG
+2071	Glutathione metabolism	MGST3	KEGG
+2072	Glutathione metabolism	GSTP1	KEGG
+2073	Glutathione metabolism	GSTM1	KEGG
+2074	Glutathione metabolism	GSTM5	KEGG
+2075	Glutathione metabolism	MGST2	KEGG
+2076	Glutathione metabolism	GSTA1	KEGG
+2077	Glutathione metabolism	GSTM2	KEGG
+2078	Glutathione metabolism	GSTA3	KEGG
+2079	Glutathione metabolism	GSTO1	KEGG
+2080	Glutathione metabolism	GSTT2B	KEGG
+2081	Glutathione metabolism	GSTK1	KEGG
+2082	Glutathione metabolism	HPGDS	KEGG
+2083	Glutathione metabolism	NAT8	KEGG
+2084	Glutathione metabolism	NAT8B	KEGG
+2085	Glutathione metabolism	GSR	KEGG
+2086	Glutathione metabolism	IDH1	KEGG
+2087	Glutathione metabolism	IDH2	KEGG
+2088	Glutathione metabolism	PGD	KEGG
+2089	Glutathione metabolism	G6PD	KEGG
+2090	Glutathione metabolism	TXNDC12	KEGG
+2091	Glutathione metabolism	GPX6	KEGG
+2092	Glutathione metabolism	GPX7	KEGG
+2093	Glutathione metabolism	GPX2	KEGG
+2094	Glutathione metabolism	GPX3	KEGG
+2095	Glutathione metabolism	GPX1	KEGG
+2096	Glutathione metabolism	GPX5	KEGG
+2097	Glutathione metabolism	GPX8	KEGG
+2098	Glutathione metabolism	GPX4	KEGG
+2099	Glutathione metabolism	ODC1	KEGG
+2100	Glutathione metabolism	SRM	KEGG
+2101	Glutathione metabolism	SMS	KEGG
+2102	Glutathione metabolism	RRM1	KEGG
+2103	Glutathione metabolism	RRM2B	KEGG
+2104	Glutathione metabolism	RRM2	KEGG
+2105	N Glycan biosynthesis	DOLK	KEGG
+2106	N Glycan biosynthesis	DPAGT1	KEGG
+2107	N Glycan biosynthesis	ALG5	KEGG
+2108	N Glycan biosynthesis	ALG13	KEGG
+2109	N Glycan biosynthesis	ALG14	KEGG
+2110	N Glycan biosynthesis	DPM1	KEGG
+2111	N Glycan biosynthesis	DPM2	KEGG
+2112	N Glycan biosynthesis	DPM3	KEGG
+2113	N Glycan biosynthesis	ALG1	KEGG
+2114	N Glycan biosynthesis	ALG2	KEGG
+2115	N Glycan biosynthesis	ALG11	KEGG
+2116	N Glycan biosynthesis	ALG3	KEGG
+2117	N Glycan biosynthesis	ALG9	KEGG
+2118	N Glycan biosynthesis	ALG12	KEGG
+2119	N Glycan biosynthesis	ALG6	KEGG
+2120	N Glycan biosynthesis	ALG8	KEGG
+2121	N Glycan biosynthesis	ALG10	KEGG
+2122	N Glycan biosynthesis	ALG10B	KEGG
+2123	N Glycan biosynthesis	STT3A	KEGG
+2124	N Glycan biosynthesis	STT3B	KEGG
+2125	N Glycan biosynthesis	RPN1	KEGG
+2126	N Glycan biosynthesis	RPN2	KEGG
+2127	N Glycan biosynthesis	DAD1	KEGG
+2128	N Glycan biosynthesis	TUSC3	KEGG
+2129	N Glycan biosynthesis	DDOST	KEGG
+2130	N Glycan biosynthesis	DOLPP1	KEGG
+2131	N Glycan biosynthesis	MOGS	KEGG
+2132	N Glycan biosynthesis	GANAB	KEGG
+2133	N Glycan biosynthesis	MAN1B1	KEGG
+2134	N Glycan biosynthesis	MAN1A2	KEGG
+2135	N Glycan biosynthesis	MAN1C1	KEGG
+2136	N Glycan biosynthesis	MAN1A1	KEGG
+2137	N Glycan biosynthesis	MGAT1	KEGG
+2138	N Glycan biosynthesis	MAN2A1	KEGG
+2139	N Glycan biosynthesis	MAN2A2	KEGG
+2140	N Glycan biosynthesis	MGAT2	KEGG
+2141	N Glycan biosynthesis	FUT8	KEGG
+2142	N Glycan biosynthesis	B4GALT1	KEGG
+2143	N Glycan biosynthesis	B4GALT2	KEGG
+2144	N Glycan biosynthesis	B4GALT3	KEGG
+2145	N Glycan biosynthesis	ST6GAL1	KEGG
+2146	N Glycan biosynthesis	ST6GAL2	KEGG
+2147	N Glycan biosynthesis	MGAT3	KEGG
+2148	N Glycan biosynthesis	MGAT4A	KEGG
+2149	N Glycan biosynthesis	MGAT4B	KEGG
+2150	N Glycan biosynthesis	MGAT4D	KEGG
+2151	N Glycan biosynthesis	MGAT5	KEGG
+2152	N Glycan biosynthesis	MGAT5B	KEGG
+2153	N Glycan biosynthesis	MGAT4C	KEGG
+2154	Mucin type O glycan biosynthesis	GALNTL6	KEGG
+2155	Mucin type O glycan biosynthesis	GALNT5	KEGG
+2156	Mucin type O glycan biosynthesis	GALNT17	KEGG
+2157	Mucin type O glycan biosynthesis	GALNT11	KEGG
+2158	Mucin type O glycan biosynthesis	GALNT12	KEGG
+2159	Mucin type O glycan biosynthesis	GALNT13	KEGG
+2160	Mucin type O glycan biosynthesis	GALNT14	KEGG
+2161	Mucin type O glycan biosynthesis	GALNT16	KEGG
+2162	Mucin type O glycan biosynthesis	GALNT15	KEGG
+2163	Mucin type O glycan biosynthesis	GALNT18	KEGG
+2164	Mucin type O glycan biosynthesis	GALNTL5	KEGG
+2165	Mucin type O glycan biosynthesis	GALNT10	KEGG
+2166	Mucin type O glycan biosynthesis	GALNT2	KEGG
+2167	Mucin type O glycan biosynthesis	GALNT3	KEGG
+2168	Mucin type O glycan biosynthesis	GALNT1	KEGG
+2169	Mucin type O glycan biosynthesis	GALNT6	KEGG
+2170	Mucin type O glycan biosynthesis	GALNT4	KEGG
+2171	Mucin type O glycan biosynthesis	GALNT9	KEGG
+2172	Mucin type O glycan biosynthesis	GALNT7	KEGG
+2173	Mucin type O glycan biosynthesis	GALNT8	KEGG
+2174	Mucin type O glycan biosynthesis	POC1B GALNT4	KEGG
+2175	Mucin type O glycan biosynthesis	C1GALT1	KEGG
+2176	Mucin type O glycan biosynthesis	C1GALT1C1	KEGG
+2177	Mucin type O glycan biosynthesis	GCNT1	KEGG
+2178	Mucin type O glycan biosynthesis	GCNT3	KEGG
+2179	Mucin type O glycan biosynthesis	GCNT4	KEGG
+2180	Mucin type O glycan biosynthesis	ST3GAL1	KEGG
+2181	Mucin type O glycan biosynthesis	ST3GAL2	KEGG
+2182	Mucin type O glycan biosynthesis	ST6GALNAC1	KEGG
+2183	Mucin type O glycan biosynthesis	B3GNT6	KEGG
+2184	Mucin type O glycan biosynthesis	B4GALT5	KEGG
+2185	Mannose type O glycan biosynthesis	POMT1	KEGG
+2186	Mannose type O glycan biosynthesis	POMT2	KEGG
+2187	Mannose type O glycan biosynthesis	POMGNT1	KEGG
+2188	Mannose type O glycan biosynthesis	B4GALT1	KEGG
+2189	Mannose type O glycan biosynthesis	B4GALT2	KEGG
+2190	Mannose type O glycan biosynthesis	B4GALT3	KEGG
+2191	Mannose type O glycan biosynthesis	ST3GAL3	KEGG
+2192	Mannose type O glycan biosynthesis	B3GAT1	KEGG
+2193	Mannose type O glycan biosynthesis	B3GAT2	KEGG
+2194	Mannose type O glycan biosynthesis	CHST10	KEGG
+2195	Mannose type O glycan biosynthesis	FUT9	KEGG
+2196	Mannose type O glycan biosynthesis	FUT4	KEGG
+2197	Mannose type O glycan biosynthesis	MGAT5B	KEGG
+2198	Mannose type O glycan biosynthesis	POMGNT2	KEGG
+2199	Mannose type O glycan biosynthesis	B3GALNT2	KEGG
+2200	Mannose type O glycan biosynthesis	POMK	KEGG
+2201	Mannose type O glycan biosynthesis	ISPD	KEGG
+2202	Mannose type O glycan biosynthesis	FKTN	KEGG
+2203	Mannose type O glycan biosynthesis	FKRP	KEGG
+2204	Mannose type O glycan biosynthesis	RXYLT1	KEGG
+2205	Mannose type O glycan biosynthesis	B4GAT1	KEGG
+2206	Mannose type O glycan biosynthesis	LARGE1	KEGG
+2207	Mannose type O glycan biosynthesis	LARGE2	KEGG
+2208	Other types of O glycan biosynthesis	OGT	KEGG
+2209	Other types of O glycan biosynthesis	EOGT	KEGG
+2210	Other types of O glycan biosynthesis	POFUT1	KEGG
+2211	Other types of O glycan biosynthesis	POFUT2	KEGG
+2212	Other types of O glycan biosynthesis	MFNG	KEGG
+2213	Other types of O glycan biosynthesis	LFNG	KEGG
+2214	Other types of O glycan biosynthesis	RFNG	KEGG
+2215	Other types of O glycan biosynthesis	B4GALT1	KEGG
+2216	Other types of O glycan biosynthesis	B4GALT2	KEGG
+2217	Other types of O glycan biosynthesis	B4GALT3	KEGG
+2218	Other types of O glycan biosynthesis	ST6GAL1	KEGG
+2219	Other types of O glycan biosynthesis	ST6GAL2	KEGG
+2220	Other types of O glycan biosynthesis	ST3GAL3	KEGG
+2221	Other types of O glycan biosynthesis	B3GLCT	KEGG
+2222	Other types of O glycan biosynthesis	POGLUT1	KEGG
+2223	Other types of O glycan biosynthesis	GXYLT1	KEGG
+2224	Other types of O glycan biosynthesis	GXYLT2	KEGG
+2225	Other types of O glycan biosynthesis	COLGALT1	KEGG
+2226	Other types of O glycan biosynthesis	COLGALT2	KEGG
+2227	Other types of O glycan biosynthesis	PLOD3	KEGG
+2228	Other types of O glycan biosynthesis	POMT1	KEGG
+2229	Other types of O glycan biosynthesis	POMT2	KEGG
+2230	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	XYLT1	KEGG
+2231	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	XYLT2	KEGG
+2232	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	B4GALT7	KEGG
+2233	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	B3GALT6	KEGG
+2234	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	B3GAT3	KEGG
+2235	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CSGALNACT1	KEGG
+2236	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CSGALNACT2	KEGG
+2237	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHSY3	KEGG
+2238	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHSY1	KEGG
+2239	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHPF	KEGG
+2240	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHPF2	KEGG
+2241	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	DSE	KEGG
+2242	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHST11	KEGG
+2243	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHST12	KEGG
+2244	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHST13	KEGG
+2245	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHST3	KEGG
+2246	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHST7	KEGG
+2247	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHST15	KEGG
+2248	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	UST	KEGG
+2249	Glycosaminoglycan biosynthesis chondroitin sulfate dermatan sulfate	CHST14	KEGG
+2250	Glycosaminoglycan biosynthesis heparan sulfate heparin	XYLT1	KEGG
+2251	Glycosaminoglycan biosynthesis heparan sulfate heparin	XYLT2	KEGG
+2252	Glycosaminoglycan biosynthesis heparan sulfate heparin	B4GALT7	KEGG
+2253	Glycosaminoglycan biosynthesis heparan sulfate heparin	B3GALT6	KEGG
+2254	Glycosaminoglycan biosynthesis heparan sulfate heparin	B3GAT3	KEGG
+2255	Glycosaminoglycan biosynthesis heparan sulfate heparin	EXTL2	KEGG
+2256	Glycosaminoglycan biosynthesis heparan sulfate heparin	EXTL3	KEGG
+2257	Glycosaminoglycan biosynthesis heparan sulfate heparin	EXTL1	KEGG
+2258	Glycosaminoglycan biosynthesis heparan sulfate heparin	EXT1	KEGG
+2259	Glycosaminoglycan biosynthesis heparan sulfate heparin	EXT2	KEGG
+2260	Glycosaminoglycan biosynthesis heparan sulfate heparin	NDST1	KEGG
+2261	Glycosaminoglycan biosynthesis heparan sulfate heparin	NDST2	KEGG
+2262	Glycosaminoglycan biosynthesis heparan sulfate heparin	NDST3	KEGG
+2263	Glycosaminoglycan biosynthesis heparan sulfate heparin	NDST4	KEGG
+2264	Glycosaminoglycan biosynthesis heparan sulfate heparin	GLCE	KEGG
+2265	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS2ST1	KEGG
+2266	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS6ST1	KEGG
+2267	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS6ST2	KEGG
+2268	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS6ST3	KEGG
+2269	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS3ST1	KEGG
+2270	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS3ST2	KEGG
+2271	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS3ST3B1	KEGG
+2272	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS3ST3A1	KEGG
+2273	Glycosaminoglycan biosynthesis heparan sulfate heparin	HS3ST5	KEGG
+2274	Glycosaminoglycan biosynthesis keratan sulfate	FUT8	KEGG
+2275	Glycosaminoglycan biosynthesis keratan sulfate	B4GALT1	KEGG
+2276	Glycosaminoglycan biosynthesis keratan sulfate	B4GALT2	KEGG
+2277	Glycosaminoglycan biosynthesis keratan sulfate	B4GALT3	KEGG
+2278	Glycosaminoglycan biosynthesis keratan sulfate	B3GNT2	KEGG
+2279	Glycosaminoglycan biosynthesis keratan sulfate	CHST6	KEGG
+2280	Glycosaminoglycan biosynthesis keratan sulfate	B4GALT4	KEGG
+2281	Glycosaminoglycan biosynthesis keratan sulfate	B3GNT7	KEGG
+2282	Glycosaminoglycan biosynthesis keratan sulfate	CHST1	KEGG
+2283	Glycosaminoglycan biosynthesis keratan sulfate	ST3GAL3	KEGG
+2284	Glycosaminoglycan biosynthesis keratan sulfate	CHST2	KEGG
+2285	Glycosaminoglycan biosynthesis keratan sulfate	CHST4	KEGG
+2286	Glycosaminoglycan biosynthesis keratan sulfate	ST3GAL1	KEGG
+2287	Glycosaminoglycan biosynthesis keratan sulfate	ST3GAL2	KEGG
+2288	Glycosaminoglycan degradation	HYAL2	KEGG
+2289	Glycosaminoglycan degradation	HYAL1	KEGG
+2290	Glycosaminoglycan degradation	SPAM1	KEGG
+2291	Glycosaminoglycan degradation	HYAL4	KEGG
+2292	Glycosaminoglycan degradation	HYAL3	KEGG
+2293	Glycosaminoglycan degradation	GUSB	KEGG
+2294	Glycosaminoglycan degradation	IDS	KEGG
+2295	Glycosaminoglycan degradation	IDUA	KEGG
+2296	Glycosaminoglycan degradation	ARSB	KEGG
+2297	Glycosaminoglycan degradation	HPSE	KEGG
+2298	Glycosaminoglycan degradation	HPSE2	KEGG
+2299	Glycosaminoglycan degradation	SGSH	KEGG
+2300	Glycosaminoglycan degradation	HGSNAT	KEGG
+2301	Glycosaminoglycan degradation	NAGLU	KEGG
+2302	Glycosaminoglycan degradation	GALNS	KEGG
+2303	Glycosaminoglycan degradation	GLB1	KEGG
+2304	Glycosaminoglycan degradation	GNS	KEGG
+2305	Glycosaminoglycan degradation	HEXA	KEGG
+2306	Glycosaminoglycan degradation	HEXB	KEGG
+2307	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGA	KEGG
+2308	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGH	KEGG
+2309	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGC	KEGG
+2310	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGQ	KEGG
+2311	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGP	KEGG
+2312	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGY	KEGG
+2313	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	DPM2	KEGG
+2314	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGL	KEGG
+2315	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGW	KEGG
+2316	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	GPLD1	KEGG
+2317	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGM	KEGG
+2318	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGX	KEGG
+2319	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGV	KEGG
+2320	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGN	KEGG
+2321	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGB	KEGG
+2322	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGF	KEGG
+2323	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGO	KEGG
+2324	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	GPAA1	KEGG
+2325	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGK	KEGG
+2326	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGS	KEGG
+2327	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGT	KEGG
+2328	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGU	KEGG
+2329	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PGAP1	KEGG
+2330	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGZ	KEGG
+2331	Glycosylphosphatidylinositol (GPI) anchor biosynthesis	PIGG	KEGG
+2332	Glycosphingolipid biosynthesis lacto and neolacto series	B3GNT5	KEGG
+2333	Glycosphingolipid biosynthesis lacto and neolacto series	B3GALT1	KEGG
+2334	Glycosphingolipid biosynthesis lacto and neolacto series	B3GALT2	KEGG
+2335	Glycosphingolipid biosynthesis lacto and neolacto series	B3GALT5	KEGG
+2336	Glycosphingolipid biosynthesis lacto and neolacto series	FUT1	KEGG
+2337	Glycosphingolipid biosynthesis lacto and neolacto series	FUT2	KEGG
+2338	Glycosphingolipid biosynthesis lacto and neolacto series	FUT3	KEGG
+2339	Glycosphingolipid biosynthesis lacto and neolacto series	ST3GAL3	KEGG
+2340	Glycosphingolipid biosynthesis lacto and neolacto series	ST3GAL4	KEGG
+2341	Glycosphingolipid biosynthesis lacto and neolacto series	ABO	KEGG
+2342	Glycosphingolipid biosynthesis lacto and neolacto series	B4GALT1	KEGG
+2343	Glycosphingolipid biosynthesis lacto and neolacto series	B4GALT2	KEGG
+2344	Glycosphingolipid biosynthesis lacto and neolacto series	B4GALT3	KEGG
+2345	Glycosphingolipid biosynthesis lacto and neolacto series	B4GALT4	KEGG
+2346	Glycosphingolipid biosynthesis lacto and neolacto series	FUT9	KEGG
+2347	Glycosphingolipid biosynthesis lacto and neolacto series	FUT4	KEGG
+2348	Glycosphingolipid biosynthesis lacto and neolacto series	FUT5	KEGG
+2349	Glycosphingolipid biosynthesis lacto and neolacto series	FUT6	KEGG
+2350	Glycosphingolipid biosynthesis lacto and neolacto series	FUT7	KEGG
+2351	Glycosphingolipid biosynthesis lacto and neolacto series	ST3GAL6	KEGG
+2352	Glycosphingolipid biosynthesis lacto and neolacto series	ST8SIA1	KEGG
+2353	Glycosphingolipid biosynthesis lacto and neolacto series	A4GALT	KEGG
+2354	Glycosphingolipid biosynthesis lacto and neolacto series	B3GALNT1	KEGG
+2355	Glycosphingolipid biosynthesis lacto and neolacto series	B3GNT2	KEGG
+2356	Glycosphingolipid biosynthesis lacto and neolacto series	B3GNT3	KEGG
+2357	Glycosphingolipid biosynthesis lacto and neolacto series	B3GNT4	KEGG
+2358	Glycosphingolipid biosynthesis lacto and neolacto series	GCNT2	KEGG
+2359	Glycosphingolipid biosynthesis globo and isoglobo series	A3GALT2	KEGG
+2360	Glycosphingolipid biosynthesis globo and isoglobo series	B3GALNT1	KEGG
+2361	Glycosphingolipid biosynthesis globo and isoglobo series	GBGT1	KEGG
+2362	Glycosphingolipid biosynthesis globo and isoglobo series	A4GALT	KEGG
+2363	Glycosphingolipid biosynthesis globo and isoglobo series	GLA	KEGG
+2364	Glycosphingolipid biosynthesis globo and isoglobo series	B3GALT5	KEGG
+2365	Glycosphingolipid biosynthesis globo and isoglobo series	HEXA	KEGG
+2366	Glycosphingolipid biosynthesis globo and isoglobo series	HEXB	KEGG
+2367	Glycosphingolipid biosynthesis globo and isoglobo series	NAGA	KEGG
+2368	Glycosphingolipid biosynthesis globo and isoglobo series	FUT1	KEGG
+2369	Glycosphingolipid biosynthesis globo and isoglobo series	FUT2	KEGG
+2370	Glycosphingolipid biosynthesis globo and isoglobo series	ST3GAL1	KEGG
+2371	Glycosphingolipid biosynthesis globo and isoglobo series	ST3GAL2	KEGG
+2372	Glycosphingolipid biosynthesis globo and isoglobo series	ST8SIA1	KEGG
+2373	Glycosphingolipid biosynthesis globo and isoglobo series	FUT9	KEGG
+2374	Glycosphingolipid biosynthesis ganglio series	B4GALNT1	KEGG
+2375	Glycosphingolipid biosynthesis ganglio series	B3GALT4	KEGG
+2376	Glycosphingolipid biosynthesis ganglio series	ST3GAL2	KEGG
+2377	Glycosphingolipid biosynthesis ganglio series	ST3GAL1	KEGG
+2378	Glycosphingolipid biosynthesis ganglio series	ST8SIA5	KEGG
+2379	Glycosphingolipid biosynthesis ganglio series	ST3GAL5	KEGG
+2380	Glycosphingolipid biosynthesis ganglio series	ST8SIA1	KEGG
+2381	Glycosphingolipid biosynthesis ganglio series	SLC33A1	KEGG
+2382	Glycosphingolipid biosynthesis ganglio series	ST6GALNAC3	KEGG
+2383	Glycosphingolipid biosynthesis ganglio series	ST6GALNAC4	KEGG
+2384	Glycosphingolipid biosynthesis ganglio series	ST6GALNAC5	KEGG
+2385	Glycosphingolipid biosynthesis ganglio series	ST6GALNAC6	KEGG
+2386	Glycosphingolipid biosynthesis ganglio series	GLB1	KEGG
+2387	Glycosphingolipid biosynthesis ganglio series	HEXA	KEGG
+2388	Glycosphingolipid biosynthesis ganglio series	HEXB	KEGG
+2389	Other glycan degradation	NEU1	KEGG
+2390	Other glycan degradation	NEU3	KEGG
+2391	Other glycan degradation	NEU4	KEGG
+2392	Other glycan degradation	NEU2	KEGG
+2393	Other glycan degradation	GLB1	KEGG
+2394	Other glycan degradation	HEXA	KEGG
+2395	Other glycan degradation	HEXB	KEGG
+2396	Other glycan degradation	HEXDC	KEGG
+2397	Other glycan degradation	MAN2C1	KEGG
+2398	Other glycan degradation	MAN2B1	KEGG
+2399	Other glycan degradation	MAN2B2	KEGG
+2400	Other glycan degradation	MANBA	KEGG
+2401	Other glycan degradation	ENGASE	KEGG
+2402	Other glycan degradation	FUCA1	KEGG
+2403	Other glycan degradation	FUCA2	KEGG
+2404	Other glycan degradation	AGA	KEGG
+2405	Other glycan degradation	GBA	KEGG
+2406	Other glycan degradation	GBA2	KEGG
+2407	Thiamine metabolism	NFS1	KEGG
+2408	Thiamine metabolism	NTPCR	KEGG
+2409	Thiamine metabolism	ALPL	KEGG
+2410	Thiamine metabolism	ALPI	KEGG
+2411	Thiamine metabolism	ALPP	KEGG
+2412	Thiamine metabolism	ALPG	KEGG
+2413	Thiamine metabolism	ACP1	KEGG
+2414	Thiamine metabolism	TPK1	KEGG
+2415	Thiamine metabolism	AK7	KEGG
+2416	Thiamine metabolism	AK4	KEGG
+2417	Thiamine metabolism	AK5	KEGG
+2418	Thiamine metabolism	AK2	KEGG
+2419	Thiamine metabolism	AK1	KEGG
+2420	Thiamine metabolism	adenylate kinase isoenzyme 1 like [KO:K00939] [EC:2.7.4.3]	KEGG
+2421	Thiamine metabolism	AK8	KEGG
+2422	Thiamine metabolism	THTPA	KEGG
+2423	Riboflavin metabolism	RFK	KEGG
+2424	Riboflavin metabolism	ACP5	KEGG
+2425	Riboflavin metabolism	ACP1	KEGG
+2426	Riboflavin metabolism	ACP2	KEGG
+2427	Riboflavin metabolism	FLAD1	KEGG
+2428	Riboflavin metabolism	ENPP1	KEGG
+2429	Riboflavin metabolism	ENPP3	KEGG
+2430	Riboflavin metabolism	BLVRB	KEGG
+2431	Vitamin B6 metabolism	PNPO	KEGG
+2432	Vitamin B6 metabolism	PDXK	KEGG
+2433	Vitamin B6 metabolism	PDXP	KEGG
+2434	Vitamin B6 metabolism	PHOSPHO2	KEGG
+2435	Vitamin B6 metabolism	AOX1	KEGG
+2436	Vitamin B6 metabolism	PSAT1	KEGG
+2437	Nicotinate and nicotinamide metabolism	ASPDH	KEGG
+2438	Nicotinate and nicotinamide metabolism	QPRT	KEGG
+2439	Nicotinate and nicotinamide metabolism	NAPRT	KEGG
+2440	Nicotinate and nicotinamide metabolism	PNP	KEGG
+2441	Nicotinate and nicotinamide metabolism	NMRK1	KEGG
+2442	Nicotinate and nicotinamide metabolism	NMRK2	KEGG
+2443	Nicotinate and nicotinamide metabolism	NT5C2	KEGG
+2444	Nicotinate and nicotinamide metabolism	NT5C1A	KEGG
+2445	Nicotinate and nicotinamide metabolism	NT5C1B	KEGG
+2446	Nicotinate and nicotinamide metabolism	NT5C	KEGG
+2447	Nicotinate and nicotinamide metabolism	NT5M	KEGG
+2448	Nicotinate and nicotinamide metabolism	NT5C3A	KEGG
+2449	Nicotinate and nicotinamide metabolism	NT5C3B	KEGG
+2450	Nicotinate and nicotinamide metabolism	NT5C1B RDH14	KEGG
+2451	Nicotinate and nicotinamide metabolism	NT5E	KEGG
+2452	Nicotinate and nicotinamide metabolism	NMNAT3	KEGG
+2453	Nicotinate and nicotinamide metabolism	NMNAT1	KEGG
+2454	Nicotinate and nicotinamide metabolism	NMNAT2	KEGG
+2455	Nicotinate and nicotinamide metabolism	ENPP1	KEGG
+2456	Nicotinate and nicotinamide metabolism	ENPP3	KEGG
+2457	Nicotinate and nicotinamide metabolism	NUDT12	KEGG
+2458	Nicotinate and nicotinamide metabolism	NADSYN1	KEGG
+2459	Nicotinate and nicotinamide metabolism	NAMPT	KEGG
+2460	Nicotinate and nicotinamide metabolism	CD38	KEGG
+2461	Nicotinate and nicotinamide metabolism	BST1	KEGG
+2462	Nicotinate and nicotinamide metabolism	NADK	KEGG
+2463	Nicotinate and nicotinamide metabolism	NADK2	KEGG
+2464	Nicotinate and nicotinamide metabolism	NNT	KEGG
+2465	Nicotinate and nicotinamide metabolism	NNMT	KEGG
+2466	Nicotinate and nicotinamide metabolism	AOX1	KEGG
+2467	Pantothenate and CoA biosynthesis	PANK1	KEGG
+2468	Pantothenate and CoA biosynthesis	PANK4	KEGG
+2469	Pantothenate and CoA biosynthesis	PANK3	KEGG
+2470	Pantothenate and CoA biosynthesis	PANK2	KEGG
+2471	Pantothenate and CoA biosynthesis	PPCS	KEGG
+2472	Pantothenate and CoA biosynthesis	PPCDC	KEGG
+2473	Pantothenate and CoA biosynthesis	ENPP1	KEGG
+2474	Pantothenate and CoA biosynthesis	ENPP3	KEGG
+2475	Pantothenate and CoA biosynthesis	COASY	KEGG
+2476	Pantothenate and CoA biosynthesis	AASDHPPT	KEGG
+2477	Pantothenate and CoA biosynthesis	VNN1	KEGG
+2478	Pantothenate and CoA biosynthesis	VNN2	KEGG
+2479	Pantothenate and CoA biosynthesis	VNN3	KEGG
+2480	Pantothenate and CoA biosynthesis	BCAT2	KEGG
+2481	Pantothenate and CoA biosynthesis	BCAT1	KEGG
+2482	Pantothenate and CoA biosynthesis	DPYD	KEGG
+2483	Pantothenate and CoA biosynthesis	DPYS	KEGG
+2484	Pantothenate and CoA biosynthesis	UPB1	KEGG
+2485	Pantothenate and CoA biosynthesis	GADL1	KEGG
+2486	Biotin metabolism	OXSM	KEGG
+2487	Biotin metabolism	HLCS	KEGG
+2488	Biotin metabolism	BTD	KEGG
+2489	Lipoic acid metabolism	LIAS	KEGG
+2490	Lipoic acid metabolism	LIPT2	KEGG
+2491	Lipoic acid metabolism	LIPT1	KEGG
+2492	Folate biosynthesis	GCH1	KEGG
+2493	Folate biosynthesis	ALPL	KEGG
+2494	Folate biosynthesis	ALPI	KEGG
+2495	Folate biosynthesis	ALPP	KEGG
+2496	Folate biosynthesis	ALPG	KEGG
+2497	Folate biosynthesis	DHFR	KEGG
+2498	Folate biosynthesis	DHFR2	KEGG
+2499	Folate biosynthesis	FPGS	KEGG
+2500	Folate biosynthesis	GGH	KEGG
+2501	Folate biosynthesis	PTS	KEGG
+2502	Folate biosynthesis	SPR	KEGG
+2503	Folate biosynthesis	AKR1B1	KEGG
+2504	Folate biosynthesis	AKR1B10	KEGG
+2505	Folate biosynthesis	CBR1	KEGG
+2506	Folate biosynthesis	AKR1C3	KEGG
+2507	Folate biosynthesis	QDPR	KEGG
+2508	Folate biosynthesis	PCBD2	KEGG
+2509	Folate biosynthesis	PCBD1	KEGG
+2510	Folate biosynthesis	PAH	KEGG
+2511	Folate biosynthesis	TH	KEGG
+2512	Folate biosynthesis	TPH2	KEGG
+2513	Folate biosynthesis	TPH1	KEGG
+2514	Folate biosynthesis	MOCS1	KEGG
+2515	Folate biosynthesis	MOCS2	KEGG
+2516	Folate biosynthesis	GPHN	KEGG
+2517	Folate biosynthesis	MOCOS	KEGG
+2518	One carbon pool by folate	DHFR	KEGG
+2519	One carbon pool by folate	DHFR2	KEGG
+2520	One carbon pool by folate	MTHFD1L	KEGG
+2521	One carbon pool by folate	MTHFD1	KEGG
+2522	One carbon pool by folate	MTHFD2	KEGG
+2523	One carbon pool by folate	MTHFD2L	KEGG
+2524	One carbon pool by folate	SHMT2	KEGG
+2525	One carbon pool by folate	SHMT1	KEGG
+2526	One carbon pool by folate	GART	KEGG
+2527	One carbon pool by folate	ATIC	KEGG
+2528	One carbon pool by folate	FTCD	KEGG
+2529	One carbon pool by folate	MTFMT	KEGG
+2530	One carbon pool by folate	AMT	KEGG
+2531	One carbon pool by folate	MTR	KEGG
+2532	One carbon pool by folate	TYMS	KEGG
+2533	One carbon pool by folate	ALDH1L1	KEGG
+2534	One carbon pool by folate	ALDH1L2	KEGG
+2535	One carbon pool by folate	MTHFR	KEGG
+2536	One carbon pool by folate	MTHFS	KEGG
+2537	One carbon pool by folate	ST20 MTHFS	KEGG
+2538	Retinol metabolism	BCO1	KEGG
+2539	Retinol metabolism	ADH1A	KEGG
+2540	Retinol metabolism	ADH1B	KEGG
+2541	Retinol metabolism	ADH1C	KEGG
+2542	Retinol metabolism	ADH7	KEGG
+2543	Retinol metabolism	ADH4	KEGG
+2544	Retinol metabolism	ADH5	KEGG
+2545	Retinol metabolism	ADH6	KEGG
+2546	Retinol metabolism	DHRS3	KEGG
+2547	Retinol metabolism	DHRS4	KEGG
+2548	Retinol metabolism	DHRS4L1	KEGG
+2549	Retinol metabolism	DHRS4L2	KEGG
+2550	Retinol metabolism	DHRS9	KEGG
+2551	Retinol metabolism	RDH8	KEGG
+2552	Retinol metabolism	RDH10	KEGG
+2553	Retinol metabolism	RDH11	KEGG
+2554	Retinol metabolism	RDH12	KEGG
+2555	Retinol metabolism	RDH16	KEGG
+2556	Retinol metabolism	SDR16C5	KEGG
+2557	Retinol metabolism	HSD17B6	KEGG
+2558	Retinol metabolism	LRAT	KEGG
+2559	Retinol metabolism	DGAT1	KEGG
+2560	Retinol metabolism	AWAT2	KEGG
+2561	Retinol metabolism	PNPLA4	KEGG
+2562	Retinol metabolism	RPE65	KEGG
+2563	Retinol metabolism	RDH5	KEGG
+2564	Retinol metabolism	AOX1	KEGG
+2565	Retinol metabolism	ALDH1A2	KEGG
+2566	Retinol metabolism	ALDH1A1	KEGG
+2567	Retinol metabolism	CYP26A1	KEGG
+2568	Retinol metabolism	CYP26B1	KEGG
+2569	Retinol metabolism	CYP26C1	KEGG
+2570	Retinol metabolism	CYP1A1	KEGG
+2571	Retinol metabolism	CYP1A2	KEGG
+2572	Retinol metabolism	CYP2A6	KEGG
+2573	Retinol metabolism	CYP2B6	KEGG
+2574	Retinol metabolism	CYP2C8	KEGG
+2575	Retinol metabolism	CYP2C9	KEGG
+2576	Retinol metabolism	CYP2C18	KEGG
+2577	Retinol metabolism	CYP2S1	KEGG
+2578	Retinol metabolism	CYP3A4	KEGG
+2579	Retinol metabolism	CYP3A5	KEGG
+2580	Retinol metabolism	CYP3A7	KEGG
+2581	Retinol metabolism	CYP3A7 CYP3A51P	KEGG
+2582	Retinol metabolism	CYP4A11	KEGG
+2583	Retinol metabolism	UGT2A1	KEGG
+2584	Retinol metabolism	UGT2A3	KEGG
+2585	Retinol metabolism	UGT2B17	KEGG
+2586	Retinol metabolism	UGT2B11	KEGG
+2587	Retinol metabolism	UGT2B28	KEGG
+2588	Retinol metabolism	UGT1A6	KEGG
+2589	Retinol metabolism	UGT1A4	KEGG
+2590	Retinol metabolism	UGT1A1	KEGG
+2591	Retinol metabolism	UGT1A3	KEGG
+2592	Retinol metabolism	UGT2B10	KEGG
+2593	Retinol metabolism	UGT1A9	KEGG
+2594	Retinol metabolism	UGT2B7	KEGG
+2595	Retinol metabolism	UGT1A10	KEGG
+2596	Retinol metabolism	UGT1A8	KEGG
+2597	Retinol metabolism	UGT1A5	KEGG
+2598	Retinol metabolism	UGT2B15	KEGG
+2599	Retinol metabolism	UGT1A7	KEGG
+2600	Retinol metabolism	UGT2B4	KEGG
+2601	Retinol metabolism	UGT2A2	KEGG
+2602	Retinol metabolism	RETSAT	KEGG
+2603	Retinol metabolism	CYP27C1	KEGG
+2604	Porphyrin and chlorophyll metabolism	ALAS1	KEGG
+2605	Porphyrin and chlorophyll metabolism	ALAS2	KEGG
+2606	Porphyrin and chlorophyll metabolism	EARS2	KEGG
+2607	Porphyrin and chlorophyll metabolism	EPRS	KEGG
+2608	Porphyrin and chlorophyll metabolism	ALAD	KEGG
+2609	Porphyrin and chlorophyll metabolism	HMBS	KEGG
+2610	Porphyrin and chlorophyll metabolism	UROS	KEGG
+2611	Porphyrin and chlorophyll metabolism	UROD	KEGG
+2612	Porphyrin and chlorophyll metabolism	CPOX	KEGG
+2613	Porphyrin and chlorophyll metabolism	PPOX	KEGG
+2614	Porphyrin and chlorophyll metabolism	FECH	KEGG
+2615	Porphyrin and chlorophyll metabolism	COX10	KEGG
+2616	Porphyrin and chlorophyll metabolism	COX15	KEGG
+2617	Porphyrin and chlorophyll metabolism	MMAB	KEGG
+2618	Porphyrin and chlorophyll metabolism	HMOX1	KEGG
+2619	Porphyrin and chlorophyll metabolism	HMOX2	KEGG
+2620	Porphyrin and chlorophyll metabolism	BLVRA	KEGG
+2621	Porphyrin and chlorophyll metabolism	BLVRB	KEGG
+2622	Porphyrin and chlorophyll metabolism	UGT2A1	KEGG
+2623	Porphyrin and chlorophyll metabolism	UGT2A3	KEGG
+2624	Porphyrin and chlorophyll metabolism	UGT2B17	KEGG
+2625	Porphyrin and chlorophyll metabolism	UGT2B11	KEGG
+2626	Porphyrin and chlorophyll metabolism	UGT2B28	KEGG
+2627	Porphyrin and chlorophyll metabolism	UGT1A6	KEGG
+2628	Porphyrin and chlorophyll metabolism	UGT1A4	KEGG
+2629	Porphyrin and chlorophyll metabolism	UGT1A1	KEGG
+2630	Porphyrin and chlorophyll metabolism	UGT1A3	KEGG
+2631	Porphyrin and chlorophyll metabolism	UGT2B10	KEGG
+2632	Porphyrin and chlorophyll metabolism	UGT1A9	KEGG
+2633	Porphyrin and chlorophyll metabolism	UGT2B7	KEGG
+2634	Porphyrin and chlorophyll metabolism	UGT1A10	KEGG
+2635	Porphyrin and chlorophyll metabolism	UGT1A8	KEGG
+2636	Porphyrin and chlorophyll metabolism	UGT1A5	KEGG
+2637	Porphyrin and chlorophyll metabolism	UGT2B15	KEGG
+2638	Porphyrin and chlorophyll metabolism	UGT1A7	KEGG
+2639	Porphyrin and chlorophyll metabolism	UGT2B4	KEGG
+2640	Porphyrin and chlorophyll metabolism	UGT2A2	KEGG
+2641	Porphyrin and chlorophyll metabolism	GUSB	KEGG
+2642	Porphyrin and chlorophyll metabolism	HCCS	KEGG
+2643	Porphyrin and chlorophyll metabolism	CP	KEGG
+2644	Porphyrin and chlorophyll metabolism	HEPH	KEGG
+2645	Porphyrin and chlorophyll metabolism	FXN	KEGG
+2646	Ubiquinone and other terpenoid quinone biosynthesis	TAT	KEGG
+2647	Ubiquinone and other terpenoid quinone biosynthesis	COQ2	KEGG
+2648	Ubiquinone and other terpenoid quinone biosynthesis	COQ3	KEGG
+2649	Ubiquinone and other terpenoid quinone biosynthesis	COQ6	KEGG
+2650	Ubiquinone and other terpenoid quinone biosynthesis	COQ5	KEGG
+2651	Ubiquinone and other terpenoid quinone biosynthesis	COQ7	KEGG
+2652	Ubiquinone and other terpenoid quinone biosynthesis	NQO1	KEGG
+2653	Ubiquinone and other terpenoid quinone biosynthesis	GGCX	KEGG
+2654	Ubiquinone and other terpenoid quinone biosynthesis	VKORC1	KEGG
+2655	Ubiquinone and other terpenoid quinone biosynthesis	VKORC1L1	KEGG
+2656	Ubiquinone and other terpenoid quinone biosynthesis	HPD	KEGG
+2657	Terpenoid backbone biosynthesis	ACAT2	KEGG
+2658	Terpenoid backbone biosynthesis	ACAT1	KEGG
+2659	Terpenoid backbone biosynthesis	HMGCS1	KEGG
+2660	Terpenoid backbone biosynthesis	HMGCS2	KEGG
+2661	Terpenoid backbone biosynthesis	HMGCR	KEGG
+2662	Terpenoid backbone biosynthesis	MVK	KEGG
+2663	Terpenoid backbone biosynthesis	PMVK	KEGG
+2664	Terpenoid backbone biosynthesis	MVD	KEGG
+2665	Terpenoid backbone biosynthesis	IDI1	KEGG
+2666	Terpenoid backbone biosynthesis	IDI2	KEGG
+2667	Terpenoid backbone biosynthesis	FDPS	KEGG
+2668	Terpenoid backbone biosynthesis	GGPS1	KEGG
+2669	Terpenoid backbone biosynthesis	PDSS1	KEGG
+2670	Terpenoid backbone biosynthesis	PDSS2	KEGG
+2671	Terpenoid backbone biosynthesis	DHDDS	KEGG
+2672	Terpenoid backbone biosynthesis	NUS1	KEGG
+2673	Terpenoid backbone biosynthesis	FNTA	KEGG
+2674	Terpenoid backbone biosynthesis	FNTB	KEGG
+2675	Terpenoid backbone biosynthesis	RCE1	KEGG
+2676	Terpenoid backbone biosynthesis	ZMPSTE24	KEGG
+2677	Terpenoid backbone biosynthesis	ICMT	KEGG
+2678	Terpenoid backbone biosynthesis	PCYOX1	KEGG
+2679	Caffeine metabolism	CYP1A2	KEGG
+2680	Caffeine metabolism	NAT2	KEGG
+2681	Caffeine metabolism	NAT1	KEGG
+2682	Caffeine metabolism	CYP2A6	KEGG
+2683	Caffeine metabolism	XDH	KEGG
+2684	Neomycin kanamycin and gentamicin biosynthesis	HK3	KEGG
+2685	Neomycin kanamycin and gentamicin biosynthesis	HK1	KEGG
+2686	Neomycin kanamycin and gentamicin biosynthesis	HK2	KEGG
+2687	Neomycin kanamycin and gentamicin biosynthesis	HKDC1	KEGG
+2688	Neomycin kanamycin and gentamicin biosynthesis	GCK	KEGG
+2689	Metabolism of xenobiotics by cytochrome P450	CYP1A1	KEGG
+2690	Metabolism of xenobiotics by cytochrome P450	CYP2C9	KEGG
+2691	Metabolism of xenobiotics by cytochrome P450	CYP3A4	KEGG
+2692	Metabolism of xenobiotics by cytochrome P450	CYP1B1	KEGG
+2693	Metabolism of xenobiotics by cytochrome P450	GSTA5	KEGG
+2694	Metabolism of xenobiotics by cytochrome P450	GSTA2	KEGG
+2695	Metabolism of xenobiotics by cytochrome P450	GSTA4	KEGG
+2696	Metabolism of xenobiotics by cytochrome P450	GSTO2	KEGG
+2697	Metabolism of xenobiotics by cytochrome P450	GSTM4	KEGG
+2698	Metabolism of xenobiotics by cytochrome P450	GSTT2	KEGG
+2699	Metabolism of xenobiotics by cytochrome P450	GSTT1	KEGG
+2700	Metabolism of xenobiotics by cytochrome P450	GSTM3	KEGG
+2701	Metabolism of xenobiotics by cytochrome P450	MGST1	KEGG
+2702	Metabolism of xenobiotics by cytochrome P450	MGST3	KEGG
+2703	Metabolism of xenobiotics by cytochrome P450	GSTP1	KEGG
+2704	Metabolism of xenobiotics by cytochrome P450	GSTM1	KEGG
+2705	Metabolism of xenobiotics by cytochrome P450	GSTM5	KEGG
+2706	Metabolism of xenobiotics by cytochrome P450	MGST2	KEGG
+2707	Metabolism of xenobiotics by cytochrome P450	GSTA1	KEGG
+2708	Metabolism of xenobiotics by cytochrome P450	GSTM2	KEGG
+2709	Metabolism of xenobiotics by cytochrome P450	GSTA3	KEGG
+2710	Metabolism of xenobiotics by cytochrome P450	GSTO1	KEGG
+2711	Metabolism of xenobiotics by cytochrome P450	GSTT2B	KEGG
+2712	Metabolism of xenobiotics by cytochrome P450	GSTK1	KEGG
+2713	Metabolism of xenobiotics by cytochrome P450	HPGDS	KEGG
+2714	Metabolism of xenobiotics by cytochrome P450	EPHX1	KEGG
+2715	Metabolism of xenobiotics by cytochrome P450	CYP2B6	KEGG
+2716	Metabolism of xenobiotics by cytochrome P450	SULT2A1	KEGG
+2717	Metabolism of xenobiotics by cytochrome P450	CYP1A2	KEGG
+2718	Metabolism of xenobiotics by cytochrome P450	CYP2A6	KEGG
+2719	Metabolism of xenobiotics by cytochrome P450	CYP2E1	KEGG
+2720	Metabolism of xenobiotics by cytochrome P450	CYP2F1	KEGG
+2721	Metabolism of xenobiotics by cytochrome P450	CYP2S1	KEGG
+2722	Metabolism of xenobiotics by cytochrome P450	AKR1C1	KEGG
+2723	Metabolism of xenobiotics by cytochrome P450	DHDH	KEGG
+2724	Metabolism of xenobiotics by cytochrome P450	CYP2A13	KEGG
+2725	Metabolism of xenobiotics by cytochrome P450	cytochrome P450 2D6 like [KO:K17712] [EC:1.14.14.1]	KEGG
+2726	Metabolism of xenobiotics by cytochrome P450	CYP2D7	KEGG
+2727	Metabolism of xenobiotics by cytochrome P450	CYP2D6	KEGG
+2728	Metabolism of xenobiotics by cytochrome P450	HSD11B1	KEGG
+2729	Metabolism of xenobiotics by cytochrome P450	CBR1	KEGG
+2730	Metabolism of xenobiotics by cytochrome P450	CBR3	KEGG
+2731	Metabolism of xenobiotics by cytochrome P450	UGT2A1	KEGG
+2732	Metabolism of xenobiotics by cytochrome P450	UGT2A3	KEGG
+2733	Metabolism of xenobiotics by cytochrome P450	UGT2B17	KEGG
+2734	Metabolism of xenobiotics by cytochrome P450	UGT2B11	KEGG
+2735	Metabolism of xenobiotics by cytochrome P450	UGT2B28	KEGG
+2736	Metabolism of xenobiotics by cytochrome P450	UGT1A6	KEGG
+2737	Metabolism of xenobiotics by cytochrome P450	UGT1A4	KEGG
+2738	Metabolism of xenobiotics by cytochrome P450	UGT1A1	KEGG
+2739	Metabolism of xenobiotics by cytochrome P450	UGT1A3	KEGG
+2740	Metabolism of xenobiotics by cytochrome P450	UGT2B10	KEGG
+2741	Metabolism of xenobiotics by cytochrome P450	UGT1A9	KEGG
+2742	Metabolism of xenobiotics by cytochrome P450	UGT2B7	KEGG
+2743	Metabolism of xenobiotics by cytochrome P450	UGT1A10	KEGG
+2744	Metabolism of xenobiotics by cytochrome P450	UGT1A8	KEGG
+2745	Metabolism of xenobiotics by cytochrome P450	UGT1A5	KEGG
+2746	Metabolism of xenobiotics by cytochrome P450	UGT2B15	KEGG
+2747	Metabolism of xenobiotics by cytochrome P450	UGT1A7	KEGG
+2748	Metabolism of xenobiotics by cytochrome P450	UGT2B4	KEGG
+2749	Metabolism of xenobiotics by cytochrome P450	UGT2A2	KEGG
+2750	Metabolism of xenobiotics by cytochrome P450	CYP3A5	KEGG
+2751	Metabolism of xenobiotics by cytochrome P450	AKR7A2	KEGG
+2752	Metabolism of xenobiotics by cytochrome P450	AKR7A3	KEGG
+2753	Metabolism of xenobiotics by cytochrome P450	ALDH3B1	KEGG
+2754	Metabolism of xenobiotics by cytochrome P450	ALDH3B2	KEGG
+2755	Metabolism of xenobiotics by cytochrome P450	ALDH1A3	KEGG
+2756	Metabolism of xenobiotics by cytochrome P450	ALDH3A1	KEGG
+2757	Metabolism of xenobiotics by cytochrome P450	ADH1A	KEGG
+2758	Metabolism of xenobiotics by cytochrome P450	ADH1B	KEGG
+2759	Metabolism of xenobiotics by cytochrome P450	ADH1C	KEGG
+2760	Metabolism of xenobiotics by cytochrome P450	ADH7	KEGG
+2761	Metabolism of xenobiotics by cytochrome P450	ADH4	KEGG
+2762	Metabolism of xenobiotics by cytochrome P450	ADH5	KEGG
+2763	Metabolism of xenobiotics by cytochrome P450	ADH6	KEGG
+2764	Drug metabolism cytochrome P450	CYP2D6	KEGG
+2765	Drug metabolism cytochrome P450	cytochrome P450 2D6 like [KO:K17712] [EC:1.14.14.1]	KEGG
+2766	Drug metabolism cytochrome P450	CYP2D7	KEGG
+2767	Drug metabolism cytochrome P450	CYP2C9	KEGG
+2768	Drug metabolism cytochrome P450	CYP3A4	KEGG
+2769	Drug metabolism cytochrome P450	FMO1	KEGG
+2770	Drug metabolism cytochrome P450	FMO2	KEGG
+2771	Drug metabolism cytochrome P450	FMO5	KEGG
+2772	Drug metabolism cytochrome P450	FMO3	KEGG
+2773	Drug metabolism cytochrome P450	FMO4	KEGG
+2774	Drug metabolism cytochrome P450	CYP2C19	KEGG
+2775	Drug metabolism cytochrome P450	CYP2B6	KEGG
+2776	Drug metabolism cytochrome P450	CYP3A5	KEGG
+2777	Drug metabolism cytochrome P450	GSTA5	KEGG
+2778	Drug metabolism cytochrome P450	GSTA2	KEGG
+2779	Drug metabolism cytochrome P450	GSTA4	KEGG
+2780	Drug metabolism cytochrome P450	GSTO2	KEGG
+2781	Drug metabolism cytochrome P450	GSTM4	KEGG
+2782	Drug metabolism cytochrome P450	GSTT2	KEGG
+2783	Drug metabolism cytochrome P450	GSTT1	KEGG
+2784	Drug metabolism cytochrome P450	GSTM3	KEGG
+2785	Drug metabolism cytochrome P450	MGST1	KEGG
+2786	Drug metabolism cytochrome P450	MGST3	KEGG
+2787	Drug metabolism cytochrome P450	GSTP1	KEGG
+2788	Drug metabolism cytochrome P450	GSTM1	KEGG
+2789	Drug metabolism cytochrome P450	GSTM5	KEGG
+2790	Drug metabolism cytochrome P450	MGST2	KEGG
+2791	Drug metabolism cytochrome P450	GSTA1	KEGG
+2792	Drug metabolism cytochrome P450	GSTM2	KEGG
+2793	Drug metabolism cytochrome P450	GSTA3	KEGG
+2794	Drug metabolism cytochrome P450	GSTO1	KEGG
+2795	Drug metabolism cytochrome P450	GSTT2B	KEGG
+2796	Drug metabolism cytochrome P450	GSTK1	KEGG
+2797	Drug metabolism cytochrome P450	HPGDS	KEGG
+2798	Drug metabolism cytochrome P450	ADH1A	KEGG
+2799	Drug metabolism cytochrome P450	ADH1B	KEGG
+2800	Drug metabolism cytochrome P450	ADH1C	KEGG
+2801	Drug metabolism cytochrome P450	ADH7	KEGG
+2802	Drug metabolism cytochrome P450	ADH4	KEGG
+2803	Drug metabolism cytochrome P450	ADH5	KEGG
+2804	Drug metabolism cytochrome P450	ADH6	KEGG
+2805	Drug metabolism cytochrome P450	ALDH3B1	KEGG
+2806	Drug metabolism cytochrome P450	ALDH3B2	KEGG
+2807	Drug metabolism cytochrome P450	ALDH1A3	KEGG
+2808	Drug metabolism cytochrome P450	ALDH3A1	KEGG
+2809	Drug metabolism cytochrome P450	MAOB	KEGG
+2810	Drug metabolism cytochrome P450	MAOA	KEGG
+2811	Drug metabolism cytochrome P450	AOX1	KEGG
+2812	Drug metabolism cytochrome P450	UGT2A1	KEGG
+2813	Drug metabolism cytochrome P450	UGT2A3	KEGG
+2814	Drug metabolism cytochrome P450	UGT2B17	KEGG
+2815	Drug metabolism cytochrome P450	UGT2B11	KEGG
+2816	Drug metabolism cytochrome P450	UGT2B28	KEGG
+2817	Drug metabolism cytochrome P450	UGT1A6	KEGG
+2818	Drug metabolism cytochrome P450	UGT1A4	KEGG
+2819	Drug metabolism cytochrome P450	UGT1A1	KEGG
+2820	Drug metabolism cytochrome P450	UGT1A3	KEGG
+2821	Drug metabolism cytochrome P450	UGT2B10	KEGG
+2822	Drug metabolism cytochrome P450	UGT1A9	KEGG
+2823	Drug metabolism cytochrome P450	UGT2B7	KEGG
+2824	Drug metabolism cytochrome P450	UGT1A10	KEGG
+2825	Drug metabolism cytochrome P450	UGT1A8	KEGG
+2826	Drug metabolism cytochrome P450	UGT1A5	KEGG
+2827	Drug metabolism cytochrome P450	UGT2B15	KEGG
+2828	Drug metabolism cytochrome P450	UGT1A7	KEGG
+2829	Drug metabolism cytochrome P450	UGT2B4	KEGG
+2830	Drug metabolism cytochrome P450	UGT2A2	KEGG
+2831	Drug metabolism cytochrome P450	CYP1A2	KEGG
+2832	Drug metabolism cytochrome P450	CYP2E1	KEGG
+2833	Drug metabolism cytochrome P450	CYP2C8	KEGG
+2834	Drug metabolism cytochrome P450	CYP2A6	KEGG
+2835	Drug metabolism other enzymes	HPRT1	KEGG
+2836	Drug metabolism other enzymes	IMPDH1	KEGG
+2837	Drug metabolism other enzymes	IMPDH2	KEGG
+2838	Drug metabolism other enzymes	GMPS	KEGG
+2839	Drug metabolism other enzymes	TPMT	KEGG
+2840	Drug metabolism other enzymes	XDH	KEGG
+2841	Drug metabolism other enzymes	ITPA	KEGG
+2842	Drug metabolism other enzymes	CES1	KEGG
+2843	Drug metabolism other enzymes	CES2	KEGG
+2844	Drug metabolism other enzymes	UGT2A1	KEGG
+2845	Drug metabolism other enzymes	UGT2A3	KEGG
+2846	Drug metabolism other enzymes	UGT2B17	KEGG
+2847	Drug metabolism other enzymes	UGT2B11	KEGG
+2848	Drug metabolism other enzymes	UGT2B28	KEGG
+2849	Drug metabolism other enzymes	UGT1A6	KEGG
+2850	Drug metabolism other enzymes	UGT1A4	KEGG
+2851	Drug metabolism other enzymes	UGT1A1	KEGG
+2852	Drug metabolism other enzymes	UGT1A3	KEGG
+2853	Drug metabolism other enzymes	UGT2B10	KEGG
+2854	Drug metabolism other enzymes	UGT1A9	KEGG
+2855	Drug metabolism other enzymes	UGT2B7	KEGG
+2856	Drug metabolism other enzymes	UGT1A10	KEGG
+2857	Drug metabolism other enzymes	UGT1A8	KEGG
+2858	Drug metabolism other enzymes	UGT1A5	KEGG
+2859	Drug metabolism other enzymes	UGT2B15	KEGG
+2860	Drug metabolism other enzymes	UGT1A7	KEGG
+2861	Drug metabolism other enzymes	UGT2B4	KEGG
+2862	Drug metabolism other enzymes	UGT2A2	KEGG
+2863	Drug metabolism other enzymes	GUSB	KEGG
+2864	Drug metabolism other enzymes	CYP3A4	KEGG
+2865	Drug metabolism other enzymes	CDA	KEGG
+2866	Drug metabolism other enzymes	TYMP	KEGG
+2867	Drug metabolism other enzymes	DPYD	KEGG
+2868	Drug metabolism other enzymes	DPYS	KEGG
+2869	Drug metabolism other enzymes	UPB1	KEGG
+2870	Drug metabolism other enzymes	CYP2A6	KEGG
+2871	Drug metabolism other enzymes	UPP2	KEGG
+2872	Drug metabolism other enzymes	UPP1	KEGG
+2873	Drug metabolism other enzymes	UCK1	KEGG
+2874	Drug metabolism other enzymes	UCK2	KEGG
+2875	Drug metabolism other enzymes	UCKL1	KEGG
+2876	Drug metabolism other enzymes	TK2	KEGG
+2877	Drug metabolism other enzymes	TK1	KEGG
+2878	Drug metabolism other enzymes	UMPS	KEGG
+2879	Drug metabolism other enzymes	CMPK1	KEGG
+2880	Drug metabolism other enzymes	RRM1	KEGG
+2881	Drug metabolism other enzymes	RRM2B	KEGG
+2882	Drug metabolism other enzymes	RRM2	KEGG
+2883	Drug metabolism other enzymes	NME6	KEGG
+2884	Drug metabolism other enzymes	NME7	KEGG
+2885	Drug metabolism other enzymes	NME2	KEGG
+2886	Drug metabolism other enzymes	NME4	KEGG
+2887	Drug metabolism other enzymes	NME1	KEGG
+2888	Drug metabolism other enzymes	NME3	KEGG
+2889	Drug metabolism other enzymes	NME1 NME2	KEGG
+2890	Drug metabolism other enzymes	DUT	KEGG
+2891	Drug metabolism other enzymes	MPO	KEGG
+2892	Drug metabolism other enzymes	NAT2	KEGG
+2893	Drug metabolism other enzymes	NAT1	KEGG
+2894	Drug metabolism other enzymes	CYP2E1	KEGG
+2895	Drug metabolism other enzymes	GSTA5	KEGG
+2896	Drug metabolism other enzymes	GSTA2	KEGG
+2897	Drug metabolism other enzymes	GSTA4	KEGG
+2898	Drug metabolism other enzymes	GSTO2	KEGG
+2899	Drug metabolism other enzymes	GSTM4	KEGG
+2900	Drug metabolism other enzymes	GSTT2	KEGG
+2901	Drug metabolism other enzymes	GSTT1	KEGG
+2902	Drug metabolism other enzymes	GSTM3	KEGG
+2903	Drug metabolism other enzymes	MGST1	KEGG
+2904	Drug metabolism other enzymes	MGST3	KEGG
+2905	Drug metabolism other enzymes	GSTP1	KEGG
+2906	Drug metabolism other enzymes	GSTM1	KEGG
+2907	Drug metabolism other enzymes	GSTM5	KEGG
+2908	Drug metabolism other enzymes	MGST2	KEGG
+2909	Drug metabolism other enzymes	GSTA1	KEGG
+2910	Drug metabolism other enzymes	GSTM2	KEGG
+2911	Drug metabolism other enzymes	GSTA3	KEGG
+2912	Drug metabolism other enzymes	GSTO1	KEGG
+2913	Drug metabolism other enzymes	GSTT2B	KEGG

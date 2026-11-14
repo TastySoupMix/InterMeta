@@ -1,0 +1,73 @@
+InterMeta provenance and third-party notice
+===========================================
+
+Package maintainer
+------------------
+
+InterMeta is maintained by Zeheng Tan <tzh19970915@163.com>.
+
+Relationship to TimiGP
+----------------------
+
+InterMeta extends the directional gene-pair prognosis framework implemented by
+TimiGP to metabolic pathway analysis. The supplied local upstream snapshot is
+labelled TimiGP 1.3.0 and identifies Chenyang Skylar Li as its author. A
+94-file full-tree SHA-256 comparison matches the snapshot exactly to the
+official TimiGP tag v1.3.0 at commit
+9a527dd7dfe18c3155647d57c4392dad977ff13f.
+
+Upstream project: https://github.com/CSkylarL/TimiGP
+Related article: https://doi.org/10.1016/j.xcrm.2023.101121
+
+The supplied TimiGP snapshot contains the GNU General Public License version 3
+text. InterMeta therefore retains the package-level GPL-3 license and includes
+the license text in COPYING. This notice records provenance and does not add
+any restriction to the GPL. In particular, an upstream README phrase about
+intended research use is not imposed as an additional InterMeta license term.
+InterMeta distributes its adapted code under GPL version 3 and retains the
+upstream license text, attribution, and modification notices. No separate
+permission requirement is added by this notice. The upstream project remains
+the source of its own copyright and licensing statements.
+
+Code mapping
+------------
+
+* R/Chord.R was adapted from the TimiGP chord-diagram implementation.
+* R/Cox.R was adapted from the TimiGP Cox implementation.
+* Portions of R/InterMeta.R were adapted from TimiGP preprocessing, pairwise,
+  enrichment, permutation, network, dot-plot, and favorability code.
+
+InterMeta modifications through 2026-11-03 include metabolic pathway gene-set
+support, stricter input and result validation, a single TimiGP-legacy
+analysis mode (since 1.1.4), compact result retention, internal resampling/stability
+analysis, and an optional reproducible AI-assisted literature synthesis layer.
+
+The upstream author is listed as a contributor in DESCRIPTION to distinguish
+source-code attribution from authorship of the InterMeta manuscript. Final
+paper authorship, institutional affiliations, and copyright ownership will be
+recorded separately when confirmed.
+
+Data
+----
+
+The bundled TCGA-PRAD prognosis and normalized bulk transcriptomic source
+tables were downloaded from PCaDB
+(http://bioinfo.jialab-ucr.org/PCaDB/; source repository
+https://github.com/rli012/PCaDB; DOI 10.1101/2021.06.29.449134). InterMeta
+retains the aligned 463-sample prognosis cohort and 1,260-gene metabolic
+expression subset used by its public examples. The exact source-input
+fingerprints and analysis lineage are stored in InterMetaPRADProvenance.
+For InterMeta 1.1.3, the bundled permutation-FDR column was republished from a
+fresh no-checkpoint workflow that refitted the Cox models and reran 100
+TimiGP-legacy annotation permutations. The historical enrichment file was
+used only to verify numerical agreement. The provenance object records the
+accepted run identifier and SHA-256 values for its supporting pre-publication
+candidate archive, workflow script, complete output manifest, and original
+input files. The run did not independently record an archive/core-code hash,
+so the archive is not represented as a cryptographic identity of the executing
+installation.
+
+Database-derived data can have terms different from the package's code
+license. See extdata/metabolic-genesets/PROVENANCE.md and the package dataset
+documentation. The GPL-3 label must not be read as an assertion that every
+third-party database extract is itself licensed under GPL-3.

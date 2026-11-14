@@ -1,0 +1,46 @@
+# Local R and editor state
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+.DS_Store
+Thumbs.db
+notebook/
+
+# Local credentials and environment files
+.Renviron
+.Renviron.*
+.env
+.env.*
+!.env.example
+credentials.json
+credentials.yml
+credentials.yaml
+secrets.json
+secrets.yml
+secrets.yaml
+*.pem
+*.key
+
+# Local analysis inputs, outputs, caches, and private staging folders
+# Package data/ and inst/extdata/ remain tracked.
+/inputs/
+/input/
+/private*/
+/result/
+/results/
+/output/
+/outputs/
+/validation/
+/server-uploads/
+/server-rstudio-run/
+/pubmed_cache/
+/InterMeta_AI*/
+/InterMeta_PRAD*/
+
+# Build products and transfer archives
+*.Rcheck/
+*.tar.gz
+*.zip
+*.log

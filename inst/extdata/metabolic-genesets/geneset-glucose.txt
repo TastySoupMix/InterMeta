@@ -1,0 +1,540 @@
+	CellType	Gene	Dataset
+1	GlycolysisGluconeogenesis	HK3	glucose
+2	GlycolysisGluconeogenesis	HK1	glucose
+3	GlycolysisGluconeogenesis	HK2	glucose
+4	GlycolysisGluconeogenesis	HKDC1	glucose
+5	GlycolysisGluconeogenesis	GCK	glucose
+6	GlycolysisGluconeogenesis	GPI	glucose
+7	GlycolysisGluconeogenesis	PFKM	glucose
+8	GlycolysisGluconeogenesis	PFKP	glucose
+9	GlycolysisGluconeogenesis	PFKL	glucose
+10	GlycolysisGluconeogenesis	FBP1	glucose
+11	GlycolysisGluconeogenesis	FBP2	glucose
+12	GlycolysisGluconeogenesis	ALDOC	glucose
+13	GlycolysisGluconeogenesis	ALDOA	glucose
+14	GlycolysisGluconeogenesis	ALDOB	glucose
+15	GlycolysisGluconeogenesis	TPI1	glucose
+16	GlycolysisGluconeogenesis	GAPDH	glucose
+17	GlycolysisGluconeogenesis	GAPDHS	glucose
+18	GlycolysisGluconeogenesis	PGK2	glucose
+19	GlycolysisGluconeogenesis	PGK1	glucose
+20	GlycolysisGluconeogenesis	PGAM1	glucose
+21	GlycolysisGluconeogenesis	PGAM2	glucose
+22	GlycolysisGluconeogenesis	PGAM4	glucose
+23	GlycolysisGluconeogenesis	ENO3	glucose
+24	GlycolysisGluconeogenesis	ENO2	glucose
+25	GlycolysisGluconeogenesis	ENO1	glucose
+26	GlycolysisGluconeogenesis	ENO4	glucose
+27	GlycolysisGluconeogenesis	PKM	glucose
+28	GlycolysisGluconeogenesis	PKLR	glucose
+29	GlycolysisGluconeogenesis	PDHA2	glucose
+30	GlycolysisGluconeogenesis	PDHA1	glucose
+31	GlycolysisGluconeogenesis	PDHB	glucose
+32	GlycolysisGluconeogenesis	DLAT	glucose
+33	GlycolysisGluconeogenesis	DLD	glucose
+34	GlycolysisGluconeogenesis	LDHAL6A	glucose
+35	GlycolysisGluconeogenesis	LDHAL6B	glucose
+36	GlycolysisGluconeogenesis	LDHA	glucose
+37	GlycolysisGluconeogenesis	LDHB	glucose
+38	GlycolysisGluconeogenesis	LDHC	glucose
+39	GlycolysisGluconeogenesis	ADH1A	glucose
+40	GlycolysisGluconeogenesis	ADH1B	glucose
+41	GlycolysisGluconeogenesis	ADH1C	glucose
+42	GlycolysisGluconeogenesis	ADH7	glucose
+43	GlycolysisGluconeogenesis	ADH4	glucose
+44	GlycolysisGluconeogenesis	ADH5	glucose
+45	GlycolysisGluconeogenesis	ADH6	glucose
+46	GlycolysisGluconeogenesis	AKR1A1	glucose
+47	GlycolysisGluconeogenesis	ALDH2	glucose
+48	GlycolysisGluconeogenesis	ALDH3A2	glucose
+49	GlycolysisGluconeogenesis	ALDH1B1	glucose
+50	GlycolysisGluconeogenesis	ALDH7A1	glucose
+51	GlycolysisGluconeogenesis	ALDH9A1	glucose
+52	GlycolysisGluconeogenesis	ALDH3B1	glucose
+53	GlycolysisGluconeogenesis	ALDH3B2	glucose
+54	GlycolysisGluconeogenesis	ALDH1A3	glucose
+55	GlycolysisGluconeogenesis	ALDH3A1	glucose
+56	GlycolysisGluconeogenesis	ACSS1	glucose
+57	GlycolysisGluconeogenesis	ACSS2	glucose
+58	GlycolysisGluconeogenesis	GALM	glucose
+59	GlycolysisGluconeogenesis	PGM1	glucose
+60	GlycolysisGluconeogenesis	PGM2	glucose
+61	GlycolysisGluconeogenesis	G6PC	glucose
+62	GlycolysisGluconeogenesis	G6PC2	glucose
+63	GlycolysisGluconeogenesis	G6PC3	glucose
+64	GlycolysisGluconeogenesis	ADPGK	glucose
+65	GlycolysisGluconeogenesis	BPGM	glucose
+66	GlycolysisGluconeogenesis	MINPP1	glucose
+67	GlycolysisGluconeogenesis	PCK1	glucose
+68	GlycolysisGluconeogenesis	PCK2	glucose
+69	Pentose phosphate pathway	GPI	glucose
+70	Pentose phosphate pathway	G6PD	glucose
+71	Pentose phosphate pathway	PGLS	glucose
+72	Pentose phosphate pathway	H6PD	glucose
+73	Pentose phosphate pathway	PGD	glucose
+74	Pentose phosphate pathway	RPE	glucose
+75	Pentose phosphate pathway	RPEL1	glucose
+76	Pentose phosphate pathway	TKT	glucose
+77	Pentose phosphate pathway	TKTL2	glucose
+78	Pentose phosphate pathway	TKTL1	glucose
+79	Pentose phosphate pathway	TALDO1	glucose
+80	Pentose phosphate pathway	RPIA	glucose
+81	Pentose phosphate pathway	DERA	glucose
+82	Pentose phosphate pathway	RBKS	glucose
+83	Pentose phosphate pathway	PGM1	glucose
+84	Pentose phosphate pathway	PGM2	glucose
+85	Pentose phosphate pathway	PRPS1L1	glucose
+86	Pentose phosphate pathway	PRPS2	glucose
+87	Pentose phosphate pathway	PRPS1	glucose
+88	Pentose phosphate pathway	RGN	glucose
+89	Pentose phosphate pathway	IDNK	glucose
+90	Pentose phosphate pathway	GLYCTK	glucose
+91	Pentose phosphate pathway	ALDOC	glucose
+92	Pentose phosphate pathway	ALDOA	glucose
+93	Pentose phosphate pathway	ALDOB	glucose
+94	Pentose phosphate pathway	FBP1	glucose
+95	Pentose phosphate pathway	FBP2	glucose
+96	Pentose phosphate pathway	PFKM	glucose
+97	Pentose phosphate pathway	PFKP	glucose
+98	Pentose phosphate pathway	PFKL	glucose
+99	Pentose and glucuronate interconversions	GUSB	glucose
+100	Pentose and glucuronate interconversions	KL	glucose
+101	Pentose and glucuronate interconversions	UGT2A1	glucose
+102	Pentose and glucuronate interconversions	UGT2A3	glucose
+103	Pentose and glucuronate interconversions	UGT2B17	glucose
+104	Pentose and glucuronate interconversions	UGT2B11	glucose
+105	Pentose and glucuronate interconversions	UGT2B28	glucose
+106	Pentose and glucuronate interconversions	UGT1A6	glucose
+107	Pentose and glucuronate interconversions	UGT1A4	glucose
+108	Pentose and glucuronate interconversions	UGT1A1	glucose
+109	Pentose and glucuronate interconversions	UGT1A3	glucose
+110	Pentose and glucuronate interconversions	UGT2B10	glucose
+111	Pentose and glucuronate interconversions	UGT1A9	glucose
+112	Pentose and glucuronate interconversions	UGT2B7	glucose
+113	Pentose and glucuronate interconversions	UGT1A10	glucose
+114	Pentose and glucuronate interconversions	UGT1A8	glucose
+115	Pentose and glucuronate interconversions	UGT1A5	glucose
+116	Pentose and glucuronate interconversions	UGT2B15	glucose
+117	Pentose and glucuronate interconversions	UGT1A7	glucose
+118	Pentose and glucuronate interconversions	UGT2B4	glucose
+119	Pentose and glucuronate interconversions	UGT2A2	glucose
+120	Pentose and glucuronate interconversions	UGDH	glucose
+121	Pentose and glucuronate interconversions	UGP2	glucose
+122	Pentose and glucuronate interconversions	AKR1A1	glucose
+123	Pentose and glucuronate interconversions	CRYL1	glucose
+124	Pentose and glucuronate interconversions	RPE	glucose
+125	Pentose and glucuronate interconversions	RPEL1	glucose
+126	Pentose and glucuronate interconversions	XYLB	glucose
+127	Pentose and glucuronate interconversions	AKR1B1	glucose
+128	Pentose and glucuronate interconversions	AKR1B10	glucose
+129	Pentose and glucuronate interconversions	DCXR	glucose
+130	Pentose and glucuronate interconversions	SORD	glucose
+131	Pentose and glucuronate interconversions	DHDH	glucose
+132	Pentose and glucuronate interconversions	ISPD	glucose
+133	Fructose and mannose	MPI	glucose
+134	Fructose and mannose	PMM2	glucose
+135	Fructose and mannose	PMM1	glucose
+136	Fructose and mannose	GMPPB	glucose
+137	Fructose and mannose	GMPPA	glucose
+138	Fructose and mannose	GMDS	glucose
+139	Fructose and mannose	TSTA3	glucose
+140	Fructose and mannose	FPGT	glucose
+141	Fructose and mannose	FUK	glucose
+142	Fructose and mannose	ENOSF1	glucose
+143	Fructose and mannose	HK3	glucose
+144	Fructose and mannose	HK1	glucose
+145	Fructose and mannose	HK2	glucose
+146	Fructose and mannose	HKDC1	glucose
+147	Fructose and mannose	PFKM	glucose
+148	Fructose and mannose	PFKP	glucose
+149	Fructose and mannose	PFKL	glucose
+150	Fructose and mannose	FBP1	glucose
+151	Fructose and mannose	FBP2	glucose
+152	Fructose and mannose	PFKFB1	glucose
+153	Fructose and mannose	PFKFB2	glucose
+154	Fructose and mannose	PFKFB3	glucose
+155	Fructose and mannose	PFKFB4	glucose
+156	Fructose and mannose	TIGAR	glucose
+157	Fructose and mannose	KHK	glucose
+158	Fructose and mannose	SORD	glucose
+159	Fructose and mannose	AKR1B1	glucose
+160	Fructose and mannose	AKR1B10	glucose
+161	Fructose and mannose	ALDOC	glucose
+162	Fructose and mannose	ALDOA	glucose
+163	Fructose and mannose	ALDOB	glucose
+164	Fructose and mannose	TPI1	glucose
+165	Fructose and mannose	TKFC	glucose
+166	Galactose	GALM	glucose
+167	Galactose	GALK1	glucose
+168	Galactose	GALT	glucose
+169	Galactose	GALE	glucose
+170	Galactose	UGP2	glucose
+171	Galactose	PGM1	glucose
+172	Galactose	PGM2	glucose
+173	Galactose	HK3	glucose
+174	Galactose	HK1	glucose
+175	Galactose	HK2	glucose
+176	Galactose	HKDC1	glucose
+177	Galactose	GCK	glucose
+178	Galactose	G6PC	glucose
+179	Galactose	G6PC2	glucose
+180	Galactose	G6PC3	glucose
+181	Galactose	GLB1	glucose
+182	Galactose	LCT	glucose
+183	Galactose	LALBA	glucose
+184	Galactose	B4GALT1	glucose
+185	Galactose	B4GALT2	glucose
+186	Galactose	GLA	glucose
+187	Galactose	AKR1B1	glucose
+188	Galactose	AKR1B10	glucose
+189	Galactose	PFKM	glucose
+190	Galactose	PFKP	glucose
+191	Galactose	PFKL	glucose
+192	Galactose	MGAM	glucose
+193	Galactose	MGAM2	glucose
+194	Galactose	GAA	glucose
+195	Galactose	GANC	glucose
+196	Galactose	SI	glucose
+197	Starch and sucrose	MGAM	glucose
+198	Starch and sucrose	MGAM2	glucose
+199	Starch and sucrose	GAA	glucose
+200	Starch and sucrose	GANC	glucose
+201	Starch and sucrose	SI	glucose
+202	Starch and sucrose	UGP2	glucose
+203	Starch and sucrose	ENPP1	glucose
+204	Starch and sucrose	ENPP3	glucose
+205	Starch and sucrose	GBA3	glucose
+206	Starch and sucrose	GYS2	glucose
+207	Starch and sucrose	GYS1	glucose
+208	Starch and sucrose	GYG1	glucose
+209	Starch and sucrose	GYG2	glucose
+210	Starch and sucrose	GBE1	glucose
+211	Starch and sucrose	PYGL	glucose
+212	Starch and sucrose	PYGM	glucose
+213	Starch and sucrose	PYGB	glucose
+214	Starch and sucrose	AGL	glucose
+215	Starch and sucrose	AMY1C	glucose
+216	Starch and sucrose	AMY2A	glucose
+217	Starch and sucrose	AMY1A	glucose
+218	Starch and sucrose	AMY2B	glucose
+219	Starch and sucrose	AMY1B	glucose
+220	Starch and sucrose	TREH	glucose
+221	Starch and sucrose	PGM1	glucose
+222	Starch and sucrose	PGM2	glucose
+223	Starch and sucrose	HK3	glucose
+224	Starch and sucrose	HK1	glucose
+225	Starch and sucrose	HK2	glucose
+226	Starch and sucrose	HKDC1	glucose
+227	Starch and sucrose	GCK	glucose
+228	Starch and sucrose	G6PC	glucose
+229	Starch and sucrose	G6PC2	glucose
+230	Starch and sucrose	G6PC3	glucose
+231	Starch and sucrose	PGM2L1	glucose
+232	Starch and sucrose	GPI	glucose
+233	Amino sugar and nucleotide sugar	CHIA	glucose
+234	Amino sugar and nucleotide sugar	CHIT1	glucose
+235	Amino sugar and nucleotide sugar	HEXA	glucose
+236	Amino sugar and nucleotide sugar	HEXB	glucose
+237	Amino sugar and nucleotide sugar	NAGK	glucose
+238	Amino sugar and nucleotide sugar	PGM3	glucose
+239	Amino sugar and nucleotide sugar	UAP1	glucose
+240	Amino sugar and nucleotide sugar	UAP1L1	glucose
+241	Amino sugar and nucleotide sugar	GNE	glucose
+242	Amino sugar and nucleotide sugar	RENBP	glucose
+243	Amino sugar and nucleotide sugar	NANS	glucose
+244	Amino sugar and nucleotide sugar	NANP	glucose
+245	Amino sugar and nucleotide sugar	NPL	glucose
+246	Amino sugar and nucleotide sugar	CMAS	glucose
+247	Amino sugar and nucleotide sugar	CYB5R1	glucose
+248	Amino sugar and nucleotide sugar	CYB5R3	glucose
+249	Amino sugar and nucleotide sugar	CYB5R2	glucose
+250	Amino sugar and nucleotide sugar	CYB5RL	glucose
+251	Amino sugar and nucleotide sugar	CYB5R4	glucose
+252	Amino sugar and nucleotide sugar	HK3	glucose
+253	Amino sugar and nucleotide sugar	HK1	glucose
+254	Amino sugar and nucleotide sugar	HK2	glucose
+255	Amino sugar and nucleotide sugar	HKDC1	glucose
+256	Amino sugar and nucleotide sugar	AMDHD2	glucose
+257	Amino sugar and nucleotide sugar	GNPNAT1	glucose
+258	Amino sugar and nucleotide sugar	GNPDA1	glucose
+259	Amino sugar and nucleotide sugar	GNPDA2	glucose
+260	Amino sugar and nucleotide sugar	GFPT2	glucose
+261	Amino sugar and nucleotide sugar	GFPT1	glucose
+262	Amino sugar and nucleotide sugar	UXS1	glucose
+263	Amino sugar and nucleotide sugar	GCK	glucose
+264	Amino sugar and nucleotide sugar	GPI	glucose
+265	Amino sugar and nucleotide sugar	PGM1	glucose
+266	Amino sugar and nucleotide sugar	PGM2	glucose
+267	Amino sugar and nucleotide sugar	UGP2	glucose
+268	Amino sugar and nucleotide sugar	UGDH	glucose
+269	Amino sugar and nucleotide sugar	GALK1	glucose
+270	Amino sugar and nucleotide sugar	GALT	glucose
+271	Amino sugar and nucleotide sugar	GALE	glucose
+272	Amino sugar and nucleotide sugar	PMM2	glucose
+273	Amino sugar and nucleotide sugar	PMM1	glucose
+274	Amino sugar and nucleotide sugar	GMPPB	glucose
+275	Amino sugar and nucleotide sugar	GMPPA	glucose
+276	Amino sugar and nucleotide sugar	GMDS	glucose
+277	Amino sugar and nucleotide sugar	MPI	glucose
+278	Amino sugar and nucleotide sugar	FUK	glucose
+279	Amino sugar and nucleotide sugar	FPGT	glucose
+280	Amino sugar and nucleotide sugar	TSTA3	glucose
+281	Pyruvate	ACSS1	glucose
+282	Pyruvate	ACSS2	glucose
+283	Pyruvate	PDHA2	glucose
+284	Pyruvate	PDHA1	glucose
+285	Pyruvate	PDHB	glucose
+286	Pyruvate	DLAT	glucose
+287	Pyruvate	DLD	glucose
+288	Pyruvate	PKM	glucose
+289	Pyruvate	PKLR	glucose
+290	Pyruvate	ACACA	glucose
+291	Pyruvate	ACACB	glucose
+292	Pyruvate	ACYP2	glucose
+293	Pyruvate	ACYP1	glucose
+294	Pyruvate	ALDH2	glucose
+295	Pyruvate	ALDH3A2	glucose
+296	Pyruvate	ALDH1B1	glucose
+297	Pyruvate	ALDH7A1	glucose
+298	Pyruvate	ALDH9A1	glucose
+299	Pyruvate	ACOT12	glucose
+300	Pyruvate	LDHAL6A	glucose
+301	Pyruvate	LDHAL6B	glucose
+302	Pyruvate	LDHA	glucose
+303	Pyruvate	LDHB	glucose
+304	Pyruvate	LDHC	glucose
+305	Pyruvate	LDHD	glucose
+306	Pyruvate	GLO1	glucose
+307	Pyruvate	HAGH	glucose
+308	Pyruvate	GRHPR	glucose
+309	Pyruvate	ME2	glucose
+310	Pyruvate	ME3	glucose
+311	Pyruvate	ME1	glucose
+312	Pyruvate	PC	glucose
+313	Pyruvate	MDH1	glucose
+314	Pyruvate	MDH2	glucose
+315	Pyruvate	FH	glucose
+316	Pyruvate	PCK1	glucose
+317	Pyruvate	PCK2	glucose
+318	Pyruvate	ACAT2	glucose
+319	Pyruvate	ACAT1	glucose
+320	N Glycan biosynthesis	DOLK	glucose
+321	N Glycan biosynthesis	DPAGT1	glucose
+322	N Glycan biosynthesis	ALG5	glucose
+323	N Glycan biosynthesis	ALG13	glucose
+324	N Glycan biosynthesis	ALG14	glucose
+325	N Glycan biosynthesis	DPM1	glucose
+326	N Glycan biosynthesis	DPM2	glucose
+327	N Glycan biosynthesis	DPM3	glucose
+328	N Glycan biosynthesis	ALG1	glucose
+329	N Glycan biosynthesis	ALG2	glucose
+330	N Glycan biosynthesis	ALG11	glucose
+331	N Glycan biosynthesis	ALG3	glucose
+332	N Glycan biosynthesis	ALG9	glucose
+333	N Glycan biosynthesis	ALG12	glucose
+334	N Glycan biosynthesis	ALG6	glucose
+335	N Glycan biosynthesis	ALG8	glucose
+336	N Glycan biosynthesis	ALG10	glucose
+337	N Glycan biosynthesis	ALG10B	glucose
+338	N Glycan biosynthesis	STT3A	glucose
+339	N Glycan biosynthesis	STT3B	glucose
+340	N Glycan biosynthesis	RPN1	glucose
+341	N Glycan biosynthesis	RPN2	glucose
+342	N Glycan biosynthesis	DAD1	glucose
+343	N Glycan biosynthesis	TUSC3	glucose
+344	N Glycan biosynthesis	DDOST	glucose
+345	N Glycan biosynthesis	DOLPP1	glucose
+346	N Glycan biosynthesis	MOGS	glucose
+347	N Glycan biosynthesis	GANAB	glucose
+348	N Glycan biosynthesis	MAN1B1	glucose
+349	N Glycan biosynthesis	MAN1A2	glucose
+350	N Glycan biosynthesis	MAN1C1	glucose
+351	N Glycan biosynthesis	MAN1A1	glucose
+352	N Glycan biosynthesis	MGAT1	glucose
+353	N Glycan biosynthesis	MAN2A1	glucose
+354	N Glycan biosynthesis	MAN2A2	glucose
+355	N Glycan biosynthesis	MGAT2	glucose
+356	N Glycan biosynthesis	FUT8	glucose
+357	N Glycan biosynthesis	B4GALT1	glucose
+358	N Glycan biosynthesis	B4GALT2	glucose
+359	N Glycan biosynthesis	B4GALT3	glucose
+360	N Glycan biosynthesis	ST6GAL1	glucose
+361	N Glycan biosynthesis	ST6GAL2	glucose
+362	N Glycan biosynthesis	MGAT3	glucose
+363	N Glycan biosynthesis	MGAT4A	glucose
+364	N Glycan biosynthesis	MGAT4B	glucose
+365	N Glycan biosynthesis	MGAT4D	glucose
+366	N Glycan biosynthesis	MGAT5	glucose
+367	N Glycan biosynthesis	MGAT5B	glucose
+368	N Glycan biosynthesis	MGAT4C	glucose
+369	Mucin type O glycan biosynthesis	GALNTL6	glucose
+370	Mucin type O glycan biosynthesis	GALNT5	glucose
+371	Mucin type O glycan biosynthesis	GALNT17	glucose
+372	Mucin type O glycan biosynthesis	GALNT11	glucose
+373	Mucin type O glycan biosynthesis	GALNT12	glucose
+374	Mucin type O glycan biosynthesis	GALNT13	glucose
+375	Mucin type O glycan biosynthesis	GALNT14	glucose
+376	Mucin type O glycan biosynthesis	GALNT16	glucose
+377	Mucin type O glycan biosynthesis	GALNT15	glucose
+378	Mucin type O glycan biosynthesis	GALNT18	glucose
+379	Mucin type O glycan biosynthesis	GALNTL5	glucose
+380	Mucin type O glycan biosynthesis	GALNT10	glucose
+381	Mucin type O glycan biosynthesis	GALNT2	glucose
+382	Mucin type O glycan biosynthesis	GALNT3	glucose
+383	Mucin type O glycan biosynthesis	GALNT1	glucose
+384	Mucin type O glycan biosynthesis	GALNT6	glucose
+385	Mucin type O glycan biosynthesis	GALNT4	glucose
+386	Mucin type O glycan biosynthesis	GALNT9	glucose
+387	Mucin type O glycan biosynthesis	GALNT7	glucose
+388	Mucin type O glycan biosynthesis	GALNT8	glucose
+389	Mucin type O glycan biosynthesis	POC1BGALNT4	glucose
+390	Mucin type O glycan biosynthesis	C1GALT1	glucose
+391	Mucin type O glycan biosynthesis	C1GALT1C1	glucose
+392	Mucin type O glycan biosynthesis	GCNT1	glucose
+393	Mucin type O glycan biosynthesis	GCNT3	glucose
+394	Mucin type O glycan biosynthesis	GCNT4	glucose
+395	Mucin type O glycan biosynthesis	ST3GAL1	glucose
+396	Mucin type O glycan biosynthesis	ST3GAL2	glucose
+397	Mucin type O glycan biosynthesis	ST6GALNAC1	glucose
+398	Mucin type O glycan biosynthesis	B3GNT6	glucose
+399	Mucin type O glycan biosynthesis	B4GALT5	glucose
+400	Mannose type O glycan biosynthesis	POMT1	glucose
+401	Mannose type O glycan biosynthesis	POMT2	glucose
+402	Mannose type O glycan biosynthesis	POMGNT1	glucose
+403	Mannose type O glycan biosynthesis	B4GALT1	glucose
+404	Mannose type O glycan biosynthesis	B4GALT2	glucose
+405	Mannose type O glycan biosynthesis	B4GALT3	glucose
+406	Mannose type O glycan biosynthesis	ST3GAL3	glucose
+407	Mannose type O glycan biosynthesis	B3GAT1	glucose
+408	Mannose type O glycan biosynthesis	B3GAT2	glucose
+409	Mannose type O glycan biosynthesis	CHST10	glucose
+410	Mannose type O glycan biosynthesis	FUT9	glucose
+411	Mannose type O glycan biosynthesis	FUT4	glucose
+412	Mannose type O glycan biosynthesis	MGAT5B	glucose
+413	Mannose type O glycan biosynthesis	POMGNT2	glucose
+414	Mannose type O glycan biosynthesis	B3GALNT2	glucose
+415	Mannose type O glycan biosynthesis	POMK	glucose
+416	Mannose type O glycan biosynthesis	ISPD	glucose
+417	Mannose type O glycan biosynthesis	FKTN	glucose
+418	Mannose type O glycan biosynthesis	FKRP	glucose
+419	Mannose type O glycan biosynthesis	RXYLT1	glucose
+420	Mannose type O glycan biosynthesis	B4GAT1	glucose
+421	Mannose type O glycan biosynthesis	LARGE1	glucose
+422	Mannose type O glycan biosynthesis	LARGE2	glucose
+423	Other types of O glycan biosynthesis	OGT	glucose
+424	Other types of O glycan biosynthesis	EOGT	glucose
+425	Other types of O glycan biosynthesis	POFUT1	glucose
+426	Other types of O glycan biosynthesis	POFUT2	glucose
+427	Other types of O glycan biosynthesis	MFNG	glucose
+428	Other types of O glycan biosynthesis	LFNG	glucose
+429	Other types of O glycan biosynthesis	RFNG	glucose
+430	Other types of O glycan biosynthesis	B4GALT1	glucose
+431	Other types of O glycan biosynthesis	B4GALT2	glucose
+432	Other types of O glycan biosynthesis	B4GALT3	glucose
+433	Other types of O glycan biosynthesis	ST6GAL1	glucose
+434	Other types of O glycan biosynthesis	ST6GAL2	glucose
+435	Other types of O glycan biosynthesis	ST3GAL3	glucose
+436	Other types of O glycan biosynthesis	B3GLCT	glucose
+437	Other types of O glycan biosynthesis	POGLUT1	glucose
+438	Other types of O glycan biosynthesis	GXYLT1	glucose
+439	Other types of O glycan biosynthesis	GXYLT2	glucose
+440	Other types of O glycan biosynthesis	COLGALT1	glucose
+441	Other types of O glycan biosynthesis	COLGALT2	glucose
+442	Other types of O glycan biosynthesis	PLOD3	glucose
+443	Other types of O glycan biosynthesis	POMT1	glucose
+444	Other types of O glycan biosynthesis	POMT2	glucose
+445	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	XYLT1	glucose
+446	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	XYLT2	glucose
+447	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B4GALT7	glucose
+448	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B3GALT6	glucose
+449	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B3GAT3	glucose
+450	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CSGALNACT1	glucose
+451	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CSGALNACT2	glucose
+452	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHSY3	glucose
+453	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHSY1	glucose
+454	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHPF	glucose
+455	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHPF2	glucose
+456	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	DSE	glucose
+457	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST11	glucose
+458	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST12	glucose
+459	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST13	glucose
+460	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST3	glucose
+461	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST7	glucose
+462	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST15	glucose
+463	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	UST	glucose
+464	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST14	glucose
+465	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	XYLT1	glucose
+466	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	XYLT2	glucose
+467	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B4GALT7	glucose
+468	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B3GALT6	glucose
+469	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B3GAT3	glucose
+470	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	EXTL2	glucose
+471	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	EXTL3	glucose
+472	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	EXTL1	glucose
+473	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	EXT1	glucose
+474	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	EXT2	glucose
+475	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	NDST1	glucose
+476	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	NDST2	glucose
+477	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	NDST3	glucose
+478	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	NDST4	glucose
+479	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	GLCE	glucose
+480	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS2ST1	glucose
+481	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS6ST1	glucose
+482	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS6ST2	glucose
+483	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS6ST3	glucose
+484	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS3ST1	glucose
+485	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS3ST2	glucose
+486	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS3ST3B1	glucose
+487	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS3ST3A1	glucose
+488	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HS3ST5	glucose
+489	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	FUT8	glucose
+490	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B4GALT1	glucose
+491	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B4GALT2	glucose
+492	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B4GALT3	glucose
+493	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B3GNT2	glucose
+494	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST6	glucose
+495	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B4GALT4	glucose
+496	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	B3GNT7	glucose
+497	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST1	glucose
+498	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	ST3GAL3	glucose
+499	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST2	glucose
+500	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	CHST4	glucose
+501	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	ST3GAL1	glucose
+502	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	ST3GAL2	glucose
+503	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HYAL2	glucose
+504	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HYAL1	glucose
+505	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	SPAM1	glucose
+506	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HYAL4	glucose
+507	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HYAL3	glucose
+508	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	GUSB	glucose
+509	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	IDS	glucose
+510	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	IDUA	glucose
+511	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	ARSB	glucose
+512	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HPSE	glucose
+513	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HPSE2	glucose
+514	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	SGSH	glucose
+515	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HGSNAT	glucose
+516	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	NAGLU	glucose
+517	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	GALNS	glucose
+518	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	GLB1	glucose
+519	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	GNS	glucose
+520	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HEXA	glucose
+521	Glycosamin O glycan biosynthesis chondroitin sulfate dermatan sulfate	HEXB	glucose
+522	Other glycan degradation	NEU1	glucose
+523	Other glycan degradation	NEU3	glucose
+524	Other glycan degradation	NEU4	glucose
+525	Other glycan degradation	NEU2	glucose
+526	Other glycan degradation	GLB1	glucose
+527	Other glycan degradation	HEXA	glucose
+528	Other glycan degradation	HEXB	glucose
+529	Other glycan degradation	HEXDC	glucose
+530	Other glycan degradation	MAN2C1	glucose
+531	Other glycan degradation	MAN2B1	glucose
+532	Other glycan degradation	MAN2B2	glucose
+533	Other glycan degradation	MANBA	glucose
+534	Other glycan degradation	ENGASE	glucose
+535	Other glycan degradation	FUCA1	glucose
+536	Other glycan degradation	FUCA2	glucose
+537	Other glycan degradation	AGA	glucose
+538	Other glycan degradation	GBA	glucose
+539	Other glycan degradation	GBA2	glucose

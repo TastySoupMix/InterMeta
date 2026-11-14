@@ -1,0 +1,474 @@
+	CellType	Gene	Dataset
+1	Alanine aspartate and glutamate	GOT1	amino
+2	Alanine aspartate and glutamate	GOT2	amino
+3	Alanine aspartate and glutamate	IL4I1	amino
+4	Alanine aspartate and glutamate	DDO	amino
+5	Alanine aspartate and glutamate	ASNS	amino
+6	Alanine aspartate and glutamate	NIT2	amino
+7	Alanine aspartate and glutamate	GPT2	amino
+8	Alanine aspartate and glutamate	GPT	amino
+9	Alanine aspartate and glutamate	AGXT	amino
+10	Alanine aspartate and glutamate	AGXT2	amino
+11	Alanine aspartate and glutamate	ASS1	amino
+12	Alanine aspartate and glutamate	ASL	amino
+13	Alanine aspartate and glutamate	ADSSL1	amino
+14	Alanine aspartate and glutamate	ADSS	amino
+15	Alanine aspartate and glutamate	ADSL	amino
+16	Alanine aspartate and glutamate	NAT8L	amino
+17	Alanine aspartate and glutamate	RIMKLB	amino
+18	Alanine aspartate and glutamate	RIMKLA	amino
+19	Alanine aspartate and glutamate	FOLH1	amino
+20	Alanine aspartate and glutamate	ASPA	amino
+21	Alanine aspartate and glutamate	GAD1	amino
+22	Alanine aspartate and glutamate	GAD2	amino
+23	Alanine aspartate and glutamate	ABAT	amino
+24	Alanine aspartate and glutamate	ALDH5A1	amino
+25	Alanine aspartate and glutamate	GLUD2	amino
+26	Alanine aspartate and glutamate	GLUD1	amino
+27	Alanine aspartate and glutamate	ALDH4A1	amino
+28	Alanine aspartate and glutamate	GLUL	amino
+29	Alanine aspartate and glutamate	CAD	amino
+30	Alanine aspartate and glutamate	GLS2	amino
+31	Alanine aspartate and glutamate	GLS	amino
+32	Alanine aspartate and glutamate	CPS1	amino
+33	Alanine aspartate and glutamate	GFPT2	amino
+34	Alanine aspartate and glutamate	GFPT1	amino
+35	Alanine aspartate and glutamate	PPAT	amino
+36	Glycine serine and threonine	SHMT2	amino
+37	Glycine serine and threonine	SHMT1	amino
+38	Glycine serine and threonine	AGXT	amino
+39	Glycine serine and threonine	GRHPR	amino
+40	Glycine serine and threonine	GLYCTK	amino
+41	Glycine serine and threonine	PGAM1	amino
+42	Glycine serine and threonine	PGAM2	amino
+43	Glycine serine and threonine	PGAM4	amino
+44	Glycine serine and threonine	BPGM	amino
+45	Glycine serine and threonine	PHGDH	amino
+46	Glycine serine and threonine	PSAT1	amino
+47	Glycine serine and threonine	PSPH	amino
+48	Glycine serine and threonine	GCAT	amino
+49	Glycine serine and threonine	ALAS1	amino
+50	Glycine serine and threonine	ALAS2	amino
+51	Glycine serine and threonine	MAOB	amino
+52	Glycine serine and threonine	MAOA	amino
+53	Glycine serine and threonine	AOC3	amino
+54	Glycine serine and threonine	AOC2	amino
+55	Glycine serine and threonine	GLDC	amino
+56	Glycine serine and threonine	AMT	amino
+57	Glycine serine and threonine	DLD	amino
+58	Glycine serine and threonine	GCSH	amino
+59	Glycine serine and threonine	DAO	amino
+60	Glycine serine and threonine	AGXT2	amino
+61	Glycine serine and threonine	GATM	amino
+62	Glycine serine and threonine	GAMT	amino
+63	Glycine serine and threonine	CHDH	amino
+64	Glycine serine and threonine	ALDH7A1	amino
+65	Glycine serine and threonine	BHMT	amino
+66	Glycine serine and threonine	DMGDH	amino
+67	Glycine serine and threonine	PIPOX	amino
+68	Glycine serine and threonine	SARDH	amino
+69	Glycine serine and threonine	GNMT	amino
+70	Glycine serine and threonine	CBS	amino
+71	Glycine serine and threonine	CBSL	amino
+72	Glycine serine and threonine	CTH	amino
+73	Glycine serine and threonine	SDS	amino
+74	Glycine serine and threonine	SDSL	amino
+75	Glycine serine and threonine	SRR	amino
+76	Cysteine and methionine	CTH	amino
+77	Cysteine and methionine	CBS	amino
+78	Cysteine and methionine	CBSL	amino
+79	Cysteine and methionine	BHMT	amino
+80	Cysteine and methionine	BHMT2	amino
+81	Cysteine and methionine	MTR	amino
+82	Cysteine and methionine	MAT2B	amino
+83	Cysteine and methionine	MAT1A	amino
+84	Cysteine and methionine	MAT2A	amino
+85	Cysteine and methionine	AMD1	amino
+86	Cysteine and methionine	SRM	amino
+87	Cysteine and methionine	SMS	amino
+88	Cysteine and methionine	MTAP	amino
+89	Cysteine and methionine	MRI1	amino
+90	Cysteine and methionine	APIP	amino
+91	Cysteine and methionine	ENOPH1	amino
+92	Cysteine and methionine	ADI1	amino
+93	Cysteine and methionine	TAT	amino
+94	Cysteine and methionine	IL4I1	amino
+95	Cysteine and methionine	DNMT1	amino
+96	Cysteine and methionine	DNMT3A	amino
+97	Cysteine and methionine	DNMT3B	amino
+98	Cysteine and methionine	AHCYL2	amino
+99	Cysteine and methionine	AHCYL1	amino
+100	Cysteine and methionine	AHCY	amino
+101	Cysteine and methionine	BCAT2	amino
+102	Cysteine and methionine	BCAT1	amino
+103	Cysteine and methionine	AGXT2	amino
+104	Cysteine and methionine	GCLC	amino
+105	Cysteine and methionine	GCLM	amino
+106	Cysteine and methionine	GSS	amino
+107	Cysteine and methionine	CDO1	amino
+108	Cysteine and methionine	GOT1	amino
+109	Cysteine and methionine	GOT2	amino
+110	Cysteine and methionine	MPST	amino
+111	Cysteine and methionine	TST	amino
+112	Cysteine and methionine	LDHAL6A	amino
+113	Cysteine and methionine	LDHAL6B	amino
+114	Cysteine and methionine	LDHA	amino
+115	Cysteine and methionine	LDHB	amino
+116	Cysteine and methionine	LDHC	amino
+117	Cysteine and methionine	MDH1	amino
+118	Cysteine and methionine	MDH2	amino
+119	Cysteine and methionine	SDS	amino
+120	Cysteine and methionine	SDSL	amino
+121	Valine leucine and isoleucine degradation	BCAT2	amino
+122	Valine leucine and isoleucine degradation	BCAT1	amino
+123	Valine leucine and isoleucine degradation	IL4I1	amino
+124	Valine leucine and isoleucine degradation	BCKDHA	amino
+125	Valine leucine and isoleucine degradation	BCKDHB	amino
+126	Valine leucine and isoleucine degradation	DBT	amino
+127	Valine leucine and isoleucine degradation	DLD	amino
+128	Valine leucine and isoleucine degradation	ACADS	amino
+129	Valine leucine and isoleucine degradation	ACADM	amino
+130	Valine leucine and isoleucine degradation	IVD	amino
+131	Valine leucine and isoleucine degradation	ACADSB	amino
+132	Valine leucine and isoleucine degradation	ACAD8	amino
+133	Valine leucine and isoleucine degradation	HADHA	amino
+134	Valine leucine and isoleucine degradation	EHHADH	amino
+135	Valine leucine and isoleucine degradation	ECHS1	amino
+136	Valine leucine and isoleucine degradation	HADH	amino
+137	Valine leucine and isoleucine degradation	HSD17B10	amino
+138	Valine leucine and isoleucine degradation	ACAA1	amino
+139	Valine leucine and isoleucine degradation	ACAA2	amino
+140	Valine leucine and isoleucine degradation	HADHB	amino
+141	Valine leucine and isoleucine degradation	PCCA	amino
+142	Valine leucine and isoleucine degradation	PCCB	amino
+143	Valine leucine and isoleucine degradation	MCEE	amino
+144	Valine leucine and isoleucine degradation	MUT	amino
+145	Valine leucine and isoleucine degradation	HIBCH	amino
+146	Valine leucine and isoleucine degradation	HIBADH	amino
+147	Valine leucine and isoleucine degradation	ALDH6A1	amino
+148	Valine leucine and isoleucine degradation	ALDH2	amino
+149	Valine leucine and isoleucine degradation	ALDH3A2	amino
+150	Valine leucine and isoleucine degradation	ALDH1B1	amino
+151	Valine leucine and isoleucine degradation	ALDH7A1	amino
+152	Valine leucine and isoleucine degradation	ALDH9A1	amino
+153	Valine leucine and isoleucine degradation	AOX1	amino
+154	Valine leucine and isoleucine degradation	ACSF3	amino
+155	Valine leucine and isoleucine degradation	ABAT	amino
+156	Valine leucine and isoleucine degradation	AGXT2	amino
+157	Valine leucine and isoleucine degradation	MCCC1	amino
+158	Valine leucine and isoleucine degradation	MCCC2	amino
+159	Valine leucine and isoleucine degradation	AUH	amino
+160	Valine leucine and isoleucine degradation	HMGCL	amino
+161	Valine leucine and isoleucine degradation	HMGCLL1	amino
+162	Valine leucine and isoleucine degradation	OXCT1	amino
+163	Valine leucine and isoleucine degradation	OXCT2	amino
+164	Valine leucine and isoleucine degradation	AACS	amino
+165	Valine leucine and isoleucine degradation	ACAT2	amino
+166	Valine leucine and isoleucine degradation	ACAT1	amino
+167	Valine leucine and isoleucine degradation	HMGCS1	amino
+168	Valine leucine and isoleucine degradation	HMGCS2	amino
+169	Lysine degradation	AASS	amino
+170	Lysine degradation	ALDH7A1	amino
+171	Lysine degradation	AADAT	amino
+172	Lysine degradation	OGDHL	amino
+173	Lysine degradation	OGDH	amino
+174	Lysine degradation	DLST	amino
+175	Lysine degradation	GCDH	amino
+176	Lysine degradation	HADHA	amino
+177	Lysine degradation	EHHADH	amino
+178	Lysine degradation	ECHS1	amino
+179	Lysine degradation	HADH	amino
+180	Lysine degradation	ACAT2	amino
+181	Lysine degradation	ACAT1	amino
+182	Lysine degradation	HYKK	amino
+183	Lysine degradation	PHYKPL	amino
+184	Lysine degradation	PIPOX	amino
+185	Lysine degradation	ASH1L	amino
+186	Lysine degradation	DOT1L	amino
+187	Lysine degradation	EHMT2	amino
+188	Lysine degradation	EHMT1	amino
+189	Lysine degradation	KMT2A	amino
+190	Lysine degradation	KMT2D	amino
+191	Lysine degradation	KMT2C	amino
+192	Lysine degradation	KMT2B	amino
+193	Lysine degradation	KMT2E	amino
+194	Lysine degradation	NSD1	amino
+195	Lysine degradation	NSD2	amino
+196	Lysine degradation	NSD3	amino
+197	Lysine degradation	SETD1B	amino
+198	Lysine degradation	SETD1A	amino
+199	Lysine degradation	SETD2	amino
+200	Lysine degradation	SETD3	amino
+201	Lysine degradation	SETD7	amino
+202	Lysine degradation	KMT5A	amino
+203	Lysine degradation	SETDB1	amino
+204	Lysine degradation	SETDB2	amino
+205	Lysine degradation	SETMAR	amino
+206	Lysine degradation	SUV39H1	amino
+207	Lysine degradation	SUV39H2	amino
+208	Lysine degradation	KMT5C	amino
+209	Lysine degradation	KMT5B	amino
+210	Lysine degradation	EZH1	amino
+211	Lysine degradation	EZH2	amino
+212	Lysine degradation	PRDM2	amino
+213	Lysine degradation	PRDM6	amino
+214	Lysine degradation	PRDM9	amino
+215	Lysine degradation	PRDM7	amino
+216	Lysine degradation	CAMKMT	amino
+217	Lysine degradation	TMLHE	amino
+218	Lysine degradation	ALDH2	amino
+219	Lysine degradation	ALDH3A2	amino
+220	Lysine degradation	ALDH1B1	amino
+221	Lysine degradation	ALDH9A1	amino
+222	Lysine degradation	BBOX1	amino
+223	Lysine degradation	PLOD1	amino
+224	Lysine degradation	PLOD2	amino
+225	Lysine degradation	PLOD3	amino
+226	Lysine degradation	COLGALT1	amino
+227	Lysine degradation	COLGALT2	amino
+228	Arginine biosynthesis	OTC	amino
+229	Arginine biosynthesis	ASS1	amino
+230	Arginine biosynthesis	ASL	amino
+231	Arginine biosynthesis	ARG2	amino
+232	Arginine biosynthesis	ARG1	amino
+233	Arginine biosynthesis	NOS1	amino
+234	Arginine biosynthesis	NOS2	amino
+235	Arginine biosynthesis	NOS3	amino
+236	Arginine biosynthesis	GLS2	amino
+237	Arginine biosynthesis	GLS	amino
+238	Arginine biosynthesis	GLUL	amino
+239	Arginine biosynthesis	GLUD2	amino
+240	Arginine biosynthesis	GLUD1	amino
+241	Arginine biosynthesis	CPS1	amino
+242	Arginine biosynthesis	GOT1	amino
+243	Arginine biosynthesis	GOT2	amino
+244	Arginine biosynthesis	GPT2	amino
+245	Arginine biosynthesis	GPT	amino
+246	Arginine biosynthesis	NAGS	amino
+247	Arginine biosynthesis	ACY1	amino
+248	Arginine biosynthesis	ABHD14A	amino
+249	Histidine	HAL	amino
+250	Histidine	UROC1	amino
+251	Histidine	AMDHD1	amino
+252	Histidine	FTCD	amino
+253	Histidine	HDC	amino
+254	Histidine	AOC1	amino
+255	Histidine	ALDH2	amino
+256	Histidine	ALDH3A2	amino
+257	Histidine	ALDH1B1	amino
+258	Histidine	ALDH7A1	amino
+259	Histidine	ALDH9A1	amino
+260	Histidine	ASPA	amino
+261	Histidine	HNMT	amino
+262	Histidine	MAOB	amino
+263	Histidine	MAOA	amino
+264	Histidine	ALDH3B1	amino
+265	Histidine	ALDH3B2	amino
+266	Histidine	ALDH1A3	amino
+267	Histidine	ALDH3A1	amino
+268	Histidine	CARNS1	amino
+269	Histidine	CARNMT1	amino
+270	Histidine	CNDP2	amino
+271	Histidine	CNDP1	amino
+272	Tyrosine	GOT1	amino
+273	Tyrosine	GOT2	amino
+274	Tyrosine	TAT	amino
+275	Tyrosine	IL4I1	amino
+276	Tyrosine	HPD	amino
+277	Tyrosine	HGD	amino
+278	Tyrosine	GSTZ1	amino
+279	Tyrosine	FAH	amino
+280	Tyrosine	TYR	amino
+281	Tyrosine	TH	amino
+282	Tyrosine	DCT	amino
+283	Tyrosine	TYRP1	amino
+284	Tyrosine	DDC	amino
+285	Tyrosine	DBH	amino
+286	Tyrosine	PNMT	amino
+287	Tyrosine	COMT	amino
+288	Tyrosine	LRTOMT	amino
+289	Tyrosine	MAOB	amino
+290	Tyrosine	MAOA	amino
+291	Tyrosine	AOC3	amino
+292	Tyrosine	AOC2	amino
+293	Tyrosine	ALDH3B1	amino
+294	Tyrosine	ALDH3B2	amino
+295	Tyrosine	ALDH1A3	amino
+296	Tyrosine	ALDH3A1	amino
+297	Tyrosine	ADH1A	amino
+298	Tyrosine	ADH1B	amino
+299	Tyrosine	ADH1C	amino
+300	Tyrosine	ADH7	amino
+301	Tyrosine	ADH4	amino
+302	Tyrosine	ADH5	amino
+303	Tyrosine	ADH6	amino
+304	Tyrosine	TPO	amino
+305	Tyrosine	AOX1	amino
+306	Tyrosine	FAHD1	amino
+307	Tyrosine	MIF	amino
+308	Phenylalanine	PAH	amino
+309	Phenylalanine	DDC	amino
+310	Phenylalanine	AOC3	amino
+311	Phenylalanine	AOC2	amino
+312	Phenylalanine	MAOB	amino
+313	Phenylalanine	MAOA	amino
+314	Phenylalanine	ALDH3B1	amino
+315	Phenylalanine	ALDH3B2	amino
+316	Phenylalanine	ALDH1A3	amino
+317	Phenylalanine	ALDH3A1	amino
+318	Phenylalanine	GOT1	amino
+319	Phenylalanine	GOT2	amino
+320	Phenylalanine	TAT	amino
+321	Phenylalanine	IL4I1	amino
+322	Phenylalanine	HPD	amino
+323	Phenylalanine	MIF	amino
+324	Phenylalanine	GLYAT	amino
+325	Tryptophan	TDO2	amino
+326	Tryptophan	IDO1	amino
+327	Tryptophan	IDO2	amino
+328	Tryptophan	AFMID	amino
+329	Tryptophan	KMO	amino
+330	Tryptophan	KYNU	amino
+331	Tryptophan	HAAO	amino
+332	Tryptophan	ACMSD	amino
+333	Tryptophan	OGDHL	amino
+334	Tryptophan	OGDH	amino
+335	Tryptophan	GCDH	amino
+336	Tryptophan	HADHA	amino
+337	Tryptophan	EHHADH	amino
+338	Tryptophan	ECHS1	amino
+339	Tryptophan	HADH	amino
+340	Tryptophan	ACAT2	amino
+341	Tryptophan	ACAT1	amino
+342	Tryptophan	KYAT3	amino
+343	Tryptophan	KYAT1	amino
+344	Tryptophan	AADAT	amino
+345	Tryptophan	TPH2	amino
+346	Tryptophan	TPH1	amino
+347	Tryptophan	DDC	amino
+348	Tryptophan	MAOB	amino
+349	Tryptophan	MAOA	amino
+350	Tryptophan	ALDH2	amino
+351	Tryptophan	ALDH3A2	amino
+352	Tryptophan	ALDH1B1	amino
+353	Tryptophan	ALDH7A1	amino
+354	Tryptophan	ALDH9A1	amino
+355	Tryptophan	AOX1	amino
+356	Tryptophan	ASMT	amino
+357	Tryptophan	AANAT	amino
+358	Tryptophan	CYP1A1	amino
+359	Tryptophan	CYP1A2	amino
+360	Tryptophan	CYP1B1	amino
+361	Tryptophan	INMT	amino
+362	Tryptophan	IL4I1	amino
+363	Tryptophan	AOC1	amino
+364	Tryptophan	CAT	amino
+365	Phenylalanine tyrosine and tryptophan biosynthesis	GOT1	amino
+366	Phenylalanine tyrosine and tryptophan biosynthesis	GOT2	amino
+367	Phenylalanine tyrosine and tryptophan biosynthesis	TAT	amino
+368	Phenylalanine tyrosine and tryptophan biosynthesis	IL4I1	amino
+369	Phenylalanine tyrosine and tryptophan biosynthesis	PAH	amino
+370	beta Alanine	GADL1	amino
+371	beta Alanine	GAD1	amino
+372	beta Alanine	GAD2	amino
+373	beta Alanine	CNDP1	amino
+374	beta Alanine	CARNS1	amino
+375	beta Alanine	CNDP2	amino
+376	beta Alanine	ABAT	amino
+377	beta Alanine	SRM	amino
+378	beta Alanine	SMS	amino
+379	beta Alanine	SMOX	amino
+380	beta Alanine	AOC3	amino
+381	beta Alanine	AOC2	amino
+382	beta Alanine	ALDH2	amino
+383	beta Alanine	ALDH3A2	amino
+384	beta Alanine	ALDH1B1	amino
+385	beta Alanine	ALDH7A1	amino
+386	beta Alanine	ALDH9A1	amino
+387	beta Alanine	ALDH3B1	amino
+388	beta Alanine	ALDH3B2	amino
+389	beta Alanine	ALDH1A3	amino
+390	beta Alanine	ALDH3A1	amino
+391	beta Alanine	DPYD	amino
+392	beta Alanine	DPYS	amino
+393	beta Alanine	UPB1	amino
+394	beta Alanine	HIBCH	amino
+395	beta Alanine	HADHA	amino
+396	beta Alanine	EHHADH	amino
+397	beta Alanine	ECHS1	amino
+398	beta Alanine	ACADM	amino
+399	beta Alanine	MLYCD	amino
+400	beta Alanine	ALDH6A1	amino
+401	Taurine and hypotaurine	CDO1	amino
+402	Taurine and hypotaurine	GAD1	amino
+403	Taurine and hypotaurine	GAD2	amino
+404	Taurine and hypotaurine	CSAD	amino
+405	Taurine and hypotaurine	GADL1	amino
+406	Taurine and hypotaurine	ADO	amino
+407	Taurine and hypotaurine	GGT7	amino
+408	Taurine and hypotaurine	GGT6	amino
+409	Taurine and hypotaurine	GGT1	amino
+410	Taurine and hypotaurine	GGT5	amino
+411	Taurine and hypotaurine	BAAT	amino
+412	D Glutamine and D glutamate	DGLUCY	amino
+413	D Glutamine and D glutamate	GLS2	amino
+414	D Glutamine and D glutamate	GLS	amino
+415	D Glutamine and D glutamate	GLUD2	amino
+416	D Glutamine and D glutamate	GLUD1	amino
+417	D Arginine and D ornithine	DAO	amino
+418	Glutathione	GGT7	amino
+419	Glutathione	GGT6	amino
+420	Glutathione	GGT1	amino
+421	Glutathione	GGT5	amino
+422	Glutathione	GGCT	amino
+423	Glutathione	CHAC1	amino
+424	Glutathione	CHAC2	amino
+425	Glutathione	OPLAH	amino
+426	Glutathione	GCLC	amino
+427	Glutathione	GCLM	amino
+428	Glutathione	GSS	amino
+429	Glutathione	LAP3	amino
+430	Glutathione	ANPEP	amino
+431	Glutathione	GSTA5	amino
+432	Glutathione	GSTA2	amino
+433	Glutathione	GSTA4	amino
+434	Glutathione	GSTO2	amino
+435	Glutathione	GSTM4	amino
+436	Glutathione	GSTT2	amino
+437	Glutathione	GSTT1	amino
+438	Glutathione	GSTM3	amino
+439	Glutathione	MGST1	amino
+440	Glutathione	MGST3	amino
+441	Glutathione	GSTP1	amino
+442	Glutathione	GSTM1	amino
+443	Glutathione	GSTM5	amino
+444	Glutathione	MGST2	amino
+445	Glutathione	GSTA1	amino
+446	Glutathione	GSTM2	amino
+447	Glutathione	GSTA3	amino
+448	Glutathione	GSTO1	amino
+449	Glutathione	GSTT2B	amino
+450	Glutathione	GSTK1	amino
+451	Glutathione	HPGDS	amino
+452	Glutathione	NAT8	amino
+453	Glutathione	NAT8B	amino
+454	Glutathione	GSR	amino
+455	Glutathione	IDH1	amino
+456	Glutathione	IDH2	amino
+457	Glutathione	PGD	amino
+458	Glutathione	G6PD	amino
+459	Glutathione	TXNDC12	amino
+460	Glutathione	GPX6	amino
+461	Glutathione	GPX7	amino
+462	Glutathione	GPX2	amino
+463	Glutathione	GPX3	amino
+464	Glutathione	GPX1	amino
+465	Glutathione	GPX5	amino
+466	Glutathione	GPX8	amino
+467	Glutathione	GPX4	amino
+468	Glutathione	ODC1	amino
+469	Glutathione	SRM	amino
+470	Glutathione	SMS	amino
+471	Glutathione	RRM1	amino
+472	Glutathione	RRM2B	amino
+473	Glutathione	RRM2	amino

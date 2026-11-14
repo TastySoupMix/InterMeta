@@ -1,0 +1,16 @@
+bibentry(
+  bibtype = "Manual",
+  title = "InterMeta: Inferring Prognostic Interactions Between Metabolic Pathways",
+  author = person("Zeheng", "Tan"),
+  year = "2026",
+  note = "R package version 1.1.4",
+  header = "To cite InterMeta in publications, use:",
+  footer = paste(
+    "InterMeta adapts the TimiGP gene-pair framework. Please also cite:",
+    "Li et al. (2023). TimiGP: Inferring cell-cell interactions and prognostic",
+    "associations in the tumor immune microenvironment through gene pairs.",
+    "Cell Reports Medicine 4, 101121. doi:10.1016/j.xcrm.2023.101121.",
+    "This software citation does not define the author list of a future",
+    "InterMeta manuscript."
+  )
+)

@@ -1,0 +1,2023 @@
+	CellType	Gene	Dataset
+1	Glycolysis Gluconeogenesis	HK3	all
+2	Glycolysis Gluconeogenesis	HK1	all
+3	Glycolysis Gluconeogenesis	HK2	all
+4	Glycolysis Gluconeogenesis	HKDC1	all
+5	Glycolysis Gluconeogenesis	GCK	all
+6	Glycolysis Gluconeogenesis	GPI	all
+7	Glycolysis Gluconeogenesis	PFKM	all
+8	Glycolysis Gluconeogenesis	PFKP	all
+9	Glycolysis Gluconeogenesis	PFKL	all
+10	Glycolysis Gluconeogenesis	FBP1	all
+11	Glycolysis Gluconeogenesis	FBP2	all
+12	Glycolysis Gluconeogenesis	ALDOC	all
+13	Glycolysis Gluconeogenesis	ALDOA	all
+14	Glycolysis Gluconeogenesis	ALDOB	all
+15	Glycolysis Gluconeogenesis	TPI1	all
+16	Glycolysis Gluconeogenesis	GAPDH	all
+17	Glycolysis Gluconeogenesis	GAPDHS	all
+18	Glycolysis Gluconeogenesis	PGK2	all
+19	Glycolysis Gluconeogenesis	PGK1	all
+20	Glycolysis Gluconeogenesis	PGAM1	all
+21	Glycolysis Gluconeogenesis	PGAM2	all
+22	Glycolysis Gluconeogenesis	PGAM4	all
+23	Glycolysis Gluconeogenesis	ENO3	all
+24	Glycolysis Gluconeogenesis	ENO2	all
+25	Glycolysis Gluconeogenesis	ENO1	all
+26	Glycolysis Gluconeogenesis	ENO4	all
+27	Glycolysis Gluconeogenesis	PKM	all
+28	Glycolysis Gluconeogenesis	PKLR	all
+29	Glycolysis Gluconeogenesis	PDHA2	all
+30	Glycolysis Gluconeogenesis	PDHA1	all
+31	Glycolysis Gluconeogenesis	PDHB	all
+32	Glycolysis Gluconeogenesis	DLAT	all
+33	Glycolysis Gluconeogenesis	DLD	all
+34	Glycolysis Gluconeogenesis	LDHAL6A	all
+35	Glycolysis Gluconeogenesis	LDHAL6B	all
+36	Glycolysis Gluconeogenesis	LDHA	all
+37	Glycolysis Gluconeogenesis	LDHB	all
+38	Glycolysis Gluconeogenesis	LDHC	all
+39	Glycolysis Gluconeogenesis	ADH1A	all
+40	Glycolysis Gluconeogenesis	ADH1B	all
+41	Glycolysis Gluconeogenesis	ADH1C	all
+42	Glycolysis Gluconeogenesis	ADH7	all
+43	Glycolysis Gluconeogenesis	ADH4	all
+44	Glycolysis Gluconeogenesis	ADH5	all
+45	Glycolysis Gluconeogenesis	ADH6	all
+46	Glycolysis Gluconeogenesis	AKR1A1	all
+47	Glycolysis Gluconeogenesis	ALDH2	all
+48	Glycolysis Gluconeogenesis	ALDH3A2	all
+49	Glycolysis Gluconeogenesis	ALDH1B1	all
+50	Glycolysis Gluconeogenesis	ALDH7A1	all
+51	Glycolysis Gluconeogenesis	ALDH9A1	all
+52	Glycolysis Gluconeogenesis	ALDH3B1	all
+53	Glycolysis Gluconeogenesis	ALDH3B2	all
+54	Glycolysis Gluconeogenesis	ALDH1A3	all
+55	Glycolysis Gluconeogenesis	ALDH3A1	all
+56	Glycolysis Gluconeogenesis	ACSS1	all
+57	Glycolysis Gluconeogenesis	ACSS2	all
+58	Glycolysis Gluconeogenesis	GALM	all
+59	Glycolysis Gluconeogenesis	PGM1	all
+60	Glycolysis Gluconeogenesis	PGM2	all
+61	Glycolysis Gluconeogenesis	G6PC	all
+62	Glycolysis Gluconeogenesis	G6PC2	all
+63	Glycolysis Gluconeogenesis	G6PC3	all
+64	Glycolysis Gluconeogenesis	ADPGK	all
+65	Glycolysis Gluconeogenesis	BPGM	all
+66	Glycolysis Gluconeogenesis	MINPP1	all
+67	Glycolysis Gluconeogenesis	PCK1	all
+68	Glycolysis Gluconeogenesis	PCK2	all
+69	Pentose phosphate pathway	GPI	all
+70	Pentose phosphate pathway	G6PD	all
+71	Pentose phosphate pathway	PGLS	all
+72	Pentose phosphate pathway	H6PD	all
+73	Pentose phosphate pathway	PGD	all
+74	Pentose phosphate pathway	RPE	all
+75	Pentose phosphate pathway	RPEL1	all
+76	Pentose phosphate pathway	TKT	all
+77	Pentose phosphate pathway	TKTL2	all
+78	Pentose phosphate pathway	TKTL1	all
+79	Pentose phosphate pathway	TALDO1	all
+80	Pentose phosphate pathway	RPIA	all
+81	Pentose phosphate pathway	DERA	all
+82	Pentose phosphate pathway	RBKS	all
+83	Pentose phosphate pathway	PGM1	all
+84	Pentose phosphate pathway	PGM2	all
+85	Pentose phosphate pathway	PRPS1L1	all
+86	Pentose phosphate pathway	PRPS2	all
+87	Pentose phosphate pathway	PRPS1	all
+88	Pentose phosphate pathway	RGN	all
+89	Pentose phosphate pathway	IDNK	all
+90	Pentose phosphate pathway	GLYCTK	all
+91	Pentose phosphate pathway	ALDOC	all
+92	Pentose phosphate pathway	ALDOA	all
+93	Pentose phosphate pathway	ALDOB	all
+94	Pentose phosphate pathway	FBP1	all
+95	Pentose phosphate pathway	FBP2	all
+96	Pentose phosphate pathway	PFKM	all
+97	Pentose phosphate pathway	PFKP	all
+98	Pentose phosphate pathway	PFKL	all
+99	Pentose and glucuronate interconversions	GUSB	all
+100	Pentose and glucuronate interconversions	KL	all
+101	Pentose and glucuronate interconversions	UGT2A1	all
+102	Pentose and glucuronate interconversions	UGT2A3	all
+103	Pentose and glucuronate interconversions	UGT2B17	all
+104	Pentose and glucuronate interconversions	UGT2B11	all
+105	Pentose and glucuronate interconversions	UGT2B28	all
+106	Pentose and glucuronate interconversions	UGT1A6	all
+107	Pentose and glucuronate interconversions	UGT1A4	all
+108	Pentose and glucuronate interconversions	UGT1A1	all
+109	Pentose and glucuronate interconversions	UGT1A3	all
+110	Pentose and glucuronate interconversions	UGT2B10	all
+111	Pentose and glucuronate interconversions	UGT1A9	all
+112	Pentose and glucuronate interconversions	UGT2B7	all
+113	Pentose and glucuronate interconversions	UGT1A10	all
+114	Pentose and glucuronate interconversions	UGT1A8	all
+115	Pentose and glucuronate interconversions	UGT1A5	all
+116	Pentose and glucuronate interconversions	UGT2B15	all
+117	Pentose and glucuronate interconversions	UGT1A7	all
+118	Pentose and glucuronate interconversions	UGT2B4	all
+119	Pentose and glucuronate interconversions	UGT2A2	all
+120	Pentose and glucuronate interconversions	UGDH	all
+121	Pentose and glucuronate interconversions	UGP2	all
+122	Pentose and glucuronate interconversions	AKR1A1	all
+123	Pentose and glucuronate interconversions	CRYL1	all
+124	Pentose and glucuronate interconversions	RPE	all
+125	Pentose and glucuronate interconversions	RPEL1	all
+126	Pentose and glucuronate interconversions	XYLB	all
+127	Pentose and glucuronate interconversions	AKR1B1	all
+128	Pentose and glucuronate interconversions	AKR1B10	all
+129	Pentose and glucuronate interconversions	DCXR	all
+130	Pentose and glucuronate interconversions	SORD	all
+131	Pentose and glucuronate interconversions	DHDH	all
+132	Pentose and glucuronate interconversions	ISPD	all
+133	Fructose and mannose metabolism	MPI	all
+134	Fructose and mannose metabolism	PMM2	all
+135	Fructose and mannose metabolism	PMM1	all
+136	Fructose and mannose metabolism	GMPPB	all
+137	Fructose and mannose metabolism	GMPPA	all
+138	Fructose and mannose metabolism	GMDS	all
+139	Fructose and mannose metabolism	TSTA3	all
+140	Fructose and mannose metabolism	FPGT	all
+141	Fructose and mannose metabolism	FUK	all
+142	Fructose and mannose metabolism	ENOSF1	all
+143	Fructose and mannose metabolism	HK3	all
+144	Fructose and mannose metabolism	HK1	all
+145	Fructose and mannose metabolism	HK2	all
+146	Fructose and mannose metabolism	HKDC1	all
+147	Fructose and mannose metabolism	PFKM	all
+148	Fructose and mannose metabolism	PFKP	all
+149	Fructose and mannose metabolism	PFKL	all
+150	Fructose and mannose metabolism	FBP1	all
+151	Fructose and mannose metabolism	FBP2	all
+152	Fructose and mannose metabolism	PFKFB1	all
+153	Fructose and mannose metabolism	PFKFB2	all
+154	Fructose and mannose metabolism	PFKFB3	all
+155	Fructose and mannose metabolism	PFKFB4	all
+156	Fructose and mannose metabolism	TIGAR	all
+157	Fructose and mannose metabolism	KHK	all
+158	Fructose and mannose metabolism	SORD	all
+159	Fructose and mannose metabolism	AKR1B1	all
+160	Fructose and mannose metabolism	AKR1B10	all
+161	Fructose and mannose metabolism	ALDOC	all
+162	Fructose and mannose metabolism	ALDOA	all
+163	Fructose and mannose metabolism	ALDOB	all
+164	Fructose and mannose metabolism	TPI1	all
+165	Fructose and mannose metabolism	TKFC	all
+166	Galactose metabolism	GALM	all
+167	Galactose metabolism	GALK1	all
+168	Galactose metabolism	GALT	all
+169	Galactose metabolism	GALE	all
+170	Galactose metabolism	UGP2	all
+171	Galactose metabolism	PGM1	all
+172	Galactose metabolism	PGM2	all
+173	Galactose metabolism	HK3	all
+174	Galactose metabolism	HK1	all
+175	Galactose metabolism	HK2	all
+176	Galactose metabolism	HKDC1	all
+177	Galactose metabolism	GCK	all
+178	Galactose metabolism	G6PC	all
+179	Galactose metabolism	G6PC2	all
+180	Galactose metabolism	G6PC3	all
+181	Galactose metabolism	GLB1	all
+182	Galactose metabolism	LCT	all
+183	Galactose metabolism	LALBA	all
+184	Galactose metabolism	B4GALT1	all
+185	Galactose metabolism	B4GALT2	all
+186	Galactose metabolism	GLA	all
+187	Galactose metabolism	AKR1B1	all
+188	Galactose metabolism	AKR1B10	all
+189	Galactose metabolism	PFKM	all
+190	Galactose metabolism	PFKP	all
+191	Galactose metabolism	PFKL	all
+192	Galactose metabolism	MGAM	all
+193	Galactose metabolism	MGAM2	all
+194	Galactose metabolism	GAA	all
+195	Galactose metabolism	GANC	all
+196	Galactose metabolism	SI	all
+197	Starch and sucrose metabolism	MGAM	all
+198	Starch and sucrose metabolism	MGAM2	all
+199	Starch and sucrose metabolism	GAA	all
+200	Starch and sucrose metabolism	GANC	all
+201	Starch and sucrose metabolism	SI	all
+202	Starch and sucrose metabolism	UGP2	all
+203	Starch and sucrose metabolism	ENPP1	all
+204	Starch and sucrose metabolism	ENPP3	all
+205	Starch and sucrose metabolism	GBA3	all
+206	Starch and sucrose metabolism	GYS2	all
+207	Starch and sucrose metabolism	GYS1	all
+208	Starch and sucrose metabolism	GYG1	all
+209	Starch and sucrose metabolism	GYG2	all
+210	Starch and sucrose metabolism	GBE1	all
+211	Starch and sucrose metabolism	PYGL	all
+212	Starch and sucrose metabolism	PYGM	all
+213	Starch and sucrose metabolism	PYGB	all
+214	Starch and sucrose metabolism	AGL	all
+215	Starch and sucrose metabolism	AMY1C	all
+216	Starch and sucrose metabolism	AMY2A	all
+217	Starch and sucrose metabolism	AMY1A	all
+218	Starch and sucrose metabolism	AMY2B	all
+219	Starch and sucrose metabolism	AMY1B	all
+220	Starch and sucrose metabolism	TREH	all
+221	Starch and sucrose metabolism	PGM1	all
+222	Starch and sucrose metabolism	PGM2	all
+223	Starch and sucrose metabolism	HK3	all
+224	Starch and sucrose metabolism	HK1	all
+225	Starch and sucrose metabolism	HK2	all
+226	Starch and sucrose metabolism	HKDC1	all
+227	Starch and sucrose metabolism	GCK	all
+228	Starch and sucrose metabolism	G6PC	all
+229	Starch and sucrose metabolism	G6PC2	all
+230	Starch and sucrose metabolism	G6PC3	all
+231	Starch and sucrose metabolism	PGM2L1	all
+232	Starch and sucrose metabolism	GPI	all
+233	Amino sugar and nucleotide sugar metabolism	CHIA	all
+234	Amino sugar and nucleotide sugar metabolism	CHIT1	all
+235	Amino sugar and nucleotide sugar metabolism	HEXA	all
+236	Amino sugar and nucleotide sugar metabolism	HEXB	all
+237	Amino sugar and nucleotide sugar metabolism	NAGK	all
+238	Amino sugar and nucleotide sugar metabolism	PGM3	all
+239	Amino sugar and nucleotide sugar metabolism	UAP1	all
+240	Amino sugar and nucleotide sugar metabolism	UAP1L1	all
+241	Amino sugar and nucleotide sugar metabolism	GNE	all
+242	Amino sugar and nucleotide sugar metabolism	RENBP	all
+243	Amino sugar and nucleotide sugar metabolism	NANS	all
+244	Amino sugar and nucleotide sugar metabolism	NANP	all
+245	Amino sugar and nucleotide sugar metabolism	NPL	all
+246	Amino sugar and nucleotide sugar metabolism	CMAS	all
+247	Amino sugar and nucleotide sugar metabolism	CYB5R1	all
+248	Amino sugar and nucleotide sugar metabolism	CYB5R3	all
+249	Amino sugar and nucleotide sugar metabolism	CYB5R2	all
+250	Amino sugar and nucleotide sugar metabolism	CYB5RL	all
+251	Amino sugar and nucleotide sugar metabolism	CYB5R4	all
+252	Amino sugar and nucleotide sugar metabolism	HK3	all
+253	Amino sugar and nucleotide sugar metabolism	HK1	all
+254	Amino sugar and nucleotide sugar metabolism	HK2	all
+255	Amino sugar and nucleotide sugar metabolism	HKDC1	all
+256	Amino sugar and nucleotide sugar metabolism	AMDHD2	all
+257	Amino sugar and nucleotide sugar metabolism	GNPNAT1	all
+258	Amino sugar and nucleotide sugar metabolism	GNPDA1	all
+259	Amino sugar and nucleotide sugar metabolism	GNPDA2	all
+260	Amino sugar and nucleotide sugar metabolism	GFPT2	all
+261	Amino sugar and nucleotide sugar metabolism	GFPT1	all
+262	Amino sugar and nucleotide sugar metabolism	UXS1	all
+263	Amino sugar and nucleotide sugar metabolism	GCK	all
+264	Amino sugar and nucleotide sugar metabolism	GPI	all
+265	Amino sugar and nucleotide sugar metabolism	PGM1	all
+266	Amino sugar and nucleotide sugar metabolism	PGM2	all
+267	Amino sugar and nucleotide sugar metabolism	UGP2	all
+268	Amino sugar and nucleotide sugar metabolism	UGDH	all
+269	Amino sugar and nucleotide sugar metabolism	GALK1	all
+270	Amino sugar and nucleotide sugar metabolism	GALT	all
+271	Amino sugar and nucleotide sugar metabolism	GALE	all
+272	Amino sugar and nucleotide sugar metabolism	PMM2	all
+273	Amino sugar and nucleotide sugar metabolism	PMM1	all
+274	Amino sugar and nucleotide sugar metabolism	GMPPB	all
+275	Amino sugar and nucleotide sugar metabolism	GMPPA	all
+276	Amino sugar and nucleotide sugar metabolism	GMDS	all
+277	Amino sugar and nucleotide sugar metabolism	MPI	all
+278	Amino sugar and nucleotide sugar metabolism	FUK	all
+279	Amino sugar and nucleotide sugar metabolism	FPGT	all
+280	Amino sugar and nucleotide sugar metabolism	TSTA3	all
+281	Pyruvate metabolism	ACSS1	all
+282	Pyruvate metabolism	ACSS2	all
+283	Pyruvate metabolism	PDHA2	all
+284	Pyruvate metabolism	PDHA1	all
+285	Pyruvate metabolism	PDHB	all
+286	Pyruvate metabolism	DLAT	all
+287	Pyruvate metabolism	DLD	all
+288	Pyruvate metabolism	PKM	all
+289	Pyruvate metabolism	PKLR	all
+290	Pyruvate metabolism	ACACA	all
+291	Pyruvate metabolism	ACACB	all
+292	Pyruvate metabolism	ACYP2	all
+293	Pyruvate metabolism	ACYP1	all
+294	Pyruvate metabolism	ALDH2	all
+295	Pyruvate metabolism	ALDH3A2	all
+296	Pyruvate metabolism	ALDH1B1	all
+297	Pyruvate metabolism	ALDH7A1	all
+298	Pyruvate metabolism	ALDH9A1	all
+299	Pyruvate metabolism	ACOT12	all
+300	Pyruvate metabolism	LDHAL6A	all
+301	Pyruvate metabolism	LDHAL6B	all
+302	Pyruvate metabolism	LDHA	all
+303	Pyruvate metabolism	LDHB	all
+304	Pyruvate metabolism	LDHC	all
+305	Pyruvate metabolism	LDHD	all
+306	Pyruvate metabolism	GLO1	all
+307	Pyruvate metabolism	HAGH	all
+308	Pyruvate metabolism	GRHPR	all
+309	Pyruvate metabolism	ME2	all
+310	Pyruvate metabolism	ME3	all
+311	Pyruvate metabolism	ME1	all
+312	Pyruvate metabolism	PC	all
+313	Pyruvate metabolism	MDH1	all
+314	Pyruvate metabolism	MDH2	all
+315	Pyruvate metabolism	FH	all
+316	Pyruvate metabolism	PCK1	all
+317	Pyruvate metabolism	PCK2	all
+318	Pyruvate metabolism	ACAT2	all
+319	Pyruvate metabolism	ACAT1	all
+320	N Glycan biosynthesis	DOLK	all
+321	N Glycan biosynthesis	DPAGT1	all
+322	N Glycan biosynthesis	ALG5	all
+323	N Glycan biosynthesis	ALG13	all
+324	N Glycan biosynthesis	ALG14	all
+325	N Glycan biosynthesis	DPM1	all
+326	N Glycan biosynthesis	DPM2	all
+327	N Glycan biosynthesis	DPM3	all
+328	N Glycan biosynthesis	ALG1	all
+329	N Glycan biosynthesis	ALG2	all
+330	N Glycan biosynthesis	ALG11	all
+331	N Glycan biosynthesis	ALG3	all
+332	N Glycan biosynthesis	ALG9	all
+333	N Glycan biosynthesis	ALG12	all
+334	N Glycan biosynthesis	ALG6	all
+335	N Glycan biosynthesis	ALG8	all
+336	N Glycan biosynthesis	ALG10	all
+337	N Glycan biosynthesis	ALG10B	all
+338	N Glycan biosynthesis	STT3A	all
+339	N Glycan biosynthesis	STT3B	all
+340	N Glycan biosynthesis	RPN1	all
+341	N Glycan biosynthesis	RPN2	all
+342	N Glycan biosynthesis	DAD1	all
+343	N Glycan biosynthesis	TUSC3	all
+344	N Glycan biosynthesis	DDOST	all
+345	N Glycan biosynthesis	DOLPP1	all
+346	N Glycan biosynthesis	MOGS	all
+347	N Glycan biosynthesis	GANAB	all
+348	N Glycan biosynthesis	MAN1B1	all
+349	N Glycan biosynthesis	MAN1A2	all
+350	N Glycan biosynthesis	MAN1C1	all
+351	N Glycan biosynthesis	MAN1A1	all
+352	N Glycan biosynthesis	MGAT1	all
+353	N Glycan biosynthesis	MAN2A1	all
+354	N Glycan biosynthesis	MAN2A2	all
+355	N Glycan biosynthesis	MGAT2	all
+356	N Glycan biosynthesis	FUT8	all
+357	N Glycan biosynthesis	B4GALT1	all
+358	N Glycan biosynthesis	B4GALT2	all
+359	N Glycan biosynthesis	B4GALT3	all
+360	N Glycan biosynthesis	ST6GAL1	all
+361	N Glycan biosynthesis	ST6GAL2	all
+362	N Glycan biosynthesis	MGAT3	all
+363	N Glycan biosynthesis	MGAT4A	all
+364	N Glycan biosynthesis	MGAT4B	all
+365	N Glycan biosynthesis	MGAT4D	all
+366	N Glycan biosynthesis	MGAT5	all
+367	N Glycan biosynthesis	MGAT5B	all
+368	N Glycan biosynthesis	MGAT4C	all
+369	O Glycan biosynthesis	GALNTL6	all
+370	O Glycan biosynthesis	GALNT5	all
+371	O Glycan biosynthesis	GALNT17	all
+372	O Glycan biosynthesis	GALNT11	all
+373	O Glycan biosynthesis	GALNT12	all
+374	O Glycan biosynthesis	GALNT13	all
+375	O Glycan biosynthesis	GALNT14	all
+376	O Glycan biosynthesis	GALNT16	all
+377	O Glycan biosynthesis	GALNT15	all
+378	O Glycan biosynthesis	GALNT18	all
+379	O Glycan biosynthesis	GALNTL5	all
+380	O Glycan biosynthesis	GALNT10	all
+381	O Glycan biosynthesis	GALNT2	all
+382	O Glycan biosynthesis	GALNT3	all
+383	O Glycan biosynthesis	GALNT1	all
+384	O Glycan biosynthesis	GALNT6	all
+385	O Glycan biosynthesis	GALNT4	all
+386	O Glycan biosynthesis	GALNT9	all
+387	O Glycan biosynthesis	GALNT7	all
+388	O Glycan biosynthesis	GALNT8	all
+389	O Glycan biosynthesis	POC1B	all
+390	O Glycan biosynthesis	C1GALT1	all
+391	O Glycan biosynthesis	C1GALT1C1	all
+392	O Glycan biosynthesis	GCNT1	all
+393	O Glycan biosynthesis	GCNT3	all
+394	O Glycan biosynthesis	GCNT4	all
+395	O Glycan biosynthesis	ST3GAL1	all
+396	O Glycan biosynthesis	ST3GAL2	all
+397	O Glycan biosynthesis	ST6GALNAC1	all
+398	O Glycan biosynthesis	B3GNT6	all
+399	O Glycan biosynthesis	B4GALT5	all
+400	O Glycan biosynthesis	POMT1	all
+401	O Glycan biosynthesis	POMT2	all
+402	O Glycan biosynthesis	POMGNT1	all
+403	O Glycan biosynthesis	B4GALT1	all
+404	O Glycan biosynthesis	B4GALT2	all
+405	O Glycan biosynthesis	B4GALT3	all
+406	O Glycan biosynthesis	ST3GAL3	all
+407	O Glycan biosynthesis	B3GAT1	all
+408	O Glycan biosynthesis	B3GAT2	all
+409	O Glycan biosynthesis	CHST10	all
+410	O Glycan biosynthesis	FUT9	all
+411	O Glycan biosynthesis	FUT4	all
+412	O Glycan biosynthesis	MGAT5B	all
+413	O Glycan biosynthesis	POMGNT2	all
+414	O Glycan biosynthesis	B3GALNT2	all
+415	O Glycan biosynthesis	POMK	all
+416	O Glycan biosynthesis	ISPD	all
+417	O Glycan biosynthesis	FKTN	all
+418	O Glycan biosynthesis	FKRP	all
+419	O Glycan biosynthesis	RXYLT1	all
+420	O Glycan biosynthesis	B4GAT1	all
+421	O Glycan biosynthesis	LARGE1	all
+422	O Glycan biosynthesis	LARGE2	all
+423	O Glycan biosynthesis	OGT	all
+424	O Glycan biosynthesis	EOGT	all
+425	O Glycan biosynthesis	POFUT1	all
+426	O Glycan biosynthesis	POFUT2	all
+427	O Glycan biosynthesis	MFNG	all
+428	O Glycan biosynthesis	LFNG	all
+429	O Glycan biosynthesis	RFNG	all
+430	O Glycan biosynthesis	B4GALT1	all
+431	O Glycan biosynthesis	B4GALT2	all
+432	O Glycan biosynthesis	B4GALT3	all
+433	O Glycan biosynthesis	ST6GAL1	all
+434	O Glycan biosynthesis	ST6GAL2	all
+435	O Glycan biosynthesis	ST3GAL3	all
+436	O Glycan biosynthesis	B3GLCT	all
+437	O Glycan biosynthesis	POGLUT1	all
+438	O Glycan biosynthesis	GXYLT1	all
+439	O Glycan biosynthesis	GXYLT2	all
+440	O Glycan biosynthesis	COLGALT1	all
+441	O Glycan biosynthesis	COLGALT2	all
+442	O Glycan biosynthesis	PLOD3	all
+443	O Glycan biosynthesis	POMT1	all
+444	O Glycan biosynthesis	POMT2	all
+445	Glycosaminoglycan biosynthesis	XYLT1	all
+446	Glycosaminoglycan biosynthesis	XYLT2	all
+447	Glycosaminoglycan biosynthesis	B4GALT7	all
+448	Glycosaminoglycan biosynthesis	B3GALT6	all
+449	Glycosaminoglycan biosynthesis	B3GAT3	all
+450	Glycosaminoglycan biosynthesis	CSGALNACT1	all
+451	Glycosaminoglycan biosynthesis	CSGALNACT2	all
+452	Glycosaminoglycan biosynthesis	CHSY3	all
+453	Glycosaminoglycan biosynthesis	CHSY1	all
+454	Glycosaminoglycan biosynthesis	CHPF	all
+455	Glycosaminoglycan biosynthesis	CHPF2	all
+456	Glycosaminoglycan biosynthesis	DSE	all
+457	Glycosaminoglycan biosynthesis	CHST11	all
+458	Glycosaminoglycan biosynthesis	CHST12	all
+459	Glycosaminoglycan biosynthesis	CHST13	all
+460	Glycosaminoglycan biosynthesis	CHST3	all
+461	Glycosaminoglycan biosynthesis	CHST7	all
+462	Glycosaminoglycan biosynthesis	CHST15	all
+463	Glycosaminoglycan biosynthesis	UST	all
+464	Glycosaminoglycan biosynthesis	CHST14	all
+465	Glycosaminoglycan biosynthesis	XYLT1	all
+466	Glycosaminoglycan biosynthesis	XYLT2	all
+467	Glycosaminoglycan biosynthesis	B4GALT7	all
+468	Glycosaminoglycan biosynthesis	B3GALT6	all
+469	Glycosaminoglycan biosynthesis	B3GAT3	all
+470	Glycosaminoglycan biosynthesis	EXTL2	all
+471	Glycosaminoglycan biosynthesis	EXTL3	all
+472	Glycosaminoglycan biosynthesis	EXTL1	all
+473	Glycosaminoglycan biosynthesis	EXT1	all
+474	Glycosaminoglycan biosynthesis	EXT2	all
+475	Glycosaminoglycan biosynthesis	NDST1	all
+476	Glycosaminoglycan biosynthesis	NDST2	all
+477	Glycosaminoglycan biosynthesis	NDST3	all
+478	Glycosaminoglycan biosynthesis	NDST4	all
+479	Glycosaminoglycan biosynthesis	GLCE	all
+480	Glycosaminoglycan biosynthesis	HS2ST1	all
+481	Glycosaminoglycan biosynthesis	HS6ST1	all
+482	Glycosaminoglycan biosynthesis	HS6ST2	all
+483	Glycosaminoglycan biosynthesis	HS6ST3	all
+484	Glycosaminoglycan biosynthesis	HS3ST1	all
+485	Glycosaminoglycan biosynthesis	HS3ST2	all
+486	Glycosaminoglycan biosynthesis	HS3ST3B1	all
+487	Glycosaminoglycan biosynthesis	HS3ST3A1	all
+488	Glycosaminoglycan biosynthesis	HS3ST5	all
+489	Glycosaminoglycan biosynthesis	FUT8	all
+490	Glycosaminoglycan biosynthesis	B4GALT1	all
+491	Glycosaminoglycan biosynthesis	B4GALT2	all
+492	Glycosaminoglycan biosynthesis	B4GALT3	all
+493	Glycosaminoglycan biosynthesis	B3GNT2	all
+494	Glycosaminoglycan biosynthesis	CHST6	all
+495	Glycosaminoglycan biosynthesis	B4GALT4	all
+496	Glycosaminoglycan biosynthesis	B3GNT7	all
+497	Glycosaminoglycan biosynthesis	CHST1	all
+498	Glycosaminoglycan biosynthesis	ST3GAL3	all
+499	Glycosaminoglycan biosynthesis	CHST2	all
+500	Glycosaminoglycan biosynthesis	CHST4	all
+501	Glycosaminoglycan biosynthesis	ST3GAL1	all
+502	Glycosaminoglycan biosynthesis	ST3GAL2	all
+503	Glycosaminoglycan degradation	HYAL2	all
+504	Glycosaminoglycan degradation	HYAL1	all
+505	Glycosaminoglycan degradation	SPAM1	all
+506	Glycosaminoglycan degradation	HYAL4	all
+507	Glycosaminoglycan degradation	HYAL3	all
+508	Glycosaminoglycan degradation	GUSB	all
+509	Glycosaminoglycan degradation	IDS	all
+510	Glycosaminoglycan degradation	IDUA	all
+511	Glycosaminoglycan degradation	ARSB	all
+512	Glycosaminoglycan degradation	HPSE	all
+513	Glycosaminoglycan degradation	HPSE2	all
+514	Glycosaminoglycan degradation	SGSH	all
+515	Glycosaminoglycan degradation	HGSNAT	all
+516	Glycosaminoglycan degradation	NAGLU	all
+517	Glycosaminoglycan degradation	GALNS	all
+518	Glycosaminoglycan degradation	GLB1	all
+519	Glycosaminoglycan degradation	GNS	all
+520	Glycosaminoglycan degradation	HEXA	all
+521	Glycosaminoglycan degradation	HEXB	all
+522	Other glycan degradation	NEU1	all
+523	Other glycan degradation	NEU3	all
+524	Other glycan degradation	NEU4	all
+525	Other glycan degradation	NEU2	all
+526	Other glycan degradation	GLB1	all
+527	Other glycan degradation	HEXA	all
+528	Other glycan degradation	HEXB	all
+529	Other glycan degradation	HEXDC	all
+530	Other glycan degradation	MAN2C1	all
+531	Other glycan degradation	MAN2B1	all
+532	Other glycan degradation	MAN2B2	all
+533	Other glycan degradation	MANBA	all
+534	Other glycan degradation	ENGASE	all
+535	Other glycan degradation	FUCA1	all
+536	Other glycan degradation	FUCA2	all
+537	Other glycan degradation	AGA	all
+538	Other glycan degradation	GBA	all
+539	Other glycan degradation	GBA2	all
+540	Propanoate metabolism	ACSS1	all
+541	Propanoate metabolism	ACSS2	all
+542	Propanoate metabolism	ACSS3	all
+543	Propanoate metabolism	BCKDHA	all
+544	Propanoate metabolism	BCKDHB	all
+545	Propanoate metabolism	DBT	all
+546	Propanoate metabolism	DLD	all
+547	Propanoate metabolism	ACADM	all
+548	Propanoate metabolism	HADHA	all
+549	Propanoate metabolism	EHHADH	all
+550	Propanoate metabolism	ECHS1	all
+551	Propanoate metabolism	HIBCH	all
+552	Propanoate metabolism	ACACA	all
+553	Propanoate metabolism	ACACB	all
+554	Propanoate metabolism	MLYCD	all
+555	Propanoate metabolism	ABAT	all
+556	Propanoate metabolism	PCCA	all
+557	Propanoate metabolism	PCCB	all
+558	Propanoate metabolism	ECHDC1	all
+559	Propanoate metabolism	MCEE	all
+560	Propanoate metabolism	MUT	all
+561	Propanoate metabolism	SUCLG1	all
+562	Propanoate metabolism	SUCLG2	all
+563	Propanoate metabolism	SUCLA2	all
+564	Propanoate metabolism	ALDH6A1	all
+565	Propanoate metabolism	LDHAL6A	all
+566	Propanoate metabolism	LDHAL6B	all
+567	Propanoate metabolism	LDHA	all
+568	Propanoate metabolism	LDHB	all
+569	Propanoate metabolism	LDHC	all
+570	Propanoate metabolism	ACAT2	all
+571	Propanoate metabolism	ACAT1	all
+572	Butanoate metabolism	ACAT2	all
+573	Butanoate metabolism	ACAT1	all
+574	Butanoate metabolism	HADH	all
+575	Butanoate metabolism	HADHA	all
+576	Butanoate metabolism	EHHADH	all
+577	Butanoate metabolism	ECHS1	all
+578	Butanoate metabolism	ACADS	all
+579	Butanoate metabolism	ACSM1	all
+580	Butanoate metabolism	ACSM2A	all
+581	Butanoate metabolism	ACSM4	all
+582	Butanoate metabolism	ACSM5	all
+583	Butanoate metabolism	ACSM3	all
+584	Butanoate metabolism	ACSM2B	all
+585	Butanoate metabolism	ACSM6	all
+586	Butanoate metabolism	L2HGDH	all
+587	Butanoate metabolism	GAD1	all
+588	Butanoate metabolism	GAD2	all
+589	Butanoate metabolism	ABAT	all
+590	Butanoate metabolism	ALDH5A1	all
+591	Butanoate metabolism	HMGCS1	all
+592	Butanoate metabolism	HMGCS2	all
+593	Butanoate metabolism	HMGCL	all
+594	Butanoate metabolism	HMGCLL1	all
+595	Butanoate metabolism	OXCT1	all
+596	Butanoate metabolism	OXCT2	all
+597	Butanoate metabolism	AACS	all
+598	Butanoate metabolism	BDH1	all
+599	Butanoate metabolism	BDH2	all
+600	Inositol phosphate metabolism	PIK3C3	all
+601	Inositol phosphate metabolism	MTM1	all
+602	Inositol phosphate metabolism	MTMR1	all
+603	Inositol phosphate metabolism	MTMR2	all
+604	Inositol phosphate metabolism	MTMR3	all
+605	Inositol phosphate metabolism	MTMR4	all
+606	Inositol phosphate metabolism	MTMR8	all
+607	Inositol phosphate metabolism	MTMR6	all
+608	Inositol phosphate metabolism	MTMR7	all
+609	Inositol phosphate metabolism	MTMR14	all
+610	Inositol phosphate metabolism	PI4KA	all
+611	Inositol phosphate metabolism	PI4KB	all
+612	Inositol phosphate metabolism	PI4K2A	all
+613	Inositol phosphate metabolism	PI4K2B	all
+614	Inositol phosphate metabolism	SACM1L	all
+615	Inositol phosphate metabolism	INPP5F	all
+616	Inositol phosphate metabolism	PIP5K1C	all
+617	Inositol phosphate metabolism	PIP5K1A	all
+618	Inositol phosphate metabolism	PIP5K1B	all
+619	Inositol phosphate metabolism	PIP5KL1	all
+620	Inositol phosphate metabolism	OCRL	all
+621	Inositol phosphate metabolism	INPP5B	all
+622	Inositol phosphate metabolism	INPP5E	all
+623	Inositol phosphate metabolism	SYNJ1	all
+624	Inositol phosphate metabolism	SYNJ2	all
+625	Inositol phosphate metabolism	PIK3CA	all
+626	Inositol phosphate metabolism	PIK3CD	all
+627	Inositol phosphate metabolism	PIK3CB	all
+628	Inositol phosphate metabolism	PIK3CG	all
+629	Inositol phosphate metabolism	PTEN	all
+630	Inositol phosphate metabolism	INPP5D	all
+631	Inositol phosphate metabolism	INPPL1	all
+632	Inositol phosphate metabolism	PIK3C2G	all
+633	Inositol phosphate metabolism	PIK3C2A	all
+634	Inositol phosphate metabolism	PIK3C2B	all
+635	Inositol phosphate metabolism	INPP4A	all
+636	Inositol phosphate metabolism	INPP4B	all
+637	Inositol phosphate metabolism	PIKFYVE	all
+638	Inositol phosphate metabolism	PIP4K2C	all
+639	Inositol phosphate metabolism	PIP4K2A	all
+640	Inositol phosphate metabolism	PIP4K2B	all
+641	Inositol phosphate metabolism	PLCB1	all
+642	Inositol phosphate metabolism	PLCB2	all
+643	Inositol phosphate metabolism	PLCB3	all
+644	Inositol phosphate metabolism	PLCB4	all
+645	Inositol phosphate metabolism	PLCD1	all
+646	Inositol phosphate metabolism	PLCD3	all
+647	Inositol phosphate metabolism	PLCD4	all
+648	Inositol phosphate metabolism	PLCE1	all
+649	Inositol phosphate metabolism	PLCG1	all
+650	Inositol phosphate metabolism	PLCG2	all
+651	Inositol phosphate metabolism	PLCZ1	all
+652	Inositol phosphate metabolism	PLCH1	all
+653	Inositol phosphate metabolism	PLCH2	all
+654	Inositol phosphate metabolism	IMPA2	all
+655	Inositol phosphate metabolism	IMPA1	all
+656	Inositol phosphate metabolism	IMPAD1	all
+657	Inositol phosphate metabolism	CDIPT	all
+658	Inositol phosphate metabolism	ISYNA1	all
+659	Inositol phosphate metabolism	INPP1	all
+660	Inositol phosphate metabolism	INPP5K	all
+661	Inositol phosphate metabolism	INPP5J	all
+662	Inositol phosphate metabolism	INPP5A	all
+663	Inositol phosphate metabolism	MINPP1	all
+664	Inositol phosphate metabolism	ITPKB	all
+665	Inositol phosphate metabolism	ITPKA	all
+666	Inositol phosphate metabolism	ITPKC	all
+667	Inositol phosphate metabolism	ITPK1	all
+668	Inositol phosphate metabolism	IPMK	all
+669	Inositol phosphate metabolism	IPPK	all
+670	Inositol phosphate metabolism	MIOX	all
+671	Inositol phosphate metabolism	ALDH6A1	all
+672	Inositol phosphate metabolism	TPI1	all
+673	Fatty acid biosynthesis	ACACA	all
+674	Fatty acid biosynthesis	ACACB	all
+675	Fatty acid biosynthesis	MCAT	all
+676	Fatty acid biosynthesis	FASN	all
+677	Fatty acid biosynthesis	OXSM	all
+678	Fatty acid biosynthesis	OLAH	all
+679	Fatty acid biosynthesis	ACSL6	all
+680	Fatty acid biosynthesis	ACSL4	all
+681	Fatty acid biosynthesis	ACSL1	all
+682	Fatty acid biosynthesis	ACSL5	all
+683	Fatty acid biosynthesis	ACSL3	all
+684	Fatty acid biosynthesis	ACSBG1	all
+685	Fatty acid biosynthesis	ACSBG2	all
+686	Fatty acid elongation	ACAA2	all
+687	Fatty acid elongation	HADHB	all
+688	Fatty acid elongation	HADH	all
+689	Fatty acid elongation	HADHA	all
+690	Fatty acid elongation	ECHS1	all
+691	Fatty acid elongation	MECR	all
+692	Fatty acid elongation	PPT1	all
+693	Fatty acid elongation	PPT2	all
+694	Fatty acid elongation	ABHD17A	all
+695	Fatty acid elongation	ABHD17B	all
+696	Fatty acid elongation	ABHD17C	all
+697	Fatty acid elongation	ELOVL1	all
+698	Fatty acid elongation	ELOVL2	all
+699	Fatty acid elongation	ELOVL3	all
+700	Fatty acid elongation	ELOVL4	all
+701	Fatty acid elongation	ELOVL5	all
+702	Fatty acid elongation	ELOVL6	all
+703	Fatty acid elongation	ELOVL7	all
+704	Fatty acid elongation	HSD17B12	all
+705	Fatty acid elongation	HACD2	all
+706	Fatty acid elongation	HACD1	all
+707	Fatty acid elongation	HACD4	all
+708	Fatty acid elongation	HACD3	all
+709	Fatty acid elongation	TECR	all
+710	Fatty acid elongation	ACOT4	all
+711	Fatty acid elongation	ACOT2	all
+712	Fatty acid elongation	ACOT1	all
+713	Fatty acid elongation	ACOT7	all
+714	Fatty acid elongation	THEM4	all
+715	Fatty acid elongation	THEM5	all
+716	Fatty acid degradation	ACAT2	all
+717	Fatty acid degradation	ACAT1	all
+718	Fatty acid degradation	ACAA1	all
+719	Fatty acid degradation	ACAA2	all
+720	Fatty acid degradation	HADHB	all
+721	Fatty acid degradation	HADH	all
+722	Fatty acid degradation	HADHA	all
+723	Fatty acid degradation	EHHADH	all
+724	Fatty acid degradation	ECHS1	all
+725	Fatty acid degradation	ACOX3	all
+726	Fatty acid degradation	ACOX1	all
+727	Fatty acid degradation	ACADS	all
+728	Fatty acid degradation	ACADM	all
+729	Fatty acid degradation	ACADL	all
+730	Fatty acid degradation	ACADSB	all
+731	Fatty acid degradation	ACADVL	all
+732	Fatty acid degradation	GCDH	all
+733	Fatty acid degradation	ACSL6	all
+734	Fatty acid degradation	ACSL4	all
+735	Fatty acid degradation	ACSL1	all
+736	Fatty acid degradation	ACSL5	all
+737	Fatty acid degradation	ACSL3	all
+738	Fatty acid degradation	ACSBG1	all
+739	Fatty acid degradation	ACSBG2	all
+740	Fatty acid degradation	CPT1A	all
+741	Fatty acid degradation	CPT1B	all
+742	Fatty acid degradation	CPT1C	all
+743	Fatty acid degradation	CPT2	all
+744	Fatty acid degradation	ECI1	all
+745	Fatty acid degradation	ECI2	all
+746	Fatty acid degradation	CYP4A11	all
+747	Fatty acid degradation	CYP4A22	all
+748	Fatty acid degradation	ADH1A	all
+749	Fatty acid degradation	ADH1B	all
+750	Fatty acid degradation	ADH1C	all
+751	Fatty acid degradation	ADH7	all
+752	Fatty acid degradation	ADH4	all
+753	Fatty acid degradation	ADH5	all
+754	Fatty acid degradation	ADH6	all
+755	Fatty acid degradation	ALDH2	all
+756	Fatty acid degradation	ALDH3A2	all
+757	Fatty acid degradation	ALDH1B1	all
+758	Fatty acid degradation	ALDH7A1	all
+759	Fatty acid degradation	ALDH9A1	all
+760	Synthesis and degradation of ketone bodies	HMGCS1	all
+761	Synthesis and degradation of ketone bodies	HMGCS2	all
+762	Synthesis and degradation of ketone bodies	HMGCL	all
+763	Synthesis and degradation of ketone bodies	HMGCLL1	all
+764	Synthesis and degradation of ketone bodies	OXCT1	all
+765	Synthesis and degradation of ketone bodies	OXCT2	all
+766	Synthesis and degradation of ketone bodies	ACAT2	all
+767	Synthesis and degradation of ketone bodies	ACAT1	all
+768	Synthesis and degradation of ketone bodies	BDH1	all
+769	Synthesis and degradation of ketone bodies	BDH2	all
+770	Steroid biosynthesis	FDFT1	all
+771	Steroid biosynthesis	SQLE	all
+772	Steroid biosynthesis	LSS	all
+773	Steroid biosynthesis	CYP51A1	all
+774	Steroid biosynthesis	TM7SF2	all
+775	Steroid biosynthesis	MSMO1	all
+776	Steroid biosynthesis	NSDHL	all
+777	Steroid biosynthesis	HSD17B7	all
+778	Steroid biosynthesis	EBP	all
+779	Steroid biosynthesis	DHCR24	all
+780	Steroid biosynthesis	SC5D	all
+781	Steroid biosynthesis	DHCR7	all
+782	Steroid biosynthesis	LIPA	all
+783	Steroid biosynthesis	CEL	all
+784	Steroid biosynthesis	SOAT2	all
+785	Steroid biosynthesis	SOAT1	all
+786	Steroid biosynthesis	CYP2R1	all
+787	Steroid biosynthesis	CYP27B1	all
+788	Steroid biosynthesis	CYP24A1	all
+789	Primary bile acid biosynthesis	CYP46A1	all
+790	Primary bile acid biosynthesis	CYP39A1	all
+791	Primary bile acid biosynthesis	HSD3B7	all
+792	Primary bile acid biosynthesis	CH25H	all
+793	Primary bile acid biosynthesis	CYP7B1	all
+794	Primary bile acid biosynthesis	CYP7A1	all
+795	Primary bile acid biosynthesis	CYP27A1	all
+796	Primary bile acid biosynthesis	CYP8B1	all
+797	Primary bile acid biosynthesis	AKR1D1	all
+798	Primary bile acid biosynthesis	AKR1C4	all
+799	Primary bile acid biosynthesis	SLC27A5	all
+800	Primary bile acid biosynthesis	AMACR	all
+801	Primary bile acid biosynthesis	ACOX2	all
+802	Primary bile acid biosynthesis	HSD17B4	all
+803	Primary bile acid biosynthesis	SCP2	all
+804	Primary bile acid biosynthesis	ACOT8	all
+805	Primary bile acid biosynthesis	BAAT	all
+806	Steroid hormone biosynthesis	CYP11A1	all
+807	Steroid hormone biosynthesis	CYP17A1	all
+808	Steroid hormone biosynthesis	STS	all
+809	Steroid hormone biosynthesis	SULT2B1	all
+810	Steroid hormone biosynthesis	CYP21A2	all
+811	Steroid hormone biosynthesis	HSD3B1	all
+812	Steroid hormone biosynthesis	HSD3B2	all
+813	Steroid hormone biosynthesis	SRD5A1	all
+814	Steroid hormone biosynthesis	SRD5A2	all
+815	Steroid hormone biosynthesis	SRD5A3	all
+816	Steroid hormone biosynthesis	AKR1C2	all
+817	Steroid hormone biosynthesis	AKR1C3	all
+818	Steroid hormone biosynthesis	CYP11B1	all
+819	Steroid hormone biosynthesis	CYP11B2	all
+820	Steroid hormone biosynthesis	AKR1D1	all
+821	Steroid hormone biosynthesis	AKR1C4	all
+822	Steroid hormone biosynthesis	HSD11B1	all
+823	Steroid hormone biosynthesis	HSD11B2	all
+824	Steroid hormone biosynthesis	AKR1C1	all
+825	Steroid hormone biosynthesis	CYP7B1	all
+826	Steroid hormone biosynthesis	SULT1E1	all
+827	Steroid hormone biosynthesis	HSD17B1	all
+828	Steroid hormone biosynthesis	HSD17B2	all
+829	Steroid hormone biosynthesis	HSD17B6	all
+830	Steroid hormone biosynthesis	HSD17B7	all
+831	Steroid hormone biosynthesis	HSD17B8	all
+832	Steroid hormone biosynthesis	HSD17B12	all
+833	Steroid hormone biosynthesis	CYP1A1	all
+834	Steroid hormone biosynthesis	CYP1A2	all
+835	Steroid hormone biosynthesis	CYP3A5	all
+836	Steroid hormone biosynthesis	CYP3A7	all
+837	Steroid hormone biosynthesis	CYP3A51P	all
+838	Steroid hormone biosynthesis	CYP2E1	all
+839	Steroid hormone biosynthesis	CYP3A4	all
+840	Steroid hormone biosynthesis	CYP1B1	all
+841	Steroid hormone biosynthesis	CYP19A1	all
+842	Steroid hormone biosynthesis	CYP7A1	all
+843	Steroid hormone biosynthesis	UGT2A1	all
+844	Steroid hormone biosynthesis	UGT2A3	all
+845	Steroid hormone biosynthesis	UGT2B17	all
+846	Steroid hormone biosynthesis	UGT2B11	all
+847	Steroid hormone biosynthesis	UGT2B28	all
+848	Steroid hormone biosynthesis	UGT1A6	all
+849	Steroid hormone biosynthesis	UGT1A4	all
+850	Steroid hormone biosynthesis	UGT1A1	all
+851	Steroid hormone biosynthesis	UGT1A3	all
+852	Steroid hormone biosynthesis	UGT2B10	all
+853	Steroid hormone biosynthesis	UGT1A9	all
+854	Steroid hormone biosynthesis	UGT2B7	all
+855	Steroid hormone biosynthesis	UGT1A10	all
+856	Steroid hormone biosynthesis	UGT1A8	all
+857	Steroid hormone biosynthesis	UGT1A5	all
+858	Steroid hormone biosynthesis	UGT2B15	all
+859	Steroid hormone biosynthesis	UGT1A7	all
+860	Steroid hormone biosynthesis	UGT2B4	all
+861	Steroid hormone biosynthesis	UGT2A2	all
+862	Steroid hormone biosynthesis	COMT	all
+863	Steroid hormone biosynthesis	LRTOMT	all
+864	Steroid hormone biosynthesis	HSD17B3	all
+865	Glycerolipid metabolism	GLYCTK	all
+866	Glycerolipid metabolism	ALDH2	all
+867	Glycerolipid metabolism	ALDH3A2	all
+868	Glycerolipid metabolism	ALDH1B1	all
+869	Glycerolipid metabolism	ALDH7A1	all
+870	Glycerolipid metabolism	ALDH9A1	all
+871	Glycerolipid metabolism	AKR1B1	all
+872	Glycerolipid metabolism	AKR1B10	all
+873	Glycerolipid metabolism	AKR1A1	all
+874	Glycerolipid metabolism	TKFC	all
+875	Glycerolipid metabolism	GK2	all
+876	Glycerolipid metabolism	GK	all
+877	Glycerolipid metabolism	GPAM	all
+878	Glycerolipid metabolism	GPAT2	all
+879	Glycerolipid metabolism	GPAT4	all
+880	Glycerolipid metabolism	GPAT3	all
+881	Glycerolipid metabolism	AGPAT1	all
+882	Glycerolipid metabolism	AGPAT2	all
+883	Glycerolipid metabolism	AGPAT5	all
+884	Glycerolipid metabolism	LCLAT1	all
+885	Glycerolipid metabolism	MBOAT1	all
+886	Glycerolipid metabolism	MBOAT2	all
+887	Glycerolipid metabolism	AGPAT3	all
+888	Glycerolipid metabolism	AGPAT4	all
+889	Glycerolipid metabolism	PLPP1	all
+890	Glycerolipid metabolism	PLPP3	all
+891	Glycerolipid metabolism	PLPP2	all
+892	Glycerolipid metabolism	LPIN1	all
+893	Glycerolipid metabolism	LPIN3	all
+894	Glycerolipid metabolism	LPIN2	all
+895	Glycerolipid metabolism	PLPP5	all
+896	Glycerolipid metabolism	PLPP4	all
+897	Glycerolipid metabolism	DGKZ	all
+898	Glycerolipid metabolism	DGKD	all
+899	Glycerolipid metabolism	DGKI	all
+900	Glycerolipid metabolism	DGKA	all
+901	Glycerolipid metabolism	DGKE	all
+902	Glycerolipid metabolism	DGKB	all
+903	Glycerolipid metabolism	DGKH	all
+904	Glycerolipid metabolism	DGKG	all
+905	Glycerolipid metabolism	DGKQ	all
+906	Glycerolipid metabolism	DGKK	all
+907	Glycerolipid metabolism	DGAT1	all
+908	Glycerolipid metabolism	DGAT2	all
+909	Glycerolipid metabolism	MOGAT3	all
+910	Glycerolipid metabolism	CEL	all
+911	Glycerolipid metabolism	PNPLA2	all
+912	Glycerolipid metabolism	PNPLA3	all
+913	Glycerolipid metabolism	PNLIP	all
+914	Glycerolipid metabolism	PNLIPRP1	all
+915	Glycerolipid metabolism	PNLIPRP2	all
+916	Glycerolipid metabolism	PNLIPRP3	all
+917	Glycerolipid metabolism	LIPC	all
+918	Glycerolipid metabolism	LIPF	all
+919	Glycerolipid metabolism	LIPG	all
+920	Glycerolipid metabolism	LPL	all
+921	Glycerolipid metabolism	AGK	all
+922	Glycerolipid metabolism	MGLL	all
+923	Glycerolipid metabolism	MOGAT1	all
+924	Glycerolipid metabolism	MOGAT2	all
+925	Glycerolipid metabolism	GLA	all
+926	Glycerophospholipid metabolism	GPD1L	all
+927	Glycerophospholipid metabolism	GPD1	all
+928	Glycerophospholipid metabolism	GPD2	all
+929	Glycerophospholipid metabolism	GPAM	all
+930	Glycerophospholipid metabolism	GPAT2	all
+931	Glycerophospholipid metabolism	GPAT4	all
+932	Glycerophospholipid metabolism	GPAT3	all
+933	Glycerophospholipid metabolism	AGPAT1	all
+934	Glycerophospholipid metabolism	AGPAT2	all
+935	Glycerophospholipid metabolism	AGPAT5	all
+936	Glycerophospholipid metabolism	LCLAT1	all
+937	Glycerophospholipid metabolism	MBOAT1	all
+938	Glycerophospholipid metabolism	MBOAT2	all
+939	Glycerophospholipid metabolism	AGPAT3	all
+940	Glycerophospholipid metabolism	AGPAT4	all
+941	Glycerophospholipid metabolism	GNPAT	all
+942	Glycerophospholipid metabolism	ADPRM	all
+943	Glycerophospholipid metabolism	PLPP1	all
+944	Glycerophospholipid metabolism	PLPP3	all
+945	Glycerophospholipid metabolism	PLPP2	all
+946	Glycerophospholipid metabolism	LPIN1	all
+947	Glycerophospholipid metabolism	LPIN3	all
+948	Glycerophospholipid metabolism	LPIN2	all
+949	Glycerophospholipid metabolism	PLPP5	all
+950	Glycerophospholipid metabolism	PLPP4	all
+951	Glycerophospholipid metabolism	DGKZ	all
+952	Glycerophospholipid metabolism	DGKD	all
+953	Glycerophospholipid metabolism	DGKI	all
+954	Glycerophospholipid metabolism	DGKA	all
+955	Glycerophospholipid metabolism	DGKE	all
+956	Glycerophospholipid metabolism	DGKB	all
+957	Glycerophospholipid metabolism	DGKH	all
+958	Glycerophospholipid metabolism	DGKG	all
+959	Glycerophospholipid metabolism	DGKQ	all
+960	Glycerophospholipid metabolism	DGKK	all
+961	Glycerophospholipid metabolism	CHPT1	all
+962	Glycerophospholipid metabolism	CEPT1	all
+963	Glycerophospholipid metabolism	PLD1	all
+964	Glycerophospholipid metabolism	PLD2	all
+965	Glycerophospholipid metabolism	PLD3	all
+966	Glycerophospholipid metabolism	PLD4	all
+967	Glycerophospholipid metabolism	LCAT	all
+968	Glycerophospholipid metabolism	PLA2G10	all
+969	Glycerophospholipid metabolism	PLA2G2D	all
+970	Glycerophospholipid metabolism	PLA2G2E	all
+971	Glycerophospholipid metabolism	PLA2G3	all
+972	Glycerophospholipid metabolism	PLA2G2F	all
+973	Glycerophospholipid metabolism	PLA2G12A	all
+974	Glycerophospholipid metabolism	PLA2G12B	all
+975	Glycerophospholipid metabolism	PLA2G1B	all
+976	Glycerophospholipid metabolism	PLA2G5	all
+977	Glycerophospholipid metabolism	PLA2G2A	all
+978	Glycerophospholipid metabolism	PLA2G2C	all
+979	Glycerophospholipid metabolism	PLA2G4E	all
+980	Glycerophospholipid metabolism	PLA2G4A	all
+981	Glycerophospholipid metabolism	JMJD7	all
+982	Glycerophospholipid metabolism	PLA2G4B	all
+983	Glycerophospholipid metabolism	PLA2G4C	all
+984	Glycerophospholipid metabolism	PLA2G4D	all
+985	Glycerophospholipid metabolism	PLA2G4F	all
+986	Glycerophospholipid metabolism	PLA2G6	all
+987	Glycerophospholipid metabolism	PLB1	all
+988	Glycerophospholipid metabolism	PLA2G16	all
+989	Glycerophospholipid metabolism	LPCAT2	all
+990	Glycerophospholipid metabolism	LPCAT1	all
+991	Glycerophospholipid metabolism	LPCAT4	all
+992	Glycerophospholipid metabolism	LPCAT3	all
+993	Glycerophospholipid metabolism	LYPLA1	all
+994	Glycerophospholipid metabolism	PLA2G15	all
+995	Glycerophospholipid metabolism	LYPLA2	all
+996	Glycerophospholipid metabolism	PNPLA6	all
+997	Glycerophospholipid metabolism	PNPLA7	all
+998	Glycerophospholipid metabolism	GPCPD1	all
+999	Glycerophospholipid metabolism	CHAT	all
+1000	Glycerophospholipid metabolism	ACHE	all
+1001	Glycerophospholipid metabolism	CHKA	all
+1002	Glycerophospholipid metabolism	CHKB	all
+1003	Glycerophospholipid metabolism	PHOSPHO1	all
+1004	Glycerophospholipid metabolism	PCYT1B	all
+1005	Glycerophospholipid metabolism	PCYT1A	all
+1006	Glycerophospholipid metabolism	SELENOI	all
+1007	Glycerophospholipid metabolism	ETNK1	all
+1008	Glycerophospholipid metabolism	ETNK2	all
+1009	Glycerophospholipid metabolism	PCYT2	all
+1010	Glycerophospholipid metabolism	ETNPPL	all
+1011	Glycerophospholipid metabolism	PEMT	all
+1012	Glycerophospholipid metabolism	CDS1	all
+1013	Glycerophospholipid metabolism	CDS2	all
+1014	Glycerophospholipid metabolism	PTDSS1	all
+1015	Glycerophospholipid metabolism	PTDSS2	all
+1016	Glycerophospholipid metabolism	PISD	all
+1017	Glycerophospholipid metabolism	PGS1	all
+1018	Glycerophospholipid metabolism	CRLS1	all
+1019	Glycerophospholipid metabolism	TAZ	all
+1020	Glycerophospholipid metabolism	LPGAT1	all
+1021	Glycerophospholipid metabolism	CDIPT	all
+1022	Glycerophospholipid metabolism	MBOAT7	all
+1023	Ether lipid metabolism	AGPS	all
+1024	Ether lipid metabolism	PLPP1	all
+1025	Ether lipid metabolism	PLPP3	all
+1026	Ether lipid metabolism	PLPP2	all
+1027	Ether lipid metabolism	SELENOI	all
+1028	Ether lipid metabolism	CHPT1	all
+1029	Ether lipid metabolism	CEPT1	all
+1030	Ether lipid metabolism	PLA2G10	all
+1031	Ether lipid metabolism	PLA2G2D	all
+1032	Ether lipid metabolism	PLA2G2E	all
+1033	Ether lipid metabolism	PLA2G3	all
+1034	Ether lipid metabolism	PLA2G2F	all
+1035	Ether lipid metabolism	PLA2G12A	all
+1036	Ether lipid metabolism	PLA2G12B	all
+1037	Ether lipid metabolism	PLA2G1B	all
+1038	Ether lipid metabolism	PLA2G5	all
+1039	Ether lipid metabolism	PLA2G2A	all
+1040	Ether lipid metabolism	PLA2G2C	all
+1041	Ether lipid metabolism	PLA2G4E	all
+1042	Ether lipid metabolism	PLA2G4A	all
+1043	Ether lipid metabolism	JMJD7	all
+1044	Ether lipid metabolism	PLA2G4B	all
+1045	Ether lipid metabolism	PLA2G4C	all
+1046	Ether lipid metabolism	PLA2G4D	all
+1047	Ether lipid metabolism	PLA2G4F	all
+1048	Ether lipid metabolism	PLA2G6	all
+1049	Ether lipid metabolism	PLB1	all
+1050	Ether lipid metabolism	PLA2G16	all
+1051	Ether lipid metabolism	LPCAT4	all
+1052	Ether lipid metabolism	ENPP6	all
+1053	Ether lipid metabolism	ENPP2	all
+1054	Ether lipid metabolism	GDPD3	all
+1055	Ether lipid metabolism	GDPD1	all
+1056	Ether lipid metabolism	TMEM86B	all
+1057	Ether lipid metabolism	PLD1	all
+1058	Ether lipid metabolism	PLD2	all
+1059	Ether lipid metabolism	PLD3	all
+1060	Ether lipid metabolism	PLD4	all
+1061	Ether lipid metabolism	UGT8	all
+1062	Ether lipid metabolism	GAL3ST1	all
+1063	Ether lipid metabolism	LPCAT2	all
+1064	Ether lipid metabolism	LPCAT1	all
+1065	Ether lipid metabolism	PAFAH1B1	all
+1066	Ether lipid metabolism	PAFAH1B2	all
+1067	Ether lipid metabolism	PAFAH1B3	all
+1068	Ether lipid metabolism	PLA2G7	all
+1069	Ether lipid metabolism	PAFAH2	all
+1070	Sphingolipid metabolism	SPTLC1	all
+1071	Sphingolipid metabolism	SPTLC2	all
+1072	Sphingolipid metabolism	SPTLC3	all
+1073	Sphingolipid metabolism	KDSR	all
+1074	Sphingolipid metabolism	CERS2	all
+1075	Sphingolipid metabolism	CERS3	all
+1076	Sphingolipid metabolism	CERS6	all
+1077	Sphingolipid metabolism	CERS1	all
+1078	Sphingolipid metabolism	CERS4	all
+1079	Sphingolipid metabolism	CERS5	all
+1080	Sphingolipid metabolism	ASAH1	all
+1081	Sphingolipid metabolism	ASAH2	all
+1082	Sphingolipid metabolism	ACER2	all
+1083	Sphingolipid metabolism	ACER1	all
+1084	Sphingolipid metabolism	ACER3	all
+1085	Sphingolipid metabolism	DEGS1	all
+1086	Sphingolipid metabolism	DEGS2	all
+1087	Sphingolipid metabolism	SGMS1	all
+1088	Sphingolipid metabolism	SGMS2	all
+1089	Sphingolipid metabolism	SMPD1	all
+1090	Sphingolipid metabolism	SMPD2	all
+1091	Sphingolipid metabolism	SMPD3	all
+1092	Sphingolipid metabolism	SMPD4	all
+1093	Sphingolipid metabolism	ENPP7	all
+1094	Sphingolipid metabolism	CERK	all
+1095	Sphingolipid metabolism	PLPP1	all
+1096	Sphingolipid metabolism	PLPP3	all
+1097	Sphingolipid metabolism	PLPP2	all
+1098	Sphingolipid metabolism	SGPP1	all
+1099	Sphingolipid metabolism	SGPP2	all
+1100	Sphingolipid metabolism	SPHK1	all
+1101	Sphingolipid metabolism	SPHK2	all
+1102	Sphingolipid metabolism	SGPL1	all
+1103	Sphingolipid metabolism	UGCG	all
+1104	Sphingolipid metabolism	GBA	all
+1105	Sphingolipid metabolism	GBA2	all
+1106	Sphingolipid metabolism	B4GALT6	all
+1107	Sphingolipid metabolism	GLB1	all
+1108	Sphingolipid metabolism	UGT8	all
+1109	Sphingolipid metabolism	GALC	all
+1110	Sphingolipid metabolism	GAL3ST1	all
+1111	Sphingolipid metabolism	ARSA	all
+1112	Sphingolipid metabolism	NEU1	all
+1113	Sphingolipid metabolism	NEU3	all
+1114	Sphingolipid metabolism	NEU4	all
+1115	Sphingolipid metabolism	NEU2	all
+1116	Sphingolipid metabolism	GLA	all
+1117	Arachidonic acid metabolism	PLA2G10	all
+1118	Arachidonic acid metabolism	PLA2G2D	all
+1119	Arachidonic acid metabolism	PLA2G2E	all
+1120	Arachidonic acid metabolism	PLA2G3	all
+1121	Arachidonic acid metabolism	PLA2G2F	all
+1122	Arachidonic acid metabolism	PLA2G12A	all
+1123	Arachidonic acid metabolism	PLA2G12B	all
+1124	Arachidonic acid metabolism	PLA2G1B	all
+1125	Arachidonic acid metabolism	PLA2G5	all
+1126	Arachidonic acid metabolism	PLA2G2A	all
+1127	Arachidonic acid metabolism	PLA2G2C	all
+1128	Arachidonic acid metabolism	PLA2G4E	all
+1129	Arachidonic acid metabolism	PLA2G4A	all
+1130	Arachidonic acid metabolism	JMJD7	all
+1131	Arachidonic acid metabolism	PLA2G4B	all
+1132	Arachidonic acid metabolism	PLA2G4C	all
+1133	Arachidonic acid metabolism	PLA2G4D	all
+1134	Arachidonic acid metabolism	PLA2G4F	all
+1135	Arachidonic acid metabolism	PLA2G6	all
+1136	Arachidonic acid metabolism	PLB1	all
+1137	Arachidonic acid metabolism	PLA2G16	all
+1138	Arachidonic acid metabolism	PTGS1	all
+1139	Arachidonic acid metabolism	PTGS2	all
+1140	Arachidonic acid metabolism	PTGES	all
+1141	Arachidonic acid metabolism	PTGES2	all
+1142	Arachidonic acid metabolism	PTGES3	all
+1143	Arachidonic acid metabolism	CBR1	all
+1144	Arachidonic acid metabolism	CBR3	all
+1145	Arachidonic acid metabolism	FAM213B	all
+1146	Arachidonic acid metabolism	TBXAS1	all
+1147	Arachidonic acid metabolism	PTGDS	all
+1148	Arachidonic acid metabolism	HPGDS	all
+1149	Arachidonic acid metabolism	AKR1C3	all
+1150	Arachidonic acid metabolism	PTGIS	all
+1151	Arachidonic acid metabolism	ALOX5	all
+1152	Arachidonic acid metabolism	LTA4H	all
+1153	Arachidonic acid metabolism	CYP4F2	all
+1154	Arachidonic acid metabolism	CYP4F3	all
+1155	Arachidonic acid metabolism	LTC4S	all
+1156	Arachidonic acid metabolism	GGT1	all
+1157	Arachidonic acid metabolism	GGT5	all
+1158	Arachidonic acid metabolism	GPX6	all
+1159	Arachidonic acid metabolism	GPX7	all
+1160	Arachidonic acid metabolism	GPX2	all
+1161	Arachidonic acid metabolism	GPX3	all
+1162	Arachidonic acid metabolism	GPX1	all
+1163	Arachidonic acid metabolism	GPX5	all
+1164	Arachidonic acid metabolism	GPX8	all
+1165	Arachidonic acid metabolism	CYP2E1	all
+1166	Arachidonic acid metabolism	CYP2J2	all
+1167	Arachidonic acid metabolism	CYP2U1	all
+1168	Arachidonic acid metabolism	CYP4A11	all
+1169	Arachidonic acid metabolism	CYP2C19	all
+1170	Arachidonic acid metabolism	CYP4F8	all
+1171	Arachidonic acid metabolism	ALOX12	all
+1172	Arachidonic acid metabolism	ALOX12B	all
+1173	Arachidonic acid metabolism	ALOX15B	all
+1174	Arachidonic acid metabolism	CYP2B6	all
+1175	Arachidonic acid metabolism	CYP2C8	all
+1176	Arachidonic acid metabolism	CYP2C9	all
+1177	Arachidonic acid metabolism	EPHX2	all
+1178	Arachidonic acid metabolism	ALOX15	all
+1179	Linoleic acid metabolism	PLA2G10	all
+1180	Linoleic acid metabolism	PLA2G2D	all
+1181	Linoleic acid metabolism	PLA2G2E	all
+1182	Linoleic acid metabolism	PLA2G3	all
+1183	Linoleic acid metabolism	PLA2G2F	all
+1184	Linoleic acid metabolism	PLA2G12A	all
+1185	Linoleic acid metabolism	PLA2G12B	all
+1186	Linoleic acid metabolism	PLA2G1B	all
+1187	Linoleic acid metabolism	PLA2G5	all
+1188	Linoleic acid metabolism	PLA2G2A	all
+1189	Linoleic acid metabolism	PLA2G2C	all
+1190	Linoleic acid metabolism	PLA2G4E	all
+1191	Linoleic acid metabolism	PLA2G4A	all
+1192	Linoleic acid metabolism	JMJD7	all
+1193	Linoleic acid metabolism	PLA2G4B	all
+1194	Linoleic acid metabolism	PLA2G4C	all
+1195	Linoleic acid metabolism	PLA2G4D	all
+1196	Linoleic acid metabolism	PLA2G4F	all
+1197	Linoleic acid metabolism	PLA2G6	all
+1198	Linoleic acid metabolism	PLB1	all
+1199	Linoleic acid metabolism	PLA2G16	all
+1200	Linoleic acid metabolism	ALOX15	all
+1201	Linoleic acid metabolism	CYP1A2	all
+1202	Linoleic acid metabolism	CYP2C8	all
+1203	Linoleic acid metabolism	CYP2C9	all
+1204	Linoleic acid metabolism	CYP2C19	all
+1205	Linoleic acid metabolism	CYP2J2	all
+1206	Linoleic acid metabolism	CYP2E1	all
+1207	Linoleic acid metabolism	CYP3A4	all
+1208	alpha Linolenic acid metabolism	PLA2G10	all
+1209	alpha Linolenic acid metabolism	PLA2G2D	all
+1210	alpha Linolenic acid metabolism	PLA2G2E	all
+1211	alpha Linolenic acid metabolism	PLA2G3	all
+1212	alpha Linolenic acid metabolism	PLA2G2F	all
+1213	alpha Linolenic acid metabolism	PLA2G12A	all
+1214	alpha Linolenic acid metabolism	PLA2G12B	all
+1215	alpha Linolenic acid metabolism	PLA2G1B	all
+1216	alpha Linolenic acid metabolism	PLA2G5	all
+1217	alpha Linolenic acid metabolism	PLA2G2A	all
+1218	alpha Linolenic acid metabolism	PLA2G2C	all
+1219	alpha Linolenic acid metabolism	PLA2G4E	all
+1220	alpha Linolenic acid metabolism	PLA2G4A	all
+1221	alpha Linolenic acid metabolism	JMJD7	all
+1222	alpha Linolenic acid metabolism	PLA2G4B	all
+1223	alpha Linolenic acid metabolism	PLA2G4C	all
+1224	alpha Linolenic acid metabolism	PLA2G4D	all
+1225	alpha Linolenic acid metabolism	PLA2G4F	all
+1226	alpha Linolenic acid metabolism	PLA2G6	all
+1227	alpha Linolenic acid metabolism	PLB1	all
+1228	alpha Linolenic acid metabolism	PLA2G16	all
+1229	alpha Linolenic acid metabolism	FADS2	all
+1230	alpha Linolenic acid metabolism	ACOX3	all
+1231	alpha Linolenic acid metabolism	ACOX1	all
+1232	alpha Linolenic acid metabolism	ACAA1	all
+1233	Biosynthesis of unsaturated fatty acids	ELOVL6	all
+1234	Biosynthesis of unsaturated fatty acids	HSD17B12	all
+1235	Biosynthesis of unsaturated fatty acids	HACD2	all
+1236	Biosynthesis of unsaturated fatty acids	HACD1	all
+1237	Biosynthesis of unsaturated fatty acids	HACD4	all
+1238	Biosynthesis of unsaturated fatty acids	HACD3	all
+1239	Biosynthesis of unsaturated fatty acids	TECR	all
+1240	Biosynthesis of unsaturated fatty acids	PECR	all
+1241	Biosynthesis of unsaturated fatty acids	SCD	all
+1242	Biosynthesis of unsaturated fatty acids	SCD5	all
+1243	Biosynthesis of unsaturated fatty acids	FADS2	all
+1244	Biosynthesis of unsaturated fatty acids	ELOVL5	all
+1245	Biosynthesis of unsaturated fatty acids	FADS1	all
+1246	Biosynthesis of unsaturated fatty acids	ELOVL2	all
+1247	Biosynthesis of unsaturated fatty acids	ACOX3	all
+1248	Biosynthesis of unsaturated fatty acids	ACOX1	all
+1249	Biosynthesis of unsaturated fatty acids	HADHA	all
+1250	Biosynthesis of unsaturated fatty acids	ACAA1	all
+1251	Biosynthesis of unsaturated fatty acids	ACOT4	all
+1252	Biosynthesis of unsaturated fatty acids	ACOT2	all
+1253	Biosynthesis of unsaturated fatty acids	ACOT1	all
+1254	Biosynthesis of unsaturated fatty acids	ACOT7	all
+1255	Biosynthesis of unsaturated fatty acids	BAAT	all
+1256	GPI anchor biosynthesis	PIGA	all
+1257	GPI anchor biosynthesis	PIGH	all
+1258	GPI anchor biosynthesis	PIGC	all
+1259	GPI anchor biosynthesis	PIGQ	all
+1260	GPI anchor biosynthesis	PIGP	all
+1261	GPI anchor biosynthesis	PIGY	all
+1262	GPI anchor biosynthesis	DPM2	all
+1263	GPI anchor biosynthesis	PIGL	all
+1264	GPI anchor biosynthesis	PIGW	all
+1265	GPI anchor biosynthesis	GPLD1	all
+1266	GPI anchor biosynthesis	PIGM	all
+1267	GPI anchor biosynthesis	PIGX	all
+1268	GPI anchor biosynthesis	PIGV	all
+1269	GPI anchor biosynthesis	PIGN	all
+1270	GPI anchor biosynthesis	PIGB	all
+1271	GPI anchor biosynthesis	PIGF	all
+1272	GPI anchor biosynthesis	PIGO	all
+1273	GPI anchor biosynthesis	GPAA1	all
+1274	GPI anchor biosynthesis	PIGK	all
+1275	GPI anchor biosynthesis	PIGS	all
+1276	GPI anchor biosynthesis	PIGT	all
+1277	GPI anchor biosynthesis	PIGU	all
+1278	GPI anchor biosynthesis	PGAP1	all
+1279	GPI anchor biosynthesis	PIGZ	all
+1280	GPI anchor biosynthesis	PIGG	all
+1281	Glycosphingolipid biosynthesis	B3GNT5	all
+1282	Glycosphingolipid biosynthesis	B3GALT1	all
+1283	Glycosphingolipid biosynthesis	B3GALT2	all
+1284	Glycosphingolipid biosynthesis	B3GALT5	all
+1285	Glycosphingolipid biosynthesis	FUT1	all
+1286	Glycosphingolipid biosynthesis	FUT2	all
+1287	Glycosphingolipid biosynthesis	FUT3	all
+1288	Glycosphingolipid biosynthesis	ST3GAL3	all
+1289	Glycosphingolipid biosynthesis	ST3GAL4	all
+1290	Glycosphingolipid biosynthesis	ABO	all
+1291	Glycosphingolipid biosynthesis	B4GALT1	all
+1292	Glycosphingolipid biosynthesis	B4GALT2	all
+1293	Glycosphingolipid biosynthesis	B4GALT3	all
+1294	Glycosphingolipid biosynthesis	B4GALT4	all
+1295	Glycosphingolipid biosynthesis	FUT9	all
+1296	Glycosphingolipid biosynthesis	FUT4	all
+1297	Glycosphingolipid biosynthesis	FUT5	all
+1298	Glycosphingolipid biosynthesis	FUT6	all
+1299	Glycosphingolipid biosynthesis	FUT7	all
+1300	Glycosphingolipid biosynthesis	ST3GAL6	all
+1301	Glycosphingolipid biosynthesis	ST8SIA1	all
+1302	Glycosphingolipid biosynthesis	A4GALT	all
+1303	Glycosphingolipid biosynthesis	B3GALNT1	all
+1304	Glycosphingolipid biosynthesis	B3GNT2	all
+1305	Glycosphingolipid biosynthesis	B3GNT3	all
+1306	Glycosphingolipid biosynthesis	B3GNT4	all
+1307	Glycosphingolipid biosynthesis	GCNT2	all
+1308	Glycosphingolipid biosynthesis	A3GALT2	all
+1309	Glycosphingolipid biosynthesis	B3GALNT1	all
+1310	Glycosphingolipid biosynthesis	GBGT1	all
+1311	Glycosphingolipid biosynthesis	A4GALT	all
+1312	Glycosphingolipid biosynthesis	GLA	all
+1313	Glycosphingolipid biosynthesis	B3GALT5	all
+1314	Glycosphingolipid biosynthesis	HEXA	all
+1315	Glycosphingolipid biosynthesis	HEXB	all
+1316	Glycosphingolipid biosynthesis	NAGA	all
+1317	Glycosphingolipid biosynthesis	FUT1	all
+1318	Glycosphingolipid biosynthesis	FUT2	all
+1319	Glycosphingolipid biosynthesis	ST3GAL1	all
+1320	Glycosphingolipid biosynthesis	ST3GAL2	all
+1321	Glycosphingolipid biosynthesis	ST8SIA1	all
+1322	Glycosphingolipid biosynthesis	FUT9	all
+1323	Glycosphingolipid biosynthesis	B4GALNT1	all
+1324	Glycosphingolipid biosynthesis	B3GALT4	all
+1325	Glycosphingolipid biosynthesis	ST3GAL2	all
+1326	Glycosphingolipid biosynthesis	ST3GAL1	all
+1327	Glycosphingolipid biosynthesis	ST8SIA5	all
+1328	Glycosphingolipid biosynthesis	ST3GAL5	all
+1329	Glycosphingolipid biosynthesis	ST8SIA1	all
+1330	Glycosphingolipid biosynthesis	SLC33A1	all
+1331	Glycosphingolipid biosynthesis	ST6GALNAC3	all
+1332	Glycosphingolipid biosynthesis	ST6GALNAC4	all
+1333	Glycosphingolipid biosynthesis	ST6GALNAC5	all
+1334	Glycosphingolipid biosynthesis	ST6GALNAC6	all
+1335	Glycosphingolipid biosynthesis	GLB1	all
+1336	Glycosphingolipid biosynthesis	HEXA	all
+1337	Glycosphingolipid biosynthesis	HEXB	all
+1338	Alanine aspartate and glutamate metabolism	GOT1	all
+1339	Alanine aspartate and glutamate metabolism	GOT2	all
+1340	Alanine aspartate and glutamate metabolism	IL4I1	all
+1341	Alanine aspartate and glutamate metabolism	DDO	all
+1342	Alanine aspartate and glutamate metabolism	ASNS	all
+1343	Alanine aspartate and glutamate metabolism	NIT2	all
+1344	Alanine aspartate and glutamate metabolism	GPT2	all
+1345	Alanine aspartate and glutamate metabolism	GPT	all
+1346	Alanine aspartate and glutamate metabolism	AGXT	all
+1347	Alanine aspartate and glutamate metabolism	AGXT2	all
+1348	Alanine aspartate and glutamate metabolism	ASS1	all
+1349	Alanine aspartate and glutamate metabolism	ASL	all
+1350	Alanine aspartate and glutamate metabolism	ADSSL1	all
+1351	Alanine aspartate and glutamate metabolism	ADSS	all
+1352	Alanine aspartate and glutamate metabolism	ADSL	all
+1353	Alanine aspartate and glutamate metabolism	NAT8L	all
+1354	Alanine aspartate and glutamate metabolism	RIMKLB	all
+1355	Alanine aspartate and glutamate metabolism	RIMKLA	all
+1356	Alanine aspartate and glutamate metabolism	FOLH1	all
+1357	Alanine aspartate and glutamate metabolism	ASPA	all
+1358	Alanine aspartate and glutamate metabolism	GAD1	all
+1359	Alanine aspartate and glutamate metabolism	GAD2	all
+1360	Alanine aspartate and glutamate metabolism	ABAT	all
+1361	Alanine aspartate and glutamate metabolism	ALDH5A1	all
+1362	Alanine aspartate and glutamate metabolism	GLUD2	all
+1363	Alanine aspartate and glutamate metabolism	GLUD1	all
+1364	Alanine aspartate and glutamate metabolism	ALDH4A1	all
+1365	Alanine aspartate and glutamate metabolism	GLUL	all
+1366	Alanine aspartate and glutamate metabolism	CAD	all
+1367	Alanine aspartate and glutamate metabolism	GLS2	all
+1368	Alanine aspartate and glutamate metabolism	GLS	all
+1369	Alanine aspartate and glutamate metabolism	CPS1	all
+1370	Alanine aspartate and glutamate metabolism	GFPT2	all
+1371	Alanine aspartate and glutamate metabolism	GFPT1	all
+1372	Alanine aspartate and glutamate metabolism	PPAT	all
+1373	Glycine serine and threonine metabolism	SHMT2	all
+1374	Glycine serine and threonine metabolism	SHMT1	all
+1375	Glycine serine and threonine metabolism	AGXT	all
+1376	Glycine serine and threonine metabolism	GRHPR	all
+1377	Glycine serine and threonine metabolism	GLYCTK	all
+1378	Glycine serine and threonine metabolism	PGAM1	all
+1379	Glycine serine and threonine metabolism	PGAM2	all
+1380	Glycine serine and threonine metabolism	PGAM4	all
+1381	Glycine serine and threonine metabolism	BPGM	all
+1382	Glycine serine and threonine metabolism	PHGDH	all
+1383	Glycine serine and threonine metabolism	PSAT1	all
+1384	Glycine serine and threonine metabolism	PSPH	all
+1385	Glycine serine and threonine metabolism	GCAT	all
+1386	Glycine serine and threonine metabolism	ALAS1	all
+1387	Glycine serine and threonine metabolism	ALAS2	all
+1388	Glycine serine and threonine metabolism	MAOB	all
+1389	Glycine serine and threonine metabolism	MAOA	all
+1390	Glycine serine and threonine metabolism	AOC3	all
+1391	Glycine serine and threonine metabolism	AOC2	all
+1392	Glycine serine and threonine metabolism	GLDC	all
+1393	Glycine serine and threonine metabolism	AMT	all
+1394	Glycine serine and threonine metabolism	DLD	all
+1395	Glycine serine and threonine metabolism	GCSH	all
+1396	Glycine serine and threonine metabolism	DAO	all
+1397	Glycine serine and threonine metabolism	AGXT2	all
+1398	Glycine serine and threonine metabolism	GATM	all
+1399	Glycine serine and threonine metabolism	GAMT	all
+1400	Glycine serine and threonine metabolism	CHDH	all
+1401	Glycine serine and threonine metabolism	ALDH7A1	all
+1402	Glycine serine and threonine metabolism	BHMT	all
+1403	Glycine serine and threonine metabolism	DMGDH	all
+1404	Glycine serine and threonine metabolism	PIPOX	all
+1405	Glycine serine and threonine metabolism	SARDH	all
+1406	Glycine serine and threonine metabolism	GNMT	all
+1407	Glycine serine and threonine metabolism	CBS	all
+1408	Glycine serine and threonine metabolism	CBSL	all
+1409	Glycine serine and threonine metabolism	CTH	all
+1410	Glycine serine and threonine metabolism	SDS	all
+1411	Glycine serine and threonine metabolism	SDSL	all
+1412	Glycine serine and threonine metabolism	SRR	all
+1413	Cysteine and methionine metabolism	CTH	all
+1414	Cysteine and methionine metabolism	CBS	all
+1415	Cysteine and methionine metabolism	CBSL	all
+1416	Cysteine and methionine metabolism	BHMT	all
+1417	Cysteine and methionine metabolism	BHMT2	all
+1418	Cysteine and methionine metabolism	MTR	all
+1419	Cysteine and methionine metabolism	MAT2B	all
+1420	Cysteine and methionine metabolism	MAT1A	all
+1421	Cysteine and methionine metabolism	MAT2A	all
+1422	Cysteine and methionine metabolism	AMD1	all
+1423	Cysteine and methionine metabolism	SRM	all
+1424	Cysteine and methionine metabolism	SMS	all
+1425	Cysteine and methionine metabolism	MTAP	all
+1426	Cysteine and methionine metabolism	MRI1	all
+1427	Cysteine and methionine metabolism	APIP	all
+1428	Cysteine and methionine metabolism	ENOPH1	all
+1429	Cysteine and methionine metabolism	ADI1	all
+1430	Cysteine and methionine metabolism	TAT	all
+1431	Cysteine and methionine metabolism	IL4I1	all
+1432	Cysteine and methionine metabolism	DNMT1	all
+1433	Cysteine and methionine metabolism	DNMT3A	all
+1434	Cysteine and methionine metabolism	DNMT3B	all
+1435	Cysteine and methionine metabolism	AHCYL2	all
+1436	Cysteine and methionine metabolism	AHCYL1	all
+1437	Cysteine and methionine metabolism	AHCY	all
+1438	Cysteine and methionine metabolism	BCAT2	all
+1439	Cysteine and methionine metabolism	BCAT1	all
+1440	Cysteine and methionine metabolism	AGXT2	all
+1441	Cysteine and methionine metabolism	GCLC	all
+1442	Cysteine and methionine metabolism	GCLM	all
+1443	Cysteine and methionine metabolism	GSS	all
+1444	Cysteine and methionine metabolism	CDO1	all
+1445	Cysteine and methionine metabolism	GOT1	all
+1446	Cysteine and methionine metabolism	GOT2	all
+1447	Cysteine and methionine metabolism	MPST	all
+1448	Cysteine and methionine metabolism	TST	all
+1449	Cysteine and methionine metabolism	LDHAL6A	all
+1450	Cysteine and methionine metabolism	LDHAL6B	all
+1451	Cysteine and methionine metabolism	LDHA	all
+1452	Cysteine and methionine metabolism	LDHB	all
+1453	Cysteine and methionine metabolism	LDHC	all
+1454	Cysteine and methionine metabolism	MDH1	all
+1455	Cysteine and methionine metabolism	MDH2	all
+1456	Cysteine and methionine metabolism	SDS	all
+1457	Cysteine and methionine metabolism	SDSL	all
+1458	Valine leucine and isoleucine degradation	BCAT2	all
+1459	Valine leucine and isoleucine degradation	BCAT1	all
+1460	Valine leucine and isoleucine degradation	IL4I1	all
+1461	Valine leucine and isoleucine degradation	BCKDHA	all
+1462	Valine leucine and isoleucine degradation	BCKDHB	all
+1463	Valine leucine and isoleucine degradation	DBT	all
+1464	Valine leucine and isoleucine degradation	DLD	all
+1465	Valine leucine and isoleucine degradation	ACADS	all
+1466	Valine leucine and isoleucine degradation	ACADM	all
+1467	Valine leucine and isoleucine degradation	IVD	all
+1468	Valine leucine and isoleucine degradation	ACADSB	all
+1469	Valine leucine and isoleucine degradation	ACAD8	all
+1470	Valine leucine and isoleucine degradation	HADHA	all
+1471	Valine leucine and isoleucine degradation	EHHADH	all
+1472	Valine leucine and isoleucine degradation	ECHS1	all
+1473	Valine leucine and isoleucine degradation	HADH	all
+1474	Valine leucine and isoleucine degradation	HSD17B10	all
+1475	Valine leucine and isoleucine degradation	ACAA1	all
+1476	Valine leucine and isoleucine degradation	ACAA2	all
+1477	Valine leucine and isoleucine degradation	HADHB	all
+1478	Valine leucine and isoleucine degradation	PCCA	all
+1479	Valine leucine and isoleucine degradation	PCCB	all
+1480	Valine leucine and isoleucine degradation	MCEE	all
+1481	Valine leucine and isoleucine degradation	MUT	all
+1482	Valine leucine and isoleucine degradation	HIBCH	all
+1483	Valine leucine and isoleucine degradation	HIBADH	all
+1484	Valine leucine and isoleucine degradation	ALDH6A1	all
+1485	Valine leucine and isoleucine degradation	ALDH2	all
+1486	Valine leucine and isoleucine degradation	ALDH3A2	all
+1487	Valine leucine and isoleucine degradation	ALDH1B1	all
+1488	Valine leucine and isoleucine degradation	ALDH7A1	all
+1489	Valine leucine and isoleucine degradation	ALDH9A1	all
+1490	Valine leucine and isoleucine degradation	AOX1	all
+1491	Valine leucine and isoleucine degradation	ACSF3	all
+1492	Valine leucine and isoleucine degradation	ABAT	all
+1493	Valine leucine and isoleucine degradation	AGXT2	all
+1494	Valine leucine and isoleucine degradation	MCCC1	all
+1495	Valine leucine and isoleucine degradation	MCCC2	all
+1496	Valine leucine and isoleucine degradation	AUH	all
+1497	Valine leucine and isoleucine degradation	HMGCL	all
+1498	Valine leucine and isoleucine degradation	HMGCLL1	all
+1499	Valine leucine and isoleucine degradation	OXCT1	all
+1500	Valine leucine and isoleucine degradation	OXCT2	all
+1501	Valine leucine and isoleucine degradation	AACS	all
+1502	Valine leucine and isoleucine degradation	ACAT2	all
+1503	Valine leucine and isoleucine degradation	ACAT1	all
+1504	Valine leucine and isoleucine degradation	HMGCS1	all
+1505	Valine leucine and isoleucine degradation	HMGCS2	all
+1506	Lysine degradation	AASS	all
+1507	Lysine degradation	ALDH7A1	all
+1508	Lysine degradation	AADAT	all
+1509	Lysine degradation	OGDHL	all
+1510	Lysine degradation	OGDH	all
+1511	Lysine degradation	DLST	all
+1512	Lysine degradation	GCDH	all
+1513	Lysine degradation	HADHA	all
+1514	Lysine degradation	EHHADH	all
+1515	Lysine degradation	ECHS1	all
+1516	Lysine degradation	HADH	all
+1517	Lysine degradation	ACAT2	all
+1518	Lysine degradation	ACAT1	all
+1519	Lysine degradation	HYKK	all
+1520	Lysine degradation	PHYKPL	all
+1521	Lysine degradation	PIPOX	all
+1522	Lysine degradation	ASH1L	all
+1523	Lysine degradation	DOT1L	all
+1524	Lysine degradation	EHMT2	all
+1525	Lysine degradation	EHMT1	all
+1526	Lysine degradation	KMT2A	all
+1527	Lysine degradation	KMT2D	all
+1528	Lysine degradation	KMT2C	all
+1529	Lysine degradation	KMT2B	all
+1530	Lysine degradation	KMT2E	all
+1531	Lysine degradation	NSD1	all
+1532	Lysine degradation	NSD2	all
+1533	Lysine degradation	NSD3	all
+1534	Lysine degradation	SETD1B	all
+1535	Lysine degradation	SETD1A	all
+1536	Lysine degradation	SETD2	all
+1537	Lysine degradation	SETD3	all
+1538	Lysine degradation	SETD7	all
+1539	Lysine degradation	KMT5A	all
+1540	Lysine degradation	SETDB1	all
+1541	Lysine degradation	SETDB2	all
+1542	Lysine degradation	SETMAR	all
+1543	Lysine degradation	SUV39H1	all
+1544	Lysine degradation	SUV39H2	all
+1545	Lysine degradation	KMT5C	all
+1546	Lysine degradation	KMT5B	all
+1547	Lysine degradation	EZH1	all
+1548	Lysine degradation	EZH2	all
+1549	Lysine degradation	PRDM2	all
+1550	Lysine degradation	PRDM6	all
+1551	Lysine degradation	PRDM9	all
+1552	Lysine degradation	PRDM7	all
+1553	Lysine degradation	CAMKMT	all
+1554	Lysine degradation	TMLHE	all
+1555	Lysine degradation	ALDH2	all
+1556	Lysine degradation	ALDH3A2	all
+1557	Lysine degradation	ALDH1B1	all
+1558	Lysine degradation	ALDH9A1	all
+1559	Lysine degradation	BBOX1	all
+1560	Lysine degradation	PLOD1	all
+1561	Lysine degradation	PLOD2	all
+1562	Lysine degradation	PLOD3	all
+1563	Lysine degradation	COLGALT1	all
+1564	Lysine degradation	COLGALT2	all
+1565	Arginine biosynthesis	OTC	all
+1566	Arginine biosynthesis	ASS1	all
+1567	Arginine biosynthesis	ASL	all
+1568	Arginine biosynthesis	ARG2	all
+1569	Arginine biosynthesis	ARG1	all
+1570	Arginine biosynthesis	NOS1	all
+1571	Arginine biosynthesis	NOS2	all
+1572	Arginine biosynthesis	NOS3	all
+1573	Arginine biosynthesis	GLS2	all
+1574	Arginine biosynthesis	GLS	all
+1575	Arginine biosynthesis	GLUL	all
+1576	Arginine biosynthesis	GLUD2	all
+1577	Arginine biosynthesis	GLUD1	all
+1578	Arginine biosynthesis	CPS1	all
+1579	Arginine biosynthesis	GOT1	all
+1580	Arginine biosynthesis	GOT2	all
+1581	Arginine biosynthesis	GPT2	all
+1582	Arginine biosynthesis	GPT	all
+1583	Arginine biosynthesis	NAGS	all
+1584	Arginine biosynthesis	ACY1	all
+1585	Arginine biosynthesis	ABHD14A	all
+1586	Arginine and proline metabolism	GATM	all
+1587	Arginine and proline metabolism	GAMT	all
+1588	Arginine and proline metabolism	CKM	all
+1589	Arginine and proline metabolism	CKMT1A	all
+1590	Arginine and proline metabolism	CKMT2	all
+1591	Arginine and proline metabolism	CKB	all
+1592	Arginine and proline metabolism	CKMT1B	all
+1593	Arginine and proline metabolism	AZIN2	all
+1594	Arginine and proline metabolism	AGMAT	all
+1595	Arginine and proline metabolism	ODC1	all
+1596	Arginine and proline metabolism	SRM	all
+1597	Arginine and proline metabolism	SMS	all
+1598	Arginine and proline metabolism	AMD1	all
+1599	Arginine and proline metabolism	AOC1	all
+1600	Arginine and proline metabolism	SMOX	all
+1601	Arginine and proline metabolism	ALDH2	all
+1602	Arginine and proline metabolism	ALDH3A2	all
+1603	Arginine and proline metabolism	ALDH1B1	all
+1604	Arginine and proline metabolism	ALDH7A1	all
+1605	Arginine and proline metabolism	ALDH9A1	all
+1606	Arginine and proline metabolism	CNDP1	all
+1607	Arginine and proline metabolism	CNDP2	all
+1608	Arginine and proline metabolism	CARNS1	all
+1609	Arginine and proline metabolism	SAT2	all
+1610	Arginine and proline metabolism	SAT1	all
+1611	Arginine and proline metabolism	MAOB	all
+1612	Arginine and proline metabolism	MAOA	all
+1613	Arginine and proline metabolism	NOS1	all
+1614	Arginine and proline metabolism	NOS2	all
+1615	Arginine and proline metabolism	NOS3	all
+1616	Arginine and proline metabolism	ARG2	all
+1617	Arginine and proline metabolism	ARG1	all
+1618	Arginine and proline metabolism	OAT	all
+1619	Arginine and proline metabolism	PYCR3	all
+1620	Arginine and proline metabolism	PYCR2	all
+1621	Arginine and proline metabolism	PYCR1	all
+1622	Arginine and proline metabolism	PRODH	all
+1623	Arginine and proline metabolism	ALDH4A1	all
+1624	Arginine and proline metabolism	ALDH18A1	all
+1625	Arginine and proline metabolism	LAP3	all
+1626	Arginine and proline metabolism	P4HA2	all
+1627	Arginine and proline metabolism	P4HA3	all
+1628	Arginine and proline metabolism	P4HA1	all
+1629	Arginine and proline metabolism	PRODH2	all
+1630	Arginine and proline metabolism	GOT1	all
+1631	Arginine and proline metabolism	GOT2	all
+1632	Arginine and proline metabolism	HOGA1	all
+1633	Arginine and proline metabolism	DAO	all
+1634	Arginine and proline metabolism	L3HYPDH	all
+1635	Histidine metabolism	HAL	all
+1636	Histidine metabolism	UROC1	all
+1637	Histidine metabolism	AMDHD1	all
+1638	Histidine metabolism	FTCD	all
+1639	Histidine metabolism	HDC	all
+1640	Histidine metabolism	AOC1	all
+1641	Histidine metabolism	ALDH2	all
+1642	Histidine metabolism	ALDH3A2	all
+1643	Histidine metabolism	ALDH1B1	all
+1644	Histidine metabolism	ALDH7A1	all
+1645	Histidine metabolism	ALDH9A1	all
+1646	Histidine metabolism	ASPA	all
+1647	Histidine metabolism	HNMT	all
+1648	Histidine metabolism	MAOB	all
+1649	Histidine metabolism	MAOA	all
+1650	Histidine metabolism	ALDH3B1	all
+1651	Histidine metabolism	ALDH3B2	all
+1652	Histidine metabolism	ALDH1A3	all
+1653	Histidine metabolism	ALDH3A1	all
+1654	Histidine metabolism	CARNS1	all
+1655	Histidine metabolism	CARNMT1	all
+1656	Histidine metabolism	CNDP2	all
+1657	Histidine metabolism	CNDP1	all
+1658	Tyrosine metabolism	GOT1	all
+1659	Tyrosine metabolism	GOT2	all
+1660	Tyrosine metabolism	TAT	all
+1661	Tyrosine metabolism	IL4I1	all
+1662	Tyrosine metabolism	HPD	all
+1663	Tyrosine metabolism	HGD	all
+1664	Tyrosine metabolism	GSTZ1	all
+1665	Tyrosine metabolism	FAH	all
+1666	Tyrosine metabolism	TYR	all
+1667	Tyrosine metabolism	TH	all
+1668	Tyrosine metabolism	DCT	all
+1669	Tyrosine metabolism	TYRP1	all
+1670	Tyrosine metabolism	DDC	all
+1671	Tyrosine metabolism	DBH	all
+1672	Tyrosine metabolism	PNMT	all
+1673	Tyrosine metabolism	COMT	all
+1674	Tyrosine metabolism	LRTOMT	all
+1675	Tyrosine metabolism	MAOB	all
+1676	Tyrosine metabolism	MAOA	all
+1677	Tyrosine metabolism	AOC3	all
+1678	Tyrosine metabolism	AOC2	all
+1679	Tyrosine metabolism	ALDH3B1	all
+1680	Tyrosine metabolism	ALDH3B2	all
+1681	Tyrosine metabolism	ALDH1A3	all
+1682	Tyrosine metabolism	ALDH3A1	all
+1683	Tyrosine metabolism	ADH1A	all
+1684	Tyrosine metabolism	ADH1B	all
+1685	Tyrosine metabolism	ADH1C	all
+1686	Tyrosine metabolism	ADH7	all
+1687	Tyrosine metabolism	ADH4	all
+1688	Tyrosine metabolism	ADH5	all
+1689	Tyrosine metabolism	ADH6	all
+1690	Tyrosine metabolism	TPO	all
+1691	Tyrosine metabolism	AOX1	all
+1692	Tyrosine metabolism	FAHD1	all
+1693	Tyrosine metabolism	MIF	all
+1694	Phenylalanine metabolism	PAH	all
+1695	Phenylalanine metabolism	DDC	all
+1696	Phenylalanine metabolism	AOC3	all
+1697	Phenylalanine metabolism	AOC2	all
+1698	Phenylalanine metabolism	MAOB	all
+1699	Phenylalanine metabolism	MAOA	all
+1700	Phenylalanine metabolism	ALDH3B1	all
+1701	Phenylalanine metabolism	ALDH3B2	all
+1702	Phenylalanine metabolism	ALDH1A3	all
+1703	Phenylalanine metabolism	ALDH3A1	all
+1704	Phenylalanine metabolism	GOT1	all
+1705	Phenylalanine metabolism	GOT2	all
+1706	Phenylalanine metabolism	TAT	all
+1707	Phenylalanine metabolism	IL4I1	all
+1708	Phenylalanine metabolism	HPD	all
+1709	Phenylalanine metabolism	MIF	all
+1710	Phenylalanine metabolism	GLYAT	all
+1711	Tryptophan metabolism	TDO2	all
+1712	Tryptophan metabolism	IDO1	all
+1713	Tryptophan metabolism	IDO2	all
+1714	Tryptophan metabolism	AFMID	all
+1715	Tryptophan metabolism	KMO	all
+1716	Tryptophan metabolism	KYNU	all
+1717	Tryptophan metabolism	HAAO	all
+1718	Tryptophan metabolism	ACMSD	all
+1719	Tryptophan metabolism	OGDHL	all
+1720	Tryptophan metabolism	OGDH	all
+1721	Tryptophan metabolism	GCDH	all
+1722	Tryptophan metabolism	HADHA	all
+1723	Tryptophan metabolism	EHHADH	all
+1724	Tryptophan metabolism	ECHS1	all
+1725	Tryptophan metabolism	HADH	all
+1726	Tryptophan metabolism	ACAT2	all
+1727	Tryptophan metabolism	ACAT1	all
+1728	Tryptophan metabolism	KYAT3	all
+1729	Tryptophan metabolism	KYAT1	all
+1730	Tryptophan metabolism	AADAT	all
+1731	Tryptophan metabolism	TPH2	all
+1732	Tryptophan metabolism	TPH1	all
+1733	Tryptophan metabolism	DDC	all
+1734	Tryptophan metabolism	MAOB	all
+1735	Tryptophan metabolism	MAOA	all
+1736	Tryptophan metabolism	ALDH2	all
+1737	Tryptophan metabolism	ALDH3A2	all
+1738	Tryptophan metabolism	ALDH1B1	all
+1739	Tryptophan metabolism	ALDH7A1	all
+1740	Tryptophan metabolism	ALDH9A1	all
+1741	Tryptophan metabolism	AOX1	all
+1742	Tryptophan metabolism	ASMT	all
+1743	Tryptophan metabolism	AANAT	all
+1744	Tryptophan metabolism	CYP1A1	all
+1745	Tryptophan metabolism	CYP1A2	all
+1746	Tryptophan metabolism	CYP1B1	all
+1747	Tryptophan metabolism	INMT	all
+1748	Tryptophan metabolism	IL4I1	all
+1749	Tryptophan metabolism	AOC1	all
+1750	Tryptophan metabolism	CAT	all
+1751	Phenylalanine tyrosine and tryptophan biosynthesis	GOT1	all
+1752	Phenylalanine tyrosine and tryptophan biosynthesis	GOT2	all
+1753	Phenylalanine tyrosine and tryptophan biosynthesis	TAT	all
+1754	Phenylalanine tyrosine and tryptophan biosynthesis	IL4I1	all
+1755	Phenylalanine tyrosine and tryptophan biosynthesis	PAH	all
+1756	beta Alanine metabolism	GADL1	all
+1757	beta Alanine metabolism	GAD1	all
+1758	beta Alanine metabolism	GAD2	all
+1759	beta Alanine metabolism	CNDP1	all
+1760	beta Alanine metabolism	CARNS1	all
+1761	beta Alanine metabolism	CNDP2	all
+1762	beta Alanine metabolism	ABAT	all
+1763	beta Alanine metabolism	SRM	all
+1764	beta Alanine metabolism	SMS	all
+1765	beta Alanine metabolism	SMOX	all
+1766	beta Alanine metabolism	AOC3	all
+1767	beta Alanine metabolism	AOC2	all
+1768	beta Alanine metabolism	ALDH2	all
+1769	beta Alanine metabolism	ALDH3A2	all
+1770	beta Alanine metabolism	ALDH1B1	all
+1771	beta Alanine metabolism	ALDH7A1	all
+1772	beta Alanine metabolism	ALDH9A1	all
+1773	beta Alanine metabolism	ALDH3B1	all
+1774	beta Alanine metabolism	ALDH3B2	all
+1775	beta Alanine metabolism	ALDH1A3	all
+1776	beta Alanine metabolism	ALDH3A1	all
+1777	beta Alanine metabolism	DPYD	all
+1778	beta Alanine metabolism	DPYS	all
+1779	beta Alanine metabolism	UPB1	all
+1780	beta Alanine metabolism	HIBCH	all
+1781	beta Alanine metabolism	HADHA	all
+1782	beta Alanine metabolism	EHHADH	all
+1783	beta Alanine metabolism	ECHS1	all
+1784	beta Alanine metabolism	ACADM	all
+1785	beta Alanine metabolism	MLYCD	all
+1786	beta Alanine metabolism	ALDH6A1	all
+1787	Taurine and hypotaurine metabolism	CDO1	all
+1788	Taurine and hypotaurine metabolism	GAD1	all
+1789	Taurine and hypotaurine metabolism	GAD2	all
+1790	Taurine and hypotaurine metabolism	CSAD	all
+1791	Taurine and hypotaurine metabolism	GADL1	all
+1792	Taurine and hypotaurine metabolism	ADO	all
+1793	Taurine and hypotaurine metabolism	GGT7	all
+1794	Taurine and hypotaurine metabolism	GGT6	all
+1795	Taurine and hypotaurine metabolism	GGT1	all
+1796	Taurine and hypotaurine metabolism	GGT5	all
+1797	Taurine and hypotaurine metabolism	BAAT	all
+1798	D Glutamine and D glutamate metabolism	DGLUCY	all
+1799	D Glutamine and D glutamate metabolism	GLS2	all
+1800	D Glutamine and D glutamate metabolism	GLS	all
+1801	D Glutamine and D glutamate metabolism	GLUD2	all
+1802	D Glutamine and D glutamate metabolism	GLUD1	all
+1803	D Arginine and D ornithine metabolism	DAO	all
+1804	Glutathione metabolism	GGT7	all
+1805	Glutathione metabolism	GGT6	all
+1806	Glutathione metabolism	GGT1	all
+1807	Glutathione metabolism	GGT5	all
+1808	Glutathione metabolism	GGCT	all
+1809	Glutathione metabolism	CHAC1	all
+1810	Glutathione metabolism	CHAC2	all
+1811	Glutathione metabolism	OPLAH	all
+1812	Glutathione metabolism	GCLC	all
+1813	Glutathione metabolism	GCLM	all
+1814	Glutathione metabolism	GSS	all
+1815	Glutathione metabolism	LAP3	all
+1816	Glutathione metabolism	ANPEP	all
+1817	Glutathione metabolism	GSTA5	all
+1818	Glutathione metabolism	GSTA2	all
+1819	Glutathione metabolism	GSTA4	all
+1820	Glutathione metabolism	GSTO2	all
+1821	Glutathione metabolism	GSTM4	all
+1822	Glutathione metabolism	GSTT2	all
+1823	Glutathione metabolism	GSTT1	all
+1824	Glutathione metabolism	GSTM3	all
+1825	Glutathione metabolism	MGST1	all
+1826	Glutathione metabolism	MGST3	all
+1827	Glutathione metabolism	GSTP1	all
+1828	Glutathione metabolism	GSTM1	all
+1829	Glutathione metabolism	GSTM5	all
+1830	Glutathione metabolism	MGST2	all
+1831	Glutathione metabolism	GSTA1	all
+1832	Glutathione metabolism	GSTM2	all
+1833	Glutathione metabolism	GSTA3	all
+1834	Glutathione metabolism	GSTO1	all
+1835	Glutathione metabolism	GSTT2B	all
+1836	Glutathione metabolism	GSTK1	all
+1837	Glutathione metabolism	HPGDS	all
+1838	Glutathione metabolism	NAT8	all
+1839	Glutathione metabolism	NAT8B	all
+1840	Glutathione metabolism	GSR	all
+1841	Glutathione metabolism	IDH1	all
+1842	Glutathione metabolism	IDH2	all
+1843	Glutathione metabolism	PGD	all
+1844	Glutathione metabolism	G6PD	all
+1845	Glutathione metabolism	TXNDC12	all
+1846	Glutathione metabolism	GPX6	all
+1847	Glutathione metabolism	GPX7	all
+1848	Glutathione metabolism	GPX2	all
+1849	Glutathione metabolism	GPX3	all
+1850	Glutathione metabolism	GPX1	all
+1851	Glutathione metabolism	GPX5	all
+1852	Glutathione metabolism	GPX8	all
+1853	Glutathione metabolism	GPX4	all
+1854	Glutathione metabolism	ODC1	all
+1855	Glutathione metabolism	SRM	all
+1856	Glutathione metabolism	SMS	all
+1857	Glutathione metabolism	RRM1	all
+1858	Glutathione metabolism	RRM2B	all
+1859	Glutathione metabolism	RRM2	all
+1860	TCA cycle	CS	all
+1861	TCA cycle	ACLY	all
+1862	TCA cycle	ACO2	all
+1863	TCA cycle	ACO1	all
+1864	TCA cycle	IDH1	all
+1865	TCA cycle	IDH2	all
+1866	TCA cycle	IDH3B	all
+1867	TCA cycle	IDH3G	all
+1868	TCA cycle	IDH3A	all
+1869	TCA cycle	OGDHL	all
+1870	TCA cycle	OGDH	all
+1871	TCA cycle	DLST	all
+1872	TCA cycle	DLD	all
+1873	TCA cycle	SUCLG1	all
+1874	TCA cycle	SUCLG2	all
+1875	TCA cycle	SUCLA2	all
+1876	TCA cycle	SDHA	all
+1877	TCA cycle	SDHB	all
+1878	TCA cycle	SDHC	all
+1879	TCA cycle	SDHD	all
+1880	TCA cycle	FH	all
+1881	TCA cycle	MDH1	all
+1882	TCA cycle	MDH2	all
+1883	TCA cycle	PC	all
+1884	TCA cycle	PCK1	all
+1885	TCA cycle	PCK2	all
+1886	TCA cycle	PDHA2	all
+1887	TCA cycle	PDHA1	all
+1888	TCA cycle	PDHB	all
+1889	TCA cycle	DLAT	all
+1890	Oxidative phosphorylation	ND1	all
+1891	Oxidative phosphorylation	ND2	all
+1892	Oxidative phosphorylation	ND3	all
+1893	Oxidative phosphorylation	ND4	all
+1894	Oxidative phosphorylation	ND4L	all
+1895	Oxidative phosphorylation	ND5	all
+1896	Oxidative phosphorylation	ND6	all
+1897	Oxidative phosphorylation	NDUFS1	all
+1898	Oxidative phosphorylation	NDUFS2	all
+1899	Oxidative phosphorylation	NDUFS3	all
+1900	Oxidative phosphorylation	NDUFS4	all
+1901	Oxidative phosphorylation	NDUFS5	all
+1902	Oxidative phosphorylation	NDUFS6	all
+1903	Oxidative phosphorylation	NDUFS7	all
+1904	Oxidative phosphorylation	NDUFS8	all
+1905	Oxidative phosphorylation	NDUFV1	all
+1906	Oxidative phosphorylation	NDUFV2	all
+1907	Oxidative phosphorylation	NDUFV3	all
+1908	Oxidative phosphorylation	NDUFA1	all
+1909	Oxidative phosphorylation	NDUFA2	all
+1910	Oxidative phosphorylation	NDUFA3	all
+1911	Oxidative phosphorylation	NDUFA4	all
+1912	Oxidative phosphorylation	NDUFA4L2	all
+1913	Oxidative phosphorylation	NDUFA5	all
+1914	Oxidative phosphorylation	NDUFA6	all
+1915	Oxidative phosphorylation	NDUFA7	all
+1916	Oxidative phosphorylation	NDUFA8	all
+1917	Oxidative phosphorylation	NDUFA9	all
+1918	Oxidative phosphorylation	NDUFA10	all
+1919	Oxidative phosphorylation	NDUFAB1	all
+1920	Oxidative phosphorylation	NDUFA11	all
+1921	Oxidative phosphorylation	NDUFA12	all
+1922	Oxidative phosphorylation	NDUFA13	all
+1923	Oxidative phosphorylation	NDUFB1	all
+1924	Oxidative phosphorylation	NDUFB2	all
+1925	Oxidative phosphorylation	NDUFB3	all
+1926	Oxidative phosphorylation	NDUFB4	all
+1927	Oxidative phosphorylation	NDUFB5	all
+1928	Oxidative phosphorylation	NDUFB6	all
+1929	Oxidative phosphorylation	NDUFB7	all
+1930	Oxidative phosphorylation	NDUFB8	all
+1931	Oxidative phosphorylation	NDUFB9	all
+1932	Oxidative phosphorylation	NDUFB10	all
+1933	Oxidative phosphorylation	NDUFB11	all
+1934	Oxidative phosphorylation	NDUFC1	all
+1935	Oxidative phosphorylation	NDUFC2	all
+1936	Oxidative phosphorylation	KCTD14	all
+1937	Oxidative phosphorylation	SDHA	all
+1938	Oxidative phosphorylation	SDHB	all
+1939	Oxidative phosphorylation	SDHC	all
+1940	Oxidative phosphorylation	SDHD	all
+1941	Oxidative phosphorylation	UQCRFS1	all
+1942	Oxidative phosphorylation	CYTB	all
+1943	Oxidative phosphorylation	CYC1	all
+1944	Oxidative phosphorylation	UQCRC1	all
+1945	Oxidative phosphorylation	UQCRC2	all
+1946	Oxidative phosphorylation	UQCRH	all
+1947	Oxidative phosphorylation	UQCRHL	all
+1948	Oxidative phosphorylation	UQCRB	all
+1949	Oxidative phosphorylation	UQCRQ	all
+1950	Oxidative phosphorylation	UQCR10	all
+1951	Oxidative phosphorylation	UQCR11	all
+1952	Oxidative phosphorylation	COX10	all
+1953	Oxidative phosphorylation	COX3	all
+1954	Oxidative phosphorylation	COX1	all
+1955	Oxidative phosphorylation	COX2	all
+1956	Oxidative phosphorylation	COX4I2	all
+1957	Oxidative phosphorylation	COX4I1	all
+1958	Oxidative phosphorylation	COX5A	all
+1959	Oxidative phosphorylation	COX5B	all
+1960	Oxidative phosphorylation	COX6A1	all
+1961	Oxidative phosphorylation	COX6A2	all
+1962	Oxidative phosphorylation	COX6B1	all
+1963	Oxidative phosphorylation	COX6B2	all
+1964	Oxidative phosphorylation	COX6C	all
+1965	Oxidative phosphorylation	COX7A1	all
+1966	Oxidative phosphorylation	COX7A2	all
+1967	Oxidative phosphorylation	COX7A2L	all
+1968	Oxidative phosphorylation	COX7B	all
+1969	Oxidative phosphorylation	COX7B2	all
+1970	Oxidative phosphorylation	COX7C	all
+1971	Oxidative phosphorylation	COX8C	all
+1972	Oxidative phosphorylation	COX8A	all
+1973	Oxidative phosphorylation	COX11	all
+1974	Oxidative phosphorylation	COX15	all
+1975	Oxidative phosphorylation	COX17	all
+1976	Oxidative phosphorylation	ATP5F1A	all
+1977	Oxidative phosphorylation	ATP5F1B	all
+1978	Oxidative phosphorylation	ATP5F1C	all
+1979	Oxidative phosphorylation	ATP5F1D	all
+1980	Oxidative phosphorylation	ATP5F1E	all
+1981	Oxidative phosphorylation	ATP5PO	all
+1982	Oxidative phosphorylation	ATP6	all
+1983	Oxidative phosphorylation	ATP5PB	all
+1984	Oxidative phosphorylation	ATP5MC1	all
+1985	Oxidative phosphorylation	ATP5MC2	all
+1986	Oxidative phosphorylation	ATP5MC3	all
+1987	Oxidative phosphorylation	ATP5PD	all
+1988	Oxidative phosphorylation	ATP5ME	all
+1989	Oxidative phosphorylation	ATP5MF	all
+1990	Oxidative phosphorylation	ATP5MG	all
+1991	Oxidative phosphorylation	ATP5PF	all
+1992	Oxidative phosphorylation	ATP8	all
+1993	Oxidative phosphorylation	ATP6V1A	all
+1994	Oxidative phosphorylation	ATP6V1B1	all
+1995	Oxidative phosphorylation	ATP6V1B2	all
+1996	Oxidative phosphorylation	ATP6V1C2	all
+1997	Oxidative phosphorylation	ATP6V1C1	all
+1998	Oxidative phosphorylation	ATP6V1D	all
+1999	Oxidative phosphorylation	ATP6V1E2	all
+2000	Oxidative phosphorylation	ATP6V1E1	all
+2001	Oxidative phosphorylation	ATP6V1F	all
+2002	Oxidative phosphorylation	ATP6V1G1	all
+2003	Oxidative phosphorylation	ATP6V1G3	all
+2004	Oxidative phosphorylation	ATP6V1G2	all
+2005	Oxidative phosphorylation	ATP6V1H	all
+2006	Oxidative phosphorylation	TCIRG1	all
+2007	Oxidative phosphorylation	ATP6V0A2	all
+2008	Oxidative phosphorylation	ATP6V0A4	all
+2009	Oxidative phosphorylation	ATP6V0A1	all
+2010	Oxidative phosphorylation	ATP6V0C	all
+2011	Oxidative phosphorylation	ATP6V0B	all
+2012	Oxidative phosphorylation	ATP6V0D1	all
+2013	Oxidative phosphorylation	ATP6V0D2	all
+2014	Oxidative phosphorylation	ATP6V0E1	all
+2015	Oxidative phosphorylation	ATP6V0E2	all
+2016	Oxidative phosphorylation	ATP6AP1	all
+2017	Oxidative phosphorylation	ATP4A	all
+2018	Oxidative phosphorylation	ATP4B	all
+2019	Oxidative phosphorylation	ATP12A	all
+2020	Oxidative phosphorylation	PPA2	all
+2021	Oxidative phosphorylation	PPA1	all
+2022	Oxidative phosphorylation	LHPP	all

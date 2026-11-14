@@ -1,0 +1,7 @@
+file	source_database	intermeta_curator	lineage_evidence	sha256
+geneset-all.txt	KEGG	Zeheng Tan	Author-selected, organized, and merged energy-metabolism pathways; exact release and build script pending	5c11db0d40107e745bfe0322a418211bbaa98e819d24eed13f0ab84b3e15ffb3
+geneset-amino.txt	KEGG	Zeheng Tan	Author-curated amino-acid-metabolism subset; exact release and build script pending	bc63316b856902ac36af18306d2ad40372524b5862a69c5c6f068ef4ec549b63
+geneset-glucose.txt	KEGG	Zeheng Tan	Author-curated glucose-metabolism subset; exact release and build script pending	19ebccdde496744901e73fdc7f2ae9b2fe9f715ccb6752ddcbad241626f733f1
+geneset-kegg.txt	KEGG		Local comparison is content-equivalent to scMetabolism 0.2.1 KEGG_metabolism_nc.gmt after pathway-label and entry-punctuation conversion; immediate route unconfirmed	7d149a24e762c563785f8d1361f0ba068b5071e47a0dcaa4104a6ea6c6faf592
+geneset-lipid.txt	KEGG	Zeheng Tan	Author-curated lipid-metabolism subset; exact release and build script pending	be458f9fd7fc867a3682b20a3974005dd8a84e2648daed65697ae326f33d8d14
+geneset-reactome.txt	Reactome (possible MSigDB distribution layer)		Local comparison is content-equivalent to scMetabolism 0.2.1 REACTOME_metabolism.gmt after pathway-label and entry-punctuation conversion; GMT card URLs point to MSigDB; immediate route and version unconfirmed	1c4ce1707ff15fd6258c2186704467c642ad838f769072172125d97b29491af0
