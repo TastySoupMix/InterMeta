@@ -1,4 +1,4 @@
-# InterMeta
+# InterMeta 1.1.4
 
 `InterMeta` infers directional prognostic interactions between metabolic
 pathways from bulk transcriptomic profiles and survival data. It adapts the
@@ -38,34 +38,26 @@ method and the data sources relevant to the analysis. See
 [the example guide](inst/doc/getting-started.md) and
 [AI interpretation limits](inst/doc/ai-workflow.md).
 
-## InterMeta 1.1.4: one analysis mode
+## Analysis overview
 
-TimiGP-legacy is the only supported analysis mode. Version 1.1.4 removes the
-alternative execution branches, makes legacy defaults explicit, and aligns
-the bundled PRAD score and synthetic references with this mode. Three internal
-resamples and the optional AI workflow remain supported. Existing AI archives
-can still be inspected with their original provenance. This is a release
-candidate; the historical 1.1.3 artifacts remain the record of prior runs.
+InterMeta 1.1.4 supports one analysis mode, `TimiGP-legacy`. The workflow
+includes gene-pair Cox analysis, pathway-interaction enrichment, permutation
+FDR, signed pathway scores, and network and chord plots. Internal resampling
+defaults to three 80% subsets. The bundled TCGA-PRAD and synthetic examples
+use this analysis mode.
 
-## InterMeta 1.1.3: pre-release provenance and attribution
+An optional PubMed/AI workflow supports literature screening, synthesis,
+checkpoint recovery, offline replay, and local report and figure generation.
 
-Version 1.1.3 adds pre-release authorship, licensing, and data-provenance
-records without changing statistical code or the four bundled PRAD analysis
-objects. It is not the final public release. It retains the recoverable
-package-native AI layer introduced in 1.1.0 and the corrected
-Top-K stability summaries delivered in 1.1.1. It does not change the
-statistical workflow, PubMed queries or limits, screening or synthesis prompts,
-model defaults, evidence validation, report schema, or figure semantics.
-Completed 1.1.1 results therefore remain valid and do not need another paid
-model run.
+## Optional PubMed/AI workflow
 
 For a new workflow, the default PubMed cache is saved in fixed configuration
 as the relative path `pubmed_cache`, anchored to the workflow run's parent
 directory. Synthesis checkpoint references, replay-source metadata, and the
 complete example's human-readable AI-run summary are likewise stored relative
 to their documented anchors. This allows a workflow tree to be moved between
-machines without retaining obsolete server paths. If a relocated legacy or
-current run stopped before PubMed retrieval completed,
+machines without retaining obsolete server paths. If a relocated run
+stopped before PubMed retrieval completed,
 `InterMetaAIResume(pubmed_cache_dir = ...)` can provide an operational cache
 location without rewriting the fixed configuration or changing its hash. The
 direct synthesis aggregate resolves `calls/...` from its `outdir`; the workflow
@@ -100,14 +92,13 @@ improve traceability; they do not turn an AI summary into proof of causality,
 pathway activity, clinical utility, or independent validation of the InterMeta
 score direction.
 
-A PubMed stage that reaches one or more configured per-query limits is now
+A PubMed stage that reaches one or more configured per-query limits is
 marked `complete_with_truncation`. It remains usable as an explicitly bounded
 evidence snapshot, but must not be described as an exhaustive search. In
 `biology_exploration`, the authoritative result tables are
-`exploration_summary.tsv` and `exploration_findings.tsv`; legacy prognostic
+`exploration_summary.tsv` and `exploration_findings.tsv`; prognostic
 compatibility tables are labelled `not_applicable` and do not signal model
-failure or insufficient evidence. The added semantics metadata is report
-schema 4.3.0; major-version-4 figures remain backward compatible.
+failure or insufficient evidence. Reports use schema 4.3.0.
 
 The following example starts from the package's public, precomputed TCGA-PRAD
 pathway score. Replace only the context labels and score object when adapting it
@@ -167,8 +158,7 @@ Only after moving an unfinished run whose cache is not the conventional
 sibling directory, add
 `pubmed_cache_dir = "/new/path/to/pubmed_cache"` to that call. It is an
 operational override and is not saved into fixed workflow configuration. The
-legacy format cannot distinguish the rare case where a custom cache was also
-named exactly `pubmed_cache`; pass the override explicitly in that case.
+override is also useful when the saved cache path is ambiguous after relocation.
 
 If status shows a failed or delivery-uncertain model attempt, inspect the saved
 stage and provider status first. A new potentially billable attempt requires the
@@ -194,38 +184,26 @@ response without a provider request. Newly published workflow files are kept
 under `06_report/outputs/attempt-NNN` and
 `07_figure/outputs/attempt-NNN`; earlier attempts remain auditable.
 
-## Earlier 1.0.x evidence workflow
+### Evidence interpretation and validation
 
-Version 1.0.1 was a maintenance release of the 1.0.0 tumor-biology exploration
-implementation. Statistical, retrieval, model-selection and provider-visible
-request logic remain unchanged. The versioned server entry can revalidate
-compatible hash-bound 1.0.0 candidates without another provider request, and
-the separately distributed figure helper defaults to an ASCII compact-English
-article mode while retaining explicit full-text rendering. Current
-report schema 4.2.0 added finding-level quote quarantine and
-pathway-level `Quote.Grounding`, records the AI contract and validation
-revisions in provenance, and retains the 16-file report bundle. The
-provider-visible 1.0.x contract revision was `20260905-quote-replay-v1`, while
-the independent validation revision `20260906-quote-quarantine-v1` prevents a
-stale installed or in-memory build from being accepted. Existing
-reports keep their original generation version and assessment provenance;
-changing the package version does not regenerate a report or turn an assistant
-audit into a model API response. The delivered 0.10.0 report remains schema
-4.0.0.
+Reports include finding-level quote quarantine, pathway-level
+`Quote.Grounding`, AI contract and validation revisions in provenance, and a
+16-file report bundle. Saved reports retain their original generation version
+and assessment provenance; changing the installed package does not regenerate
+a report.
 
 The default post-analysis purpose is `biology_exploration`.
 Disease/pathway retrieval is not gated by the statistical endpoint. Findings
 describe functional experiments, omics/bioinformatics and patient studies as
 parallel, non-exclusive sources, with biological processes, model context,
-component/pathway scope, null results and testable hypotheses. Schema 4 adds
-`exploration_summary.tsv` and `exploration_findings.tsv` (16 report files).
+component/pathway scope, null results and testable hypotheses. The report
+includes `exploration_summary.tsv` and `exploration_findings.tsv`.
 New model calls request at most five non-redundant findings per pathway while
 retaining the larger selected literature set as provider-visible evidence.
 Each non-empty exploration quote is tested as one contiguous verbatim excerpt
 and must contain at least 20 Unicode letter-or-number characters to qualify.
-The provider-visible legacy prompt still requests eight characters so the
-saved trial05 request contract remains replay-compatible; the independent
-local validator deliberately applies the stricter 20-character rule.
+The provider-visible prompt requests eight characters; the independent local
+validator applies the stricter 20-character rule.
 Validation first collapses whitespace, then permits only documented Unicode
 typography equivalents. A non-contiguous or otherwise source-mismatched quote is
 not repaired or fuzzy-matched: its model text remains in the audit row with
@@ -250,33 +228,20 @@ fuzzy matching is used.
 Unique-PMID counts are not quality scores or independent-cohort counts.
 Explicit `purpose = "prognostic_validation"` retains the endpoint-specific mode.
 
-Version 0.9.0 added pathway-level biological syntheses, distinct from strict
-endpoint-specific prognostic consistency. Mechanism findings retain their
+Pathway-level biological syntheses are distinct from strict endpoint-specific
+prognostic consistency. Mechanism findings retain their
 supporting abstracts, disease applicability, pathway/component scope, and
 contrary or null results; they cannot establish pathway activation or validate
-the sign of a gene-pair network score. Legacy reports without these assessments
+the sign of a gene-pair network score. Reports without these assessments
 remain not assessed. Model syntheses require human scientific review.
 
-Version 0.8.0 added selectable model services to the optional post-analysis
-PubMed evidence layer: DeepSeek, OpenAI, Anthropic (Claude), Google (Gemini),
-Alibaba (Qwen), and Moonshot (Kimi). Each user provides their own credentials;
-no API key or shared account is bundled. Endpoint-aware evidence grading and
-separately labelled component retrieval introduced in 0.7.0 remain in force.
+The optional PubMed evidence layer supports DeepSeek, OpenAI, Anthropic
+(Claude), Google (Gemini), Alibaba (Qwen), and Moonshot (Kimi). Each user
+provides their own credentials; no API key or shared account is bundled.
 It deterministically selects the Top 5 unfavorable and/or favorable pathways,
-keeps patient-level inputs out of model payloads, validates every model-cited
-PMID against retrieved records, and publishes a traceable report bundle. The
-underlying statistical workflow is unchanged. Version 0.5.1 changed the
-`InterMetaStability()` gene-pair default to exploratory `PV < 0.05`, while
-explicit `pair_condition = "QV"` remains available for adjusted sensitivity
-analysis. The package retains the verified
-`"TimiGP-legacy"` profile added in 0.5.0, the full-interaction pathway chord,
-the gene-pair chord for one
-selected pathway interaction, reference-aligned top-pathway plots, and the
-full-sample-first server workflow followed by adjustable internal resampling.
-The package includes compact pathway-pair counting, validated checkpoints,
-per-run error isolation, pathway and interaction stability summaries, strict
-input validation, a synthetic workflow check, and a real TCGA-PRAD example
-with reference results and input fingerprints.
+keeps patient-level inputs out of model payloads, validates every model-cited PMID against
+retrieved records, and publishes a traceable report bundle. Endpoint-aware
+evidence grading and separately labelled component retrieval are available.
 
 ## Installation
 
@@ -313,15 +278,14 @@ remotes::install_github(
 A downloaded source folder can also be installed with
 `remotes::install_local("/path/to/InterMeta")`.
 
-The expected package version for this snapshot is `1.1.4`. The internal
-two-stage workflow/checkpoint schema remains backward compatible with 1.1.0.
+The expected package version is `1.1.4`.
 
 ## License, authorship, and upstream code
 
 The package code is distributed under GPL-3; the complete license text is in
-[COPYING](COPYING). Zeheng Tan is the package author and maintainer for this
-pre-release snapshot. The final manuscript author order and affiliations will
-be added when confirmed and should not be inferred from the software metadata.
+[COPYING](COPYING). Zeheng Tan is the package author and maintainer. The final
+manuscript author order and affiliations will be added when confirmed and
+should not be inferred from the software metadata.
 
 InterMeta is a metabolic-pathway extension of TimiGP. Portions of
 `R/Chord.R`, `R/Cox.R`, and `R/InterMeta.R` were adapted from the
@@ -342,13 +306,12 @@ separately in
 
 ## Choosing an AI model (optional)
 
-The orchestrated workflow introduced in 1.1.2 and retained in 1.1.3 uses
-DeepSeek by default. A custom
+The orchestrated workflow uses DeepSeek by default. A custom
 provider created below can instead be passed as `provider` to
 `InterMetaAIWorkflow()` and must be passed again when resuming a model stage.
 The following lower-level sequence remains useful for inspecting a deterministic
 query plan, frozen PubMed evidence, or the evidence-only report skeleton; it is
-not a substitute for the new screening-then-synthesis workflow.
+not a substitute for the screening-then-synthesis workflow.
 
 After constructing an aggregate `context`:
 
@@ -400,7 +363,7 @@ by the service. Mocked protocol tests do not establish live account access.
 
 ## Bundled Metabolic Gene Sets
 
-Six gene sets are retained in this pre-release working snapshot:
+InterMeta 1.1.4 includes six gene sets:
 
 | Key | Scope | Provenance |
 | --- | --- | --- |
@@ -500,7 +463,7 @@ subset used by the examples:
 - a compact migrated enrichment result, its 50-row TimiGP-legacy score table,
   and SHA-256 provenance fingerprints.
 
-Load the real input data and migrated results directly:
+Load the real input data and precomputed results directly:
 
 ```r
 data("InterMetaPRADInfo")
@@ -554,7 +517,7 @@ switches to `TRUE` only after inspecting the saved state and deliberately
 authorizing the relevant request. API credentials are read only from named
 environment variables and are never stored in the script or checkpoints.
 
-The migrated historical enrichment used unadjusted Cox `PV < 0.05` and is
+The bundled reference enrichment used unadjusted Cox `PV < 0.05` and is
 retained for exact continuity with the original analysis. The installed
 complete PRAD example selects `analysis_profile = "TimiGP-legacy"` and runs the
 same 100-permutation step for the full cohort and all three internal
@@ -564,12 +527,10 @@ analysis profile or permutation scheme.
 
 ## One analysis mode
 
-From 1.1.4, `TimiGP-legacy` is the only analysis mode. All statistical
+In InterMeta 1.1.4, `TimiGP-legacy` is the only analysis mode. All statistical
 functions use it when `analysis_profile` is omitted. The argument remains
 available for explicit provenance, but accepts only the exact value
-`"TimiGP-legacy"`; the former `"InterMeta"` value raises a migration error.
-Historical runs retain their original metadata and should be reproduced with
-their original package version, not relabelled.
+`"TimiGP-legacy"`.
 
 Defaults are `log = TRUE`, gene-wise median centering, the rounded gene-pair
 prevalence threshold, logical-factor Cox fitting, legacy annotation permutation,
@@ -579,7 +540,7 @@ parameters remain configurable. In particular, select `log` according to the
 input scale; choosing this mode does not establish that another log transform
 is appropriate for every cohort. Internal resampling and AI remain available.
 
-For the bundled TCGA-PRAD inputs, the compatibility profile restores 861 genes
+For the bundled TCGA-PRAD inputs, this mode yields 861 genes
 and 370,230 gene pairs in the full cohort, selects 101,323 pairs at
 `PV < 0.05`, returns all 2,652 enrichment rows, and produces 50 scored
 pathways. Pathways, order, ranks, groups, and scores agree with the original
@@ -591,14 +552,13 @@ score identities plus numeric columns with the bundled migrated reference at
 `01_full_sample/tables/parity_checks.tsv` and stops before resampling if the
 check fails. `Permutation.FDR` is included in the numeric comparison.
 
-For version 1.1.3, a fresh run with checkpoint reuse disabled refitted all
-370,230 Cox models, regenerated enrichment and the 100-permutation FDR, passed
-all 12 full-sample parity checks, and completed all three prespecified
-resamples. The bundled `Permutation.FDR` column was republished from that fresh
-run. The previous historical enrichment result is retained only as a numerical
-parity reference, not as the source of the published FDR column. The complete
-run identifier, package/script/output hashes, and the original PCaDB input
-fingerprints are recorded in `InterMetaPRADProvenance`.
+The bundled `Permutation.FDR` column comes from a full rerun with checkpoint
+reuse disabled: all 370,230 Cox models were refitted, enrichment and the
+100-permutation FDR were regenerated, all 12 full-sample parity checks passed,
+and all three prespecified resamples completed. The original enrichment is
+retained as a numerical parity reference. The generating package version,
+run identifier, package/script/output hashes, and original PCaDB input
+fingerprints remain recorded in `InterMetaPRADProvenance`.
 
 The bundled `geneset-all` file contains 2,022 original marker slots and 1,999
 unique pathway-gene rows. Ordinary preprocessing and observed enrichment use
@@ -607,14 +567,6 @@ and only then formed unique pathway-pair annotations. InterMeta preserves those
 raw slots internally for its sole `"TimiGP-legacy"` mode. This ordering is required to reproduce the
 original PRAD `Permutation.FDR` values and their 104/50 interactions below
 0.2/0.05.
-
-The 0.4.0 run differed because it kept 1,260 genes, analyzed 792,851 pairs,
-selected `QV` rather than `PV`, used event-stratified seeds 1--3, and ranked
-absolute differences while retaining neutral pathways. These choices alter
-the fitted Cox universe and the patients in each resample. Consequently, a
-0.4.0 result cannot be made fully equivalent by changing a cutoff or redrawing
-its plots after completion; exact recovery requires a new run with
-`analysis_profile = "TimiGP-legacy"`.
 
 ## Input Requirements
 
@@ -689,33 +641,32 @@ preprocessing, gene-pair generation, Cox, permutation FDR, and pathway scoring,
 and select Cox pairs by `PV < 0.05`. The installed complete PRAD example wires
 these choices together to avoid mixing profiles accidentally.
 
-## Optional endpoint-specific validation (legacy mode)
+## Optional endpoint-specific validation
 
-### Clinical assessment fields introduced in schema 2 (InterMeta 0.7.0)
+### Clinical assessment fields
 
 This entire section describes the optional `purpose = "prognostic_validation"`
 workflow. The current default is `biology_exploration`, documented at the top
 of this README. The explicit purpose arguments below retain the clinical
-workflow; current reports use schema 4 and contain 16 bundle files. The 12-file
-layout belongs only to historical 0.7.0 reports.
+workflow; reports use schema 4.3.0 and contain 16 bundle files.
 
-`Literature.Consistency` now assesses the cited subset's endpoint-comparable
+`Literature.Consistency` assesses the cited subset's endpoint-comparable
 prognostic direction, not a generic biological support vote. Only direct human
 prognostic evidence with a matching endpoint, a verified abstract excerpt, and
 an explicitly same/opposite direction contributes. Incidence, preclinical/tissue
 studies, reviews and indirect pathway enrichment provide context but cannot
 alone validate prognosis. Null associations are never opposing directions.
-Unknown endpoints and legacy responses without assessments remain insufficient.
+Unknown endpoints and responses without assessments remain insufficient.
 Original model labels/narratives are retained in unendorsed `Model.*` audit
 columns; biological context is presented separately. Human review of studies,
 exposures, endpoint comparability and cohort overlap remains essential.
 
-Providers now return an `assessments` array per pathway: `pmid`, `evidence_type`,
+Providers return an `assessments` array per pathway: `pmid`, `evidence_type`,
 `study_endpoint`, `endpoint_match`, `direction`, `directness`, `abstract_quote`.
 The runtime schema supplies allowed enums. Matching a quote verifies grounding,
 not semantic correctness. These fields are retained in `assessments.tsv`.
 
-Query version 2 adds OXPHOS/lysine-catabolism synonyms and separately labelled
+PubMed queries include OXPHOS/lysine-catabolism synonyms and separately labelled
 component layers (e.g. taurine/hypotaurine). Components are retrieval expansions,
 not strict synonyms of the whole pathway. BCR queries expand biochemical
 recurrence/relapse. `include_components = FALSE` disables component layers
@@ -862,9 +813,9 @@ decisions.
 directly from an enrichment table. By default it draws every interaction
 meeting `condition < cutoff`. The default classic layout keeps sectors
 proportional to their link weights, uses fixed labels (`label_cex = 0.7`), and
-sets the circular canvas extent to 1.45. Stable pathway colors require no
-legacy `dataset`, `geneset`, or manual color argument. The server workflow and
-example below keep a 14 by 14 inch PDF page to give long labels room.
+sets the circular canvas extent to 1.45. Pathway colors are assigned
+automatically. The server workflow and example below keep a 14 by 14 inch PDF
+page to give long labels room.
 
 ```r
 pdf("pathway_chord.pdf", width = 14, height = 14, useDingbats = FALSE)
@@ -887,9 +838,8 @@ print(chord)
 
 Dense-layout adjustments remain available by explicitly setting
 `adaptive_labels = TRUE`, `canvas_limit = 1.65`, and
-`sector_floor_quantile = 0.75`. Restoring the classic default changes only the
-layout; the selected interactions, weights, palette, arrows, and analysis
-results are unchanged. The separate `InterMetaGeneChord()` design is unchanged.
+`sector_floor_quantile = 0.75`. These options adjust the layout while preserving
+the selected interactions, weights, palette, arrows, and analysis results.
 
 Use `select = c(...)` with enrichment `Index` values for an exact edge set.
 Use `max_edges = 20` only when an explicitly reduced diagram is desired.
@@ -898,9 +848,8 @@ pathways; the function safely crops them to the pathways actually drawn.
 Default colors are stable per pathway across different selections; a named
 `color` mapping can still be reused when a specific palette is required.
 
-The legacy package used a separate `TimiGeneChord()` function for the marker
-pairs inside one selected cell interaction. Its InterMeta counterpart expands
-the retained metabolic gene pairs inside one selected pathway interaction:
+`InterMetaGeneChord()` displays the retained metabolic gene pairs inside one
+selected pathway interaction:
 
 ```r
 gene_chord_candidates <- which(
@@ -940,9 +889,8 @@ dotplot <- InterMetaDotplot(
 score_bar <- InterMetaPathwayScoreBar(score, top = 5)
 ```
 
-`InterMetaPathwayPair()` now returns a compact object rather than a
-multi-million-row data frame. `InterMetaEnrich()` uses matrix counting and can
-still read expanded pathway-pair data frames made by version 0.1.
+`InterMetaPathwayPair()` returns a compact object, and `InterMetaEnrich()` uses
+matrix counting for pathway-pair enrichment.
 
 The package workflow defaults to `PV`. Because `PV` is
 unadjusted at the gene-pair stage, report this choice explicitly and consider
@@ -965,11 +913,11 @@ enrich <- InterMetaPermFDR(
 
 Permutation iterations are parallelized at the outer iteration level. The
 compact annotation avoids rebuilding millions of text rows in every
-permutation. In the legacy profile the original iteration seeds `1:niter`,
+permutation. The `TimiGP-legacy` mode uses the original iteration seeds `1:niter`,
 rank denominator, raw marker-slot shuffle-before-de-duplication order, and
-non-monotone FDR output are restored; the `seed` argument therefore does not
-alter the historical sequence. `InterMetaLoadGeneset()` continues to print and
-return the unique pathway-gene table; its raw multiplicity is retained as
+non-monotone FDR output; the `seed` argument therefore does not
+alter this sequence. `InterMetaLoadGeneset()` prints and
+returns the unique pathway-gene table; its raw multiplicity is retained as
 internal provenance only for compatible legacy permutation and caching.
 
 ## Resampling Stability
@@ -1011,7 +959,7 @@ stability <- InterMetaStability(
 ```
 
 The same workflow can omit `analysis_profile`, `seeds`, and `stratify_event`
-because the legacy settings are now the public defaults. Set
+because these settings are the public defaults. Set
 `run_permutation = TRUE, permutation_niter = 100` when permutation FDR is needed.
 
 This uses `PV < 0.05`, seeds 20260701--20260703, unstratified sampling,
@@ -1058,10 +1006,9 @@ servers; the Windows fallback preserves `.previous` and restores it on the
 next write if replacement was interrupted. Use one `InterMetaStability()`
 writer per `outdir`; concurrent calls must use different output directories.
 
-Plot the score differences across resamples in the same form as the historical
-internal-sampling reference: pathways must appear in every run with a fully
-consistent favorable or unfavorable direction; bars show mean Difference and
-error bars show its sample standard deviation.
+Plot the score differences across resamples: pathways must appear in every run
+with a fully consistent favorable or unfavorable direction; bars show mean
+Difference and error bars show its sample standard deviation.
 
 ```r
 stability_plot <- InterMetaStabilityScoreBar(
