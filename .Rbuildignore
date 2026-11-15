@@ -4,3 +4,4 @@ notebook*
 assets*
 ^data-raw$
 ^CITATION\.cff$
+^docs$
